@@ -10,7 +10,7 @@ async function Update() {
     for (let i = 0; i < Stations.length; i++) {
         const S = Stations[i];
 
-        File += `${i + 1}. [${S.title}](${S.shareUrl})  \n`
+        File += `${i + 1}. [${S.title}](${S.shareUrl})${S.new ? ' (NEW)' : ''}  \n`
         File += `${S.tooltip}  \n`
         File += "Потоки:\n"
         File += `[64](${S.stream_64})\n`
