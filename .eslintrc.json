@@ -1,0 +1,22 @@
+{
+    "env": {
+        "es2020": true,
+        "node": true
+    },
+    "parser": "@typescript-eslint/parser",
+    "plugins": [
+        "@typescript-eslint"
+    ],
+    "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/recommended"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    },
+    "rules": {
+        "@typescript-eslint/type-annotation-spacing": "warn",
+        "space-in-parens": "warn"
+    }
+}
