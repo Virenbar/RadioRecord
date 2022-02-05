@@ -6,7 +6,7 @@ on:
   - cron: '0 0 * * 0,2,5'
 
 jobs:
-  update:
+  Update:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,8 +24,8 @@ jobs:
     
     - name: Commit
       run: |
-        git config user.name github-actions
-        git config user.email github-actions@github.com
+        git config user.name action
+        git config user.email action@github.com
         git add .
         git commit -m "Stations Auto-Update (`date`)" -a || true
         git push
