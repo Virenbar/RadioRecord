@@ -1,3 +1,7 @@
-# [Список станций](https://github.com/Virenbar/RadioRecord/blob/master/Stations.md#станции) радио Record
+# Список радиоканалов радио Record
 
-Автоматически обновляемый список станций радио Record
+Автоматически обновляемый список радиоканалов радио Record
+
+* [Страница с ссылками на потоки](https://virenbar.github.io/RadioRecord/)
+* [Плейлисты для аудиоплееров](playlists)
+* [Список в MarkDown](Stations.md#станции)
