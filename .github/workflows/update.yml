@@ -1,31 +1,50 @@
-name: Update stations
+name: Channels CI
 
 on:
   workflow_dispatch:
+  push:
+    branches:    
+      - 'master'
   schedule:
-  - cron: '0 0 * * 0,2,5'
+  - cron: '0 0 * * 0,2,4'
 
 jobs:
-  Update:
+  update:
+    name: Update channels
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout
+      uses: actions/checkout@v2
+
     - name: Use Node.js 16.x
       uses: actions/setup-node@v2
       with:
         node-version: 16.x
         cache: 'npm'
 
-    - name: Update stations
+    - name: Build & Run
       run: |
         npm ci
-        npm run start:dev   
+        npm run start:dev
     
-    - name: Commit
+    - name: Commit changes
       run: |
-        git config user.name action
-        git config user.email action@github.com
-        git add .
-        git commit -m "Stations Auto-Update (`date`)" -a || true
-        git push
+        if [[ `git status --porcelain` ]]; then
+          echo "Commiting changes."
+          echo "CHANGED=true" >> $GITHUB_ENV
+          git config user.name action
+          git config user.email action@github.com
+          git add .
+          git commit -m "Stations Auto-Update (`date`)" -a || true
+          git push
+        else
+          echo "No changes."
+          echo "CHANGED=false" >> $GITHUB_ENV
+        fi
+    
+    - name: Deploy page
+      if: env.CHANGED == 'true'
+      uses: JamesIves/github-pages-deploy-action@v4.2.5
+      with:
+        branch: gh-pages
+        folder: pages
