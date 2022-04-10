@@ -14,28 +14,28 @@
 [128](https://radiorecord.hostingradio.ru/200096.aacp)
 [320](https://radiorecord.hostingradio.ru/200096.aacp)
 [HLS](https://hls-01-radiorecord.hostingradio.ru/record-2000/playlist.m3u8)
-3. [UK Garage](https://radiorecord.ru/station/uk-garage) (NEW)  
+3. [UK Garage](https://radiorecord.ru/station/uk-garage)  
 Атмосфера клубов восточного Лондона конца 90-х  
 Потоки:
 [64](https://radiorecord.hostingradio.ru/ukgarage64.aacp)
 [128](https://radiorecord.hostingradio.ru/ukgarage96.aacp)
 [320](https://radiorecord.hostingradio.ru/ukgarage96.aacp)
 [HLS](https://hls-01-radiorecord.hostingradio.ru/record-ukgarage/playlist.m3u8)
-4. [TOP 100 EDM](https://radiorecord.ru/station/top-100-edm) (NEW)  
+4. [TOP 100 EDM](https://radiorecord.ru/station/top-100-edm)  
 Актуальный топ электронной музыки  
 Потоки:
 [64](https://radiorecord.hostingradio.ru/top100edm64.aacp)
 [128](https://radiorecord.hostingradio.ru/top100edm96.aacp)
 [320](https://radiorecord.hostingradio.ru/top100edm96.aacp)
 [HLS](https://hls-01-radiorecord.hostingradio.ru/record-top100edm/playlist.m3u8)
-5. [Live DJ-sets](https://radiorecord.ru/station/live-dj-sets) (NEW)  
+5. [Live DJ-sets](https://radiorecord.ru/station/live-dj-sets)  
 Лучшие живые сеты от звезд электронной сцены  
 Потоки:
 [64](https://radiorecord.hostingradio.ru/livedjsets64.aacp)
 [128](https://radiorecord.hostingradio.ru/livedjsets96.aacp)
 [320](https://radiorecord.hostingradio.ru/livedjsets96.aacp)
 [HLS](https://hls-01-radiorecord.hostingradio.ru/record-livedjsets/playlist.m3u8)
-6. [Phonk](https://radiorecord.ru/station/phonk) (NEW)  
+6. [Phonk](https://radiorecord.ru/station/phonk)  
 Атмосфера дрифта и уличных гонок   
 Потоки:
 [64](https://radiorecord.hostingradio.ru/phonk64.aacp)
