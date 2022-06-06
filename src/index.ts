@@ -2,8 +2,8 @@ import fetch from 'node-fetch';
 import fs from 'node:fs';
 
 async function Update() {
-    const R = await fetch("https://www.radiorecord.ru/api/stations/")
-    const API = await R.json() as API
+    const Responce = await fetch("https://www.radiorecord.ru/api/stations/")
+    const API = await Responce.json() as API
     const Stations = API.result.stations
 
     //MD builder
@@ -12,12 +12,11 @@ async function Update() {
         const S = Stations[i];
 
         File += `${i + 1}. [${S.title}](${S.shareUrl})${S.new ? ' (NEW)' : ''}  \n`
-        File += `${S.tooltip}  \n`
+        File += `${S.tooltip.trim()}  \n`
         File += "Потоки:\n"
-        File += `[64](${S.stream_64})\n`
-        File += `[128](${S.stream_128})\n`
-        File += `[320](${S.stream_320})\n`
-        File += `[HLS](${S.stream_hls})\n`
+        File += `[AAC 64](${S.stream_64})\n`
+        File += `[AAC 96](${S.stream_128})\n`
+        File += `[M3U](${S.stream_hls})\n`
     }
     fs.writeFileSync("Stations.md", File)
 
@@ -26,22 +25,24 @@ async function Update() {
     for (let i = 0; i < Stations.length; i++) {
         const S = Stations[i];
         HTML += `
-            <div class="s_border">
-                <div class="station">
-                    <div>
-                        <h4${S.new ? ' class="new"' : ''}>
-                            <a href="${S.shareUrl}">${i + 1}. ${S.title}</a>
-                        </h4>
-                        <p>${S.tooltip}</p>
-                    </div>
-                    <div class="streams">
-                        <a href="${S.stream_64}">64</a>
-                        <a href="${S.stream_128}">128</a>
-                        <a href="${S.stream_320}">320</a>
-                        <a href="${S.stream_hls}">HLS</a>
-                    </div>
+            <div class="station">
+                <div>
+                    <h4${S.new ? ' class="new"' : ''}>
+                        <a href="${S.shareUrl}">${i + 1}. ${S.title}</a>
+                        <img class="image" src="${S.icon_fill_colored}">
+                    </h4>
+                    <p>${S.tooltip}</p>
+                </div>
+                <div class="streams">
+                    <a href="${S.stream_64}">AAC 64</a>
+                    <a href="${S.stream_128}">AAC 96</a>
+                    <a href="${S.stream_hls}">M3U</a>
                 </div>
             </div>`
+    }
+    //Fake stations
+    for (let i = 0; i < 4; i++) {
+        HTML += '<div class="station fake"></div>'
     }
 
     if (!fs.existsSync("pages")) { fs.mkdirSync("pages",) }
@@ -53,9 +54,8 @@ async function Update() {
 
     //Playlist builders
     if (!fs.existsSync("playlists")) { fs.mkdirSync("playlists",) }
-    CreatePlaylist(Stations.map<PlaylistTrack>(S => ({ name: S.title, path: S.stream_64 })), "Radio Record (64)")
-    CreatePlaylist(Stations.map<PlaylistTrack>(S => ({ name: S.title, path: S.stream_128 })), "Radio Record (128)")
-    CreatePlaylist(Stations.map<PlaylistTrack>(S => ({ name: S.title, path: S.stream_320 })), "Radio Record (320)")
+    CreatePlaylist(Stations.map<PlaylistTrack>(S => ({ name: S.title, path: S.stream_64 })), "Radio Record (AAC 64)")
+    CreatePlaylist(Stations.map<PlaylistTrack>(S => ({ name: S.title, path: S.stream_128 })), "Radio Record (AAC 96)")
 }
 
 function CreatePlaylist(Tracks: PlaylistTrack[], name: string) {

@@ -35,7 +35,6 @@ main {
   flex: 1 1 auto;
   flex-direction: column;
   margin: 40px auto;
-  /* padding: 0 10px; */
   max-width: 80em;
   box-sizing: border-box;
 }
@@ -47,7 +46,7 @@ footer {
   background-color: var(--rr_background_a);
   color: var(--rr_foreground_a);
   padding: 8px;
-} 
+}
 
 p {
   margin: 0;
@@ -63,7 +62,7 @@ a:hover {
   color: var(--rr_primary_a);
 }
 
-.new:after {
+.new::after {
   content: "NEW";
   justify-self: center;
   background: #fc1139;
@@ -82,50 +81,45 @@ a:hover {
   justify-content: center;
 }
 
-.s_border {
-  flex: 1 1 0;
-  padding: 2px;
-  margin: 2px;
-  box-sizing: border-box;
-  border: solid 2px var(--rr_foreground_a);
-  border-radius: 10px;
-
-  display: flex;
-}
-.s_border.fake{
-  visibility: collapse;
-}
-
 .station {
+  flex: 1 1 0;
   position: relative;
-  padding: 5px;
+  padding: 5px 10px;
+  margin: 3px;
   box-sizing: border-box;
-  border-radius: 10px;
-  bottom: 0;
-  justify-content: space-between;
-  margin-bottom: auto;
   background-color: var(--rr_background_a);
-  height: 100%;
-  width: 100%;
-  min-width: 250px;
-
+  min-width: 300px;
+  border-radius: 10px;
+  border: 2px solid var(--rr_background);
+  outline: var(--rr_foreground_a) solid 2px; 
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
+}
+
+.station::before{
+  position: absolute;
+}
+
+.station.fake{
+  visibility: hidden;
 }
 
 .image {
   position: absolute;
   top: 0px;
   right: 0px;
+  /* bottom: 0px; */
+  /* left: 0px; */
   width: 40px;
 }
 
 .streams {
   margin-top: 5px;
-
   display: flex;
   justify-content: center;
 }
+
 .streams > a {
   align-content: center;
   color: var(--rr_foreground_a);
@@ -137,6 +131,7 @@ a:hover {
   line-height: 25px;
   font-size: 15px;
 }
+
 .streams > a:hover {
   color: var(--rr_foreground);
   background-color: var(--rr_primary);
