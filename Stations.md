@@ -6,18 +6,18 @@
 [AAC 64](https://radiorecord.hostingradio.ru/rr_main64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rr_main96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8)
-2. [Workout](https://radiorecord.ru/station/workout) (NEW)  
-Бит для спортивного тонуса  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/workout64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/workout96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-workout/playlist.m3u8)
-3. [Summer Lounge](https://radiorecord.ru/station/summerlounge) (NEW)  
+2. [Summer Lounge](https://radiorecord.ru/station/summerlounge) (NEW)  
 Летний чил в стиле Cafe del Mar  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/summerlounge64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/summerlounge96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-summerlounge/playlist.m3u8)
+3. [Workout](https://radiorecord.ru/station/workout) (NEW)  
+Бит для спортивного тонуса  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/workout64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/workout96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-workout/playlist.m3u8)
 4. [Reggae](https://radiorecord.ru/station/reggae) (NEW)  
 Танцевальный вайб с берегов Ямайки  
 Потоки:
@@ -444,18 +444,18 @@ Dance на минималках
 [AAC 64](https://radiorecord.hostingradio.ru/rave64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rave96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rave/playlist.m3u8)
-75. [Christmas Chill](https://radiorecord.ru/station/christmas-chill)  
-Downtempo-бит для тёплого новогоднего уюта  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/christmaschill64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/christmaschill96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-christmaschill/playlist.m3u8)
-76. [Jungle](https://radiorecord.ru/station/jungle)  
+75. [Jungle](https://radiorecord.ru/station/jungle)  
 История и современность jungle-музыки: DJ Hype, Shy FX, Ed Rush  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/jungle64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/jungle96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-jungle/playlist.m3u8)
+76. [Christmas Chill](https://radiorecord.ru/station/christmas-chill)  
+Downtempo-бит для тёплого новогоднего уюта  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/christmaschill64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/christmaschill96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-christmaschill/playlist.m3u8)
 77. [Complextro](https://radiorecord.ru/station/complextro)  
 Синтез house и dubstep  
 Потоки:

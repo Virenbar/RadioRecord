@@ -2,10 +2,10 @@
 #PLAYLIST:Radio Record (AAC 64)
 #EXTINF: -1,Record
 https://radiorecord.hostingradio.ru/rr_main64.aacp
-#EXTINF: -1,Workout
-https://radiorecord.hostingradio.ru/workout64.aacp
 #EXTINF: -1,Summer Lounge
 https://radiorecord.hostingradio.ru/summerlounge64.aacp
+#EXTINF: -1,Workout
+https://radiorecord.hostingradio.ru/workout64.aacp
 #EXTINF: -1,Reggae
 https://radiorecord.hostingradio.ru/reggae64.aacp
 #EXTINF: -1,UK Garage
@@ -148,10 +148,10 @@ https://radiorecord.hostingradio.ru/2step64.aacp
 https://radiorecord.hostingradio.ru/groovetribal64.aacp
 #EXTINF: -1,Rave FM
 https://radiorecord.hostingradio.ru/rave64.aacp
-#EXTINF: -1,Christmas Chill
-https://radiorecord.hostingradio.ru/christmaschill64.aacp
 #EXTINF: -1,Jungle
 https://radiorecord.hostingradio.ru/jungle64.aacp
+#EXTINF: -1,Christmas Chill
+https://radiorecord.hostingradio.ru/christmaschill64.aacp
 #EXTINF: -1,Complextro
 https://radiorecord.hostingradio.ru/complextro64.aacp
 #EXTINF: -1,Гоп FM

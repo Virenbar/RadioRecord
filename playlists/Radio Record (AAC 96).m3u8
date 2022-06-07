@@ -2,10 +2,10 @@
 #PLAYLIST:Radio Record (AAC 96)
 #EXTINF: -1,Record
 https://radiorecord.hostingradio.ru/rr_main96.aacp
-#EXTINF: -1,Workout
-https://radiorecord.hostingradio.ru/workout96.aacp
 #EXTINF: -1,Summer Lounge
 https://radiorecord.hostingradio.ru/summerlounge96.aacp
+#EXTINF: -1,Workout
+https://radiorecord.hostingradio.ru/workout96.aacp
 #EXTINF: -1,Reggae
 https://radiorecord.hostingradio.ru/reggae96.aacp
 #EXTINF: -1,UK Garage
@@ -148,10 +148,10 @@ https://radiorecord.hostingradio.ru/2step96.aacp
 https://radiorecord.hostingradio.ru/groovetribal96.aacp
 #EXTINF: -1,Rave FM
 https://radiorecord.hostingradio.ru/rave96.aacp
-#EXTINF: -1,Christmas Chill
-https://radiorecord.hostingradio.ru/christmaschill96.aacp
 #EXTINF: -1,Jungle
 https://radiorecord.hostingradio.ru/jungle96.aacp
+#EXTINF: -1,Christmas Chill
+https://radiorecord.hostingradio.ru/christmaschill96.aacp
 #EXTINF: -1,Complextro
 https://radiorecord.hostingradio.ru/complextro96.aacp
 #EXTINF: -1,Гоп FM
