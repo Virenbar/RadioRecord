@@ -24,42 +24,42 @@
 [AAC 64](https://radiorecord.hostingradio.ru/reggae64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/reggae96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-reggae/playlist.m3u8)
-5. [UK Garage](https://radiorecord.ru/station/uk-garage)  
-Атмосфера клубов восточного Лондона конца 90-х  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/ukgarage64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/ukgarage96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-ukgarage/playlist.m3u8)
-6. [Summer Dance](https://radiorecord.ru/station/summer-dance)  
-Летние клубные хиты 24/7  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/summerparty64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/summerparty96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-summerparty/playlist.m3u8)
-7. [TOP 100 EDM](https://radiorecord.ru/station/top-100-edm)  
-Актуальный топ электронной музыки  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/top100edm64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/top100edm96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-top100edm/playlist.m3u8)
-8. [Live DJ-sets](https://radiorecord.ru/station/live-dj-sets)  
-Лучшие живые сеты от звезд электронной сцены  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/livedjsets64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/livedjsets96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-livedjsets/playlist.m3u8)
-9. [Phonk](https://radiorecord.ru/station/phonk)  
-Атмосфера дрифта и уличных гонок  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/phonk64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/phonk96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-phonk/playlist.m3u8)
-10. [Рекорд Нулевых](https://radiorecord.ru/station/record00)  
+5. [Рекорд Нулевых](https://radiorecord.ru/station/record00)  
 Хиты танцполов нулевых: ATB, Benassi, Klubbheads и другие  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/200064.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/200096.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-2000/playlist.m3u8)
+6. [UK Garage](https://radiorecord.ru/station/uk-garage)  
+Атмосфера клубов восточного Лондона конца 90-х  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/ukgarage64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/ukgarage96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-ukgarage/playlist.m3u8)
+7. [Summer Dance](https://radiorecord.ru/station/summer-dance)  
+Летние клубные хиты 24/7  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/summerparty64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/summerparty96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-summerparty/playlist.m3u8)
+8. [TOP 100 EDM](https://radiorecord.ru/station/top-100-edm)  
+Актуальный топ электронной музыки  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/top100edm64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/top100edm96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-top100edm/playlist.m3u8)
+9. [Live DJ-sets](https://radiorecord.ru/station/live-dj-sets)  
+Лучшие живые сеты от звезд электронной сцены  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/livedjsets64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/livedjsets96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-livedjsets/playlist.m3u8)
+10. [Phonk](https://radiorecord.ru/station/phonk)  
+Атмосфера дрифта и уличных гонок  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/phonk64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/phonk96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-phonk/playlist.m3u8)
 11. [Party 24/7](https://radiorecord.ru/station/party-24-7)  
 Нон-стоп вечеринка с зарубежными танцевальными хитами  
 Потоки:
@@ -156,18 +156,18 @@ Mash-up из главных хитов Рекорда со скоростью 5 
 [AAC 64](https://radiorecord.hostingradio.ru/tm64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/tm96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-tm/playlist.m3u8)
-27. [Record Gold](https://radiorecord.ru/station/gold)  
-Хиты Рекорда эпохи Avicii и Swedish House Mafia  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/gold64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/gold96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-gold/playlist.m3u8)
-28. [Big Hits](https://radiorecord.ru/station/bighits)  
+27. [Big Hits](https://radiorecord.ru/station/bighits)  
 Зарубежные танцевальные хиты: Dua Lipa, Ave Max, Sia  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/bighits64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/bighits96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-bighits/playlist.m3u8)
+28. [Record Gold](https://radiorecord.ru/station/gold)  
+Хиты Рекорда эпохи Avicii и Swedish House Mafia  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/gold64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/gold96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-gold/playlist.m3u8)
 29. [Remix](https://radiorecord.ru/station/rmx)  
 Иностранные хиты в танцевальной обработке: Black Eyed Peas, Ariana Grande, Ed Sheeran  
 Потоки:

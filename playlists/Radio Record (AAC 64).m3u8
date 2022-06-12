@@ -8,6 +8,8 @@ https://radiorecord.hostingradio.ru/summerlounge64.aacp
 https://radiorecord.hostingradio.ru/workout64.aacp
 #EXTINF: -1,Reggae
 https://radiorecord.hostingradio.ru/reggae64.aacp
+#EXTINF: -1,Рекорд Нулевых
+https://radiorecord.hostingradio.ru/200064.aacp
 #EXTINF: -1,UK Garage
 https://radiorecord.hostingradio.ru/ukgarage64.aacp
 #EXTINF: -1,Summer Dance
@@ -18,8 +20,6 @@ https://radiorecord.hostingradio.ru/top100edm64.aacp
 https://radiorecord.hostingradio.ru/livedjsets64.aacp
 #EXTINF: -1,Phonk
 https://radiorecord.hostingradio.ru/phonk64.aacp
-#EXTINF: -1,Рекорд Нулевых
-https://radiorecord.hostingradio.ru/200064.aacp
 #EXTINF: -1,Party 24/7
 https://radiorecord.hostingradio.ru/party64.aacp
 #EXTINF: -1,Chill House
@@ -52,10 +52,10 @@ https://radiorecord.hostingradio.ru/yo64.aacp
 https://radiorecord.hostingradio.ru/mix64.aacp
 #EXTINF: -1,Trancemission
 https://radiorecord.hostingradio.ru/tm64.aacp
-#EXTINF: -1,Record Gold
-https://radiorecord.hostingradio.ru/gold64.aacp
 #EXTINF: -1,Big Hits
 https://radiorecord.hostingradio.ru/bighits64.aacp
+#EXTINF: -1,Record Gold
+https://radiorecord.hostingradio.ru/gold64.aacp
 #EXTINF: -1,Remix
 https://radiorecord.hostingradio.ru/rmx64.aacp
 #EXTINF: -1,Russian Hits
