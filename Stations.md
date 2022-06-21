@@ -90,18 +90,18 @@
 [AAC 64](https://radiorecord.hostingradio.ru/ambient64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/ambient96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-ambient/playlist.m3u8)
-16. [Organic](https://radiorecord.ru/station/organic)  
-Легкий грув. В стиле Tim Green и Sebastien Leger  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/organic64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/organic96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-organic/playlist.m3u8)
-17. [Innocence](https://radiorecord.ru/station/ibiza)  
+16. [Innocence](https://radiorecord.ru/station/ibiza)  
 Techno, Minimal, Deep. Саунд как у Solomun, Boris Brejcha и Nina Kravitz  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/ibiza64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/ibiza96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-ibiza/playlist.m3u8)
+17. [Organic](https://radiorecord.ru/station/organic)  
+Легкий грув. В стиле Tim Green и Sebastien Leger  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/organic64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/organic96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-organic/playlist.m3u8)
 18. [Deep](https://radiorecord.ru/station/deep)  
 Глубокое house-звучание  
 Потоки:
