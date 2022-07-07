@@ -8,14 +8,14 @@ https://radiorecord.hostingradio.ru/summerlounge96.aacp
 https://radiorecord.hostingradio.ru/workout96.aacp
 #EXTINF: -1,Reggae
 https://radiorecord.hostingradio.ru/reggae96.aacp
-#EXTINF: -1,Рекорд Нулевых
-https://radiorecord.hostingradio.ru/200096.aacp
 #EXTINF: -1,UK Garage
 https://radiorecord.hostingradio.ru/ukgarage96.aacp
-#EXTINF: -1,Summer Dance
-https://radiorecord.hostingradio.ru/summerparty96.aacp
 #EXTINF: -1,TOP 100 EDM
 https://radiorecord.hostingradio.ru/top100edm96.aacp
+#EXTINF: -1,Рекорд Нулевых
+https://radiorecord.hostingradio.ru/200096.aacp
+#EXTINF: -1,Summer Dance
+https://radiorecord.hostingradio.ru/summerparty96.aacp
 #EXTINF: -1,Live DJ-sets
 https://radiorecord.hostingradio.ru/livedjsets96.aacp
 #EXTINF: -1,Phonk
@@ -26,18 +26,18 @@ https://radiorecord.hostingradio.ru/party96.aacp
 https://radiorecord.hostingradio.ru/chillhouse96.aacp
 #EXTINF: -1,Lo-Fi
 https://radiorecord.hostingradio.ru/lofi96.aacp
+#EXTINF: -1,Innocence
+https://radiorecord.hostingradio.ru/ibiza96.aacp
 #EXTINF: -1,Dream Pop
 https://radiorecord.hostingradio.ru/dreampop96.aacp
 #EXTINF: -1,Ambient
 https://radiorecord.hostingradio.ru/ambient96.aacp
-#EXTINF: -1,Innocence
-https://radiorecord.hostingradio.ru/ibiza96.aacp
 #EXTINF: -1,Organic
 https://radiorecord.hostingradio.ru/organic96.aacp
-#EXTINF: -1,Deep
-https://radiorecord.hostingradio.ru/deep96.aacp
 #EXTINF: -1,Tech House
 https://radiorecord.hostingradio.ru/techouse96.aacp
+#EXTINF: -1,Deep
+https://radiorecord.hostingradio.ru/deep96.aacp
 #EXTINF: -1,Russian Mix
 https://radiorecord.hostingradio.ru/rus96.aacp
 #EXTINF: -1,Chill-Out
@@ -88,10 +88,10 @@ https://radiorecord.hostingradio.ru/edmhits96.aacp
 https://radiorecord.hostingradio.ru/fut96.aacp
 #EXTINF: -1,Trap
 https://radiorecord.hostingradio.ru/trap96.aacp
-#EXTINF: -1,Rap Classics
-https://radiorecord.hostingradio.ru/rapclassics96.aacp
 #EXTINF: -1,Progressive
 https://radiorecord.hostingradio.ru/progr96.aacp
+#EXTINF: -1,Rap Classics
+https://radiorecord.hostingradio.ru/rapclassics96.aacp
 #EXTINF: -1,Breaks
 https://radiorecord.hostingradio.ru/brks96.aacp
 #EXTINF: -1,Trancehouse
