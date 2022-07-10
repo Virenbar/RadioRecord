@@ -32,8 +32,8 @@ jobs:
           if [[ `git status --porcelain` ]]; then
             echo "Commiting changes."
             echo "CHANGED=true" >> $GITHUB_ENV
-            git config user.name action
-            git config user.email action@github.com
+            git config user.name 'github-actions[bot]'
+            git config user.email 'github-actions[bot]@users.noreply.github.com'
             git add .
             git commit -m "Stations Auto-Update (`date`)" -a || true
             git push
@@ -44,7 +44,8 @@ jobs:
 
       - name: Deploy page
         if: env.CHANGED == 'true'
-        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        uses: JamesIves/github-pages-deploy-action@v4.3.4
         with:
-          branch: gh-pages
           folder: pages
+          git-config-name: 'github-actions[bot]'
+          git-config-email: 'github-actions[bot]@users.noreply.github.com'
