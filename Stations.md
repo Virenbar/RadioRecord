@@ -24,36 +24,36 @@
 [AAC 64](https://radiorecord.hostingradio.ru/reggae64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/reggae96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-reggae/playlist.m3u8)
-5. [UK Garage](https://radiorecord.ru/station/uk-garage)  
-Атмосфера клубов восточного Лондона конца 90-х  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/ukgarage64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/ukgarage96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-ukgarage/playlist.m3u8)
-6. [TOP 100 EDM](https://radiorecord.ru/station/top-100-edm)  
+5. [TOP 100 EDM](https://radiorecord.ru/station/top-100-edm)  
 Актуальный топ электронной музыки  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/top100edm64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/top100edm96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-top100edm/playlist.m3u8)
-7. [Рекорд Нулевых](https://radiorecord.ru/station/record00)  
-Хиты танцполов нулевых: ATB, Benassi, Klubbheads и другие  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/200064.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/200096.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-2000/playlist.m3u8)
-8. [Summer Dance](https://radiorecord.ru/station/summer-dance)  
-Летние клубные хиты 24/7  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/summerparty64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/summerparty96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-summerparty/playlist.m3u8)
-9. [Live DJ-sets](https://radiorecord.ru/station/live-dj-sets)  
+6. [Live DJ-sets](https://radiorecord.ru/station/live-dj-sets)  
 Лучшие живые сеты от звезд электронной сцены  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/livedjsets64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/livedjsets96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-livedjsets/playlist.m3u8)
+7. [UK Garage](https://radiorecord.ru/station/uk-garage)  
+Атмосфера клубов восточного Лондона конца 90-х  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/ukgarage64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/ukgarage96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-ukgarage/playlist.m3u8)
+8. [Рекорд Нулевых](https://radiorecord.ru/station/record00)  
+Хиты танцполов нулевых: ATB, Benassi, Klubbheads и другие  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/200064.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/200096.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-2000/playlist.m3u8)
+9. [Summer Dance](https://radiorecord.ru/station/summer-dance)  
+Летние клубные хиты 24/7  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/summerparty64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/summerparty96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-summerparty/playlist.m3u8)
 10. [Phonk](https://radiorecord.ru/station/phonk)  
 Атмосфера дрифта и уличных гонок  
 Потоки:
@@ -72,42 +72,42 @@
 [AAC 64](https://radiorecord.hostingradio.ru/chillhouse64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/chillhouse96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-chillhouse/playlist.m3u8)
-13. [Lo-Fi](https://radiorecord.ru/station/lofi)  
-Ламповый бит и треск винила. В стиле Nujabes и J Dilla  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/lofi64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/lofi96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-lofi/playlist.m3u8)
-14. [Innocence](https://radiorecord.ru/station/ibiza)  
+13. [Innocence](https://radiorecord.ru/station/ibiza)  
 Techno, Minimal, Deep. Саунд как у Solomun, Boris Brejcha и Nina Kravitz  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/ibiza64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/ibiza96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-ibiza/playlist.m3u8)
-15. [Dream Pop](https://radiorecord.ru/station/dream-pop)  
-Лёгкий вайб для отдыха и хорошего настроения  
+14. [Lo-Fi](https://radiorecord.ru/station/lofi)  
+Ламповый бит и треск винила. В стиле Nujabes и J Dilla  
 Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/dreampop64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/dreampop96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-dreampop/playlist.m3u8)
-16. [Ambient](https://radiorecord.ru/station/ambient)  
-Атмосферный саунд  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/ambient64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/ambient96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-ambient/playlist.m3u8)
-17. [Organic](https://radiorecord.ru/station/organic)  
-Легкий грув. В стиле Tim Green и Sebastien Leger  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/organic64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/organic96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-organic/playlist.m3u8)
-18. [Tech House](https://radiorecord.ru/station/techouse)  
+[AAC 64](https://radiorecord.hostingradio.ru/lofi64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/lofi96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-lofi/playlist.m3u8)
+15. [Tech House](https://radiorecord.ru/station/techouse)  
 На стыке хауса и техно. В стиле Fisher и Dont Blink  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/techouse64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/techouse96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-techouse/playlist.m3u8)
+16. [Dream Pop](https://radiorecord.ru/station/dream-pop)  
+Лёгкий вайб для отдыха и хорошего настроения  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/dreampop64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/dreampop96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-dreampop/playlist.m3u8)
+17. [Ambient](https://radiorecord.ru/station/ambient)  
+Атмосферный саунд  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/ambient64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/ambient96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-ambient/playlist.m3u8)
+18. [Organic](https://radiorecord.ru/station/organic)  
+Легкий грув. В стиле Tim Green и Sebastien Leger  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/organic64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/organic96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-organic/playlist.m3u8)
 19. [Deep](https://radiorecord.ru/station/deep)  
 Глубокое house-звучание  
 Потоки:
@@ -444,18 +444,18 @@ Dance на минималках
 [AAC 64](https://radiorecord.hostingradio.ru/rave64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rave96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rave/playlist.m3u8)
-75. [Jungle](https://radiorecord.ru/station/jungle)  
-История и современность jungle-музыки: DJ Hype, Shy FX, Ed Rush  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/jungle64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/jungle96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-jungle/playlist.m3u8)
-76. [Christmas Chill](https://radiorecord.ru/station/christmas-chill)  
+75. [Christmas Chill](https://radiorecord.ru/station/christmas-chill)  
 Downtempo-бит для тёплого новогоднего уюта  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/christmaschill64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/christmaschill96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-christmaschill/playlist.m3u8)
+76. [Jungle](https://radiorecord.ru/station/jungle)  
+История и современность jungle-музыки: DJ Hype, Shy FX, Ed Rush  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/jungle64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/jungle96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-jungle/playlist.m3u8)
 77. [Complextro](https://radiorecord.ru/station/complextro)  
 Синтез house и dubstep  
 Потоки:
