@@ -1,81 +1,94 @@
-import fetch from 'node-fetch';
-import fs from 'node:fs';
+import fetch from "node-fetch";
+import fs from "node:fs";
+import sass from "sass";
 
 async function Update() {
-    const Responce = await fetch("https://www.radiorecord.ru/api/stations/")
-    const API = await Responce.json() as API
-    const Stations = API.result.stations
+    const Responce = await fetch("https://www.radiorecord.ru/api/stations/");
+    const API = await Responce.json() as API;
+    const Stations = API.result.stations;
 
-    //MD builder
-    let File = "## Станции\n\n"
+    //MD build
+    let File = "## Станции\n\n";
     for (let i = 0; i < Stations.length; i++) {
         const S = Stations[i];
 
-        File += `${i + 1}. [${S.title}](${S.shareUrl})${S.new ? ' (NEW)' : ''}  \n`
-        File += `${S.tooltip.trim()}  \n`
-        File += "Потоки:\n"
-        File += `[AAC 64](${S.stream_64})\n`
-        File += `[AAC 96](${S.stream_128})\n`
-        File += `[M3U](${S.stream_hls})\n`
+        File += `${i + 1}. [${S.title}](${S.shareUrl})${S.new ? " (NEW)" : ""}  \n`;
+        File += `${S.tooltip.trim()}  \n`;
+        File += "Потоки:\n";
+        File += `[AAC 64](${S.stream_64})\n`;
+        File += `[AAC 96](${S.stream_128})\n`;
+        File += `[M3U](${S.stream_hls})\n`;
     }
-    fs.writeFileSync("Stations.md", File)
+    fs.writeFileSync("Stations.md", File);
 
-    //Page builder
-    let HTML = ""
+    //HTML and CSS build
+    const btn = "btn btn-outline-primary";
+    let HTML = "";
     for (let i = 0; i < Stations.length; i++) {
         const S = Stations[i];
         HTML += `
-            <div class="station">
-                <div>
-                    <h4${S.new ? ' class="new"' : ''}>
+            <div class="card">
+                <div class="card-header d-flex flex-nowrap align-items-center">
+                    <h5>
                         <a href="${S.shareUrl}">${i + 1}. ${S.title}</a>
-                        <img class="image" src="${S.icon_fill_colored}">
-                    </h4>
-                    <p>${S.tooltip}</p>
+                    </h5>
+                    ${S.new ? "<div class=\"mx-1 new\">NEW</div>" : ""}
+                    <div class="logo ms-auto">
+                        ${S.svg_fill}
+                    </div>
                 </div>
-                <div class="streams">
-                    <a href="${S.stream_64}">AAC 64</a>
-                    <a href="${S.stream_128}">AAC 96</a>
-                    <a href="${S.stream_hls}">M3U</a>
+                <div class="card-body">
+                    <p>${S.tooltip}</p> 
                 </div>
-            </div>`
+                <div class="card-footer text-center">
+                    <div class="btn-group btn-group-sm" role="group" area-label="Links">
+                        <a class="${btn}" href="${S.stream_64}">AAC 64</a>
+                        <a class="${btn}" href="${S.stream_128}">AAC 96</a>
+                        <a class="${btn}" href="${S.stream_hls}">M3U</a>
+                    </div>
+                </div>
+            </div>`;
     }
+
     //Fake stations
     for (let i = 0; i < 4; i++) {
-        HTML += '<div class="station fake"></div>'
+        HTML += "<div class=\"card fake\"></div>";
     }
 
-    if (!fs.existsSync("pages")) { fs.mkdirSync("pages",) }
-    fs.copyFileSync("static/style.css", "pages/style.css")
+    if (!fs.existsSync("pages")) { fs.mkdirSync("pages"); }
 
-    let index = fs.readFileSync("static/index.html").toString()
-    index = index.replace("<!-- Template -->", HTML)
-    fs.writeFileSync("pages/index.html", index)
+    const css = sass.compile("sass/style.scss").css;
+    fs.writeFileSync("pages/style.css", css);
+    console.log("Styles compiled");
 
-    //Playlist builders
-    if (!fs.existsSync("playlists")) { fs.mkdirSync("playlists",) }
-    CreatePlaylist(Stations.map<PlaylistTrack>(S => ({ name: S.title, path: S.stream_64 })), "Radio Record (AAC 64)")
-    CreatePlaylist(Stations.map<PlaylistTrack>(S => ({ name: S.title, path: S.stream_128 })), "Radio Record (AAC 96)")
+    let index = fs.readFileSync("assets/index.html").toString();
+    index = index.replace("<!-- Template -->", HTML);
+    fs.writeFileSync("pages/index.html", index);
+    console.log("Page builded");
+
+    //Playlist build
+    if (!fs.existsSync("playlists")) { fs.mkdirSync("playlists",); }
+    CreatePlaylist(Stations.map<PlaylistTrack>(S => ({ name: S.title, path: S.stream_64 })), "Radio Record (AAC 64)");
+    CreatePlaylist(Stations.map<PlaylistTrack>(S => ({ name: S.title, path: S.stream_128 })), "Radio Record (AAC 96)");
 }
 
 function CreatePlaylist(Tracks: PlaylistTrack[], name: string) {
-    let File = "#EXTM3U\n"
-    File += `#PLAYLIST:${name}\n`
+    let File = "#EXTM3U\n";
+    File += `#PLAYLIST:${name}\n`;
     Tracks.forEach(T => {
-        File += `#EXTINF: -1,${T.name}\n`
-        File += `${T.path}\n`
-    })
-    fs.writeFileSync(`playlists/${name}.m3u8`, File)
-    console.log(`Created playlist: ${name}`)
+        File += `#EXTINF: -1,${T.name}\n`;
+        File += `${T.path}\n`;
+    });
+    fs.writeFileSync(`playlists/${name}.m3u8`, File);
+    console.log(`Playlist created: ${name}`);
 }
 
-
 Update().then(() => {
-    console.log("Update successful")
+    console.log("Update successful");
 }).catch((e) => {
-    console.error(e)
+    console.error(e);
     throw new Error("Update failed");
-})
+});
 
 interface PlaylistTrack {
     name: string
@@ -100,6 +113,8 @@ interface Station {
     title: string,
     tooltip: string,
     sort: number,
+    svg_outline: string,
+    svg_fill: string,
     short_title: string,
     icon_gray: string,
     icon_fill_colored: string,

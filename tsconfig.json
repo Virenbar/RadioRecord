@@ -1,20 +1,11 @@
 {
-  "$schema": "https://json.schemastore.org/tsconfig",
-  "display": "Node 16",
+  "extends": "@tsconfig/node16-strictest-esm/tsconfig.json",
   "compilerOptions": {
-    "lib": [
-      "es2021"
-    ],
-    "module": "ESNext",
-    "target": "es2021",
-    "strict": true,
-    "esModuleInterop": true,
-    "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true,
     "outDir": "build",
     "sourceMap": true,
+    "resolveJsonModule": true,
     "declaration": true,
-    "moduleResolution": "Node"
+    "noUncheckedIndexedAccess": false
   },
   "include": [
     "src/**/*"
