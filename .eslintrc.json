@@ -1,10 +1,12 @@
 {
     "env": {
-        "es2020": true,
-        "node": true
+        "node": true,
+        "es2021": true,
+        "es2022": true
     },
     "parser": "@typescript-eslint/parser",
     "plugins": [
+        "eslint-plugin-import",
         "@typescript-eslint"
     ],
     "extends": [
@@ -12,11 +14,25 @@
         "plugin:@typescript-eslint/recommended"
     ],
     "parserOptions": {
-        "ecmaVersion": 11,
         "sourceType": "module"
     },
     "rules": {
         "@typescript-eslint/type-annotation-spacing": "warn",
-        "space-in-parens": "warn"
+        "space-in-parens": "warn",
+        "quotes": "warn",
+        "eol-last": "warn",
+        "semi": "warn",
+        "no-multiple-empty-lines": [
+            "warn",
+            {
+                "max": 1
+            }
+        ],
+        "lines-around-comment": [
+            "warn",
+            {
+                "beforeLineComment": true
+            }
+        ]
     }
 }
