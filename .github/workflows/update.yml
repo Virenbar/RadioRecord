@@ -1,16 +1,13 @@
-name: Channels CI
+name: Auto-Update
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - "master"
   schedule:
     - cron: "0 0 * * 0,2,4"
 
 jobs:
   update:
-    name: Update channels
+    name: Update & Deploy
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -31,7 +28,7 @@ jobs:
         run: |
           if [[ `git status --porcelain` ]]; then
             echo "Commiting changes."
-            echo "CHANGED=true" >> $GITHUB_ENV
+            echo "DEPLOY=true" >> $GITHUB_ENV
             git config user.name 'github-actions[bot]'
             git config user.email 'github-actions[bot]@users.noreply.github.com'
             git add .
@@ -39,13 +36,13 @@ jobs:
             git push
           else
             echo "No changes."
-            echo "CHANGED=false" >> $GITHUB_ENV
+            echo "DEPLOY=false" >> $GITHUB_ENV
           fi
 
       - name: Deploy page
-        if: env.CHANGED == 'true'
+        if: env.DEPLOY == 'true' || github.event_name == 'workflow_dispatch'
         uses: JamesIves/github-pages-deploy-action@v4.3.4
         with:
           folder: pages
-          git-config-name: 'github-actions[bot]'
-          git-config-email: 'github-actions[bot]@users.noreply.github.com'
+          git-config-name: "github-actions[bot]"
+          git-config-email: "github-actions[bot]@users.noreply.github.com"
