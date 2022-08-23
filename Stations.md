@@ -72,42 +72,42 @@
 [AAC 64](https://radiorecord.hostingradio.ru/chillhouse64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/chillhouse96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-chillhouse/playlist.m3u8)
-13. [Innocence](https://radiorecord.ru/station/ibiza)  
-Techno, Minimal, Deep. Саунд как у Solomun, Boris Brejcha и Nina Kravitz  
+13. [Tech House](https://radiorecord.ru/station/techouse)  
+На стыке хауса и техно. В стиле Fisher и Dont Blink  
 Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/ibiza64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/ibiza96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-ibiza/playlist.m3u8)
+[AAC 64](https://radiorecord.hostingradio.ru/techouse64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/techouse96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-techouse/playlist.m3u8)
 14. [Lo-Fi](https://radiorecord.ru/station/lofi)  
 Ламповый бит и треск винила. В стиле Nujabes и J Dilla  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/lofi64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/lofi96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-lofi/playlist.m3u8)
-15. [Tech House](https://radiorecord.ru/station/techouse)  
-На стыке хауса и техно. В стиле Fisher и Dont Blink  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/techouse64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/techouse96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-techouse/playlist.m3u8)
-16. [Dream Pop](https://radiorecord.ru/station/dream-pop)  
+15. [Dream Pop](https://radiorecord.ru/station/dream-pop)  
 Лёгкий вайб для отдыха и хорошего настроения  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/dreampop64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/dreampop96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-dreampop/playlist.m3u8)
-17. [Ambient](https://radiorecord.ru/station/ambient)  
+16. [Ambient](https://radiorecord.ru/station/ambient)  
 Атмосферный саунд  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/ambient64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/ambient96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-ambient/playlist.m3u8)
-18. [Organic](https://radiorecord.ru/station/organic)  
+17. [Organic](https://radiorecord.ru/station/organic)  
 Легкий грув. В стиле Tim Green и Sebastien Leger  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/organic64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/organic96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-organic/playlist.m3u8)
+18. [Innocence](https://radiorecord.ru/station/ibiza)  
+Techno, Minimal, Deep. Саунд как у Solomun, Boris Brejcha и Nina Kravitz  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/ibiza64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/ibiza96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-ibiza/playlist.m3u8)
 19. [Deep](https://radiorecord.ru/station/deep)  
 Глубокое house-звучание  
 Потоки:
