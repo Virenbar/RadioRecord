@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.2.0",
-    "node-fetch": "^3.2.9",
+    "node-fetch": "^3.2.10",
     "sass": "^1.54.0"
   },
   "devDependencies": {
