@@ -6,8 +6,10 @@ on:
     - cron: "0 0 * * 0,2,4"
 
 jobs:
-  update:
-    name: Update & Deploy
+  build:
+    name: Build
+    outputs:
+      deploy: ${{ steps.commit.outputs.deploy }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -25,10 +27,11 @@ jobs:
           yarn run start:dev
 
       - name: Commit changes
+        id: commit
         run: |
           if [[ `git status --porcelain` ]]; then
-            echo "Commiting changes."
-            echo "DEPLOY=true" >> $GITHUB_ENV
+            echo "Committing changes."
+            echo "::set-output name=deploy::true"
             git config user.name 'github-actions[bot]'
             git config user.email 'github-actions[bot]@users.noreply.github.com'
             git add .
@@ -36,13 +39,21 @@ jobs:
             git push
           else
             echo "No changes."
-            echo "DEPLOY=false" >> $GITHUB_ENV
+            echo "::set-output name=deploy::false"
           fi
 
-      - name: Deploy page
-        if: env.DEPLOY == 'true' || github.event_name == 'workflow_dispatch'
-        uses: JamesIves/github-pages-deploy-action@v4.3.4
-        with:
-          folder: pages
-          git-config-name: "github-actions[bot]"
-          git-config-email: "github-actions[bot]@users.noreply.github.com"
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+
+  deploy:
+    name: Deploy
+    needs: build
+    if: needs.build.outputs.deploy || github.event_name == 'workflow_dispatch'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1

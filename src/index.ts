@@ -3,8 +3,8 @@ import fs from "node:fs";
 import sass from "sass";
 
 async function Update() {
-    const Responce = await fetch("https://www.radiorecord.ru/api/stations/");
-    const API = await Responce.json() as API;
+    const Response = await fetch("https://www.radiorecord.ru/api/stations/");
+    const API = await Response.json() as API;
     const Stations = API.result.stations;
 
     //MD build
@@ -19,7 +19,7 @@ async function Update() {
         File += `[AAC 96](${S.stream_128})\n`;
         File += `[M3U](${S.stream_hls})\n`;
     }
-    fs.writeFileSync("Stations.md", File);
+    fs.writeFileSync("stations.md", File);
 
     //HTML and CSS build
     const btn = "btn btn-outline-primary";
@@ -55,16 +55,16 @@ async function Update() {
         HTML += "<div class=\"card fake\"></div>";
     }
 
-    if (!fs.existsSync("pages")) { fs.mkdirSync("pages"); }
+    if (!fs.existsSync("_site")) { fs.mkdirSync("_site"); }
 
     const css = sass.compile("sass/style.scss").css;
-    fs.writeFileSync("pages/style.css", css);
+    fs.writeFileSync("_site/style.css", css);
     console.log("Styles compiled");
 
     let index = fs.readFileSync("assets/index.html").toString();
     index = index.replace("<!-- Template -->", HTML);
-    fs.writeFileSync("pages/index.html", index);
-    console.log("Page builded");
+    fs.writeFileSync("_site/index.html", index);
+    console.log("Site builded");
 
     //Playlist build
     if (!fs.existsSync("playlists")) { fs.mkdirSync("playlists",); }
