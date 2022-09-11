@@ -5,12 +5,6 @@ on:
   schedule:
     - cron: "0 0 * * 0,2,4"
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 # Allow one concurrent deployment
 concurrency:
   group: "pages"
@@ -59,10 +53,14 @@ jobs:
   deploy:
     name: Deploy
     needs: build
-    if: needs.build.outputs.deploy || github.event_name == 'workflow_dispatch'
+    if: needs.build.outputs.deploy == 'true' || github.event_name == 'workflow_dispatch'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
