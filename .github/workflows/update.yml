@@ -5,16 +5,9 @@ on:
   schedule:
     - cron: "0 0 * * 0,2,4"
 
-# Allow one concurrent deployment
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
 jobs:
   build:
-    name: Build
-    outputs:
-      deploy: ${{ steps.commit.outputs.deploy }}
+    name: Update
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -26,17 +19,15 @@ jobs:
           node-version: 16.x
           cache: "yarn"
 
-      - name: Build & Run
+      - name: Update data
         run: |
           yarn install --immutable --immutable-cache --check-cache
-          yarn run start:dev
+          yarn run update
 
       - name: Commit changes
-        id: commit
         run: |
           if [[ `git status --porcelain` ]]; then
             echo "Committing changes."
-            echo "{deploy}={true}" >> $GITHUB_OUTPUT
             git config user.name 'github-actions[bot]'
             git config user.email 'github-actions[bot]@users.noreply.github.com'
             git add .
@@ -44,25 +35,4 @@ jobs:
             git push
           else
             echo "No changes."
-            echo "{deploy}={false}" >> $GITHUB_OUTPUT
           fi
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-
-  deploy:
-    name: Deploy
-    needs: build
-    if: needs.build.outputs.deploy == 'true' || github.event_name == 'workflow_dispatch'
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
