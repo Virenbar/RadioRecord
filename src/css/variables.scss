@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&family=Fira+Mono:wght@400;500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import "https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&family=Fira+Mono:wght@400;500;700&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap";
 
 //Record Colors
 $brand-accent-a: #FFA065;
@@ -37,12 +37,12 @@ $borders-night-light: #2A2A2A;
 // Bootstrap Overrides
 // Colors
 $primary: $brand-accent;
-$red: #f91a3f;
+$red: #F91A3F;
 
 // Fonts
-$font-family-monospace: 'Fira Mono';
-$font-family-sans-serif: 'Roboto', system-ui, -apple-system, "Segoe UI", "Helvetica Neue", "Noto Sans", "Liberation Sans", sans-serif;
-$font-family-base: 'Roboto';
+$font-family-monospace: "Fira Mono";
+$font-family-sans-serif: "Roboto", "Segoe UI", "Helvetica Neue", "Noto Sans", "Liberation Sans", sans-serif;
+
 // Links
 $link-color: $brand-accent;
 

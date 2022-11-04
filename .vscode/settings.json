@@ -5,7 +5,13 @@
         "typescript"
     ],
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true,
+        "source.fixAll": true,
         "source.organizeImports": true
-    }
+    },
+    "css.validate": false,
+    "scss.validate": false,
+    "stylelint.validate": [
+        "css",
+        "scss"
+    ]
 }

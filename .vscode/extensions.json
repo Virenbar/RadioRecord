@@ -3,6 +3,7 @@
         "dbaeumer.vscode-eslint",
         "naumovs.color-highlight",
         "zignd.html-css-class-completion",
-        "ecmel.vscode-html-css"
+        "ecmel.vscode-html-css",
+        "stylelint.vscode-stylelint"
     ]
 }
