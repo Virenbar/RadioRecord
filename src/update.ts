@@ -1,13 +1,17 @@
 import fetch from "node-fetch";
 import fs from "node:fs";
-import { API, PlaylistTrack, Station } from "./model";
+import { Station, Stations } from "./model";
 
 async function Update() {
     const response = await fetch("https://www.radiorecord.ru/api/stations/");
-    const api = await response.json() as API;
+    const api = await response.json() as Stations;
     const stations = api.result.stations;
-    const json = JSON.stringify(api.result, null, 4);
-    fs.writeFileSync("data.json", json);
+    const genres = api.result.genre;
+    const tags = api.result.tags;
+
+    fs.writeFileSync("data/stations.json", JSON.stringify({ list: stations }, null, 4));
+    fs.writeFileSync("data/genres.json", JSON.stringify({ list: genres }, null, 4));
+    fs.writeFileSync("data/tags.json", JSON.stringify({ list: tags }, null, 4));
 
     //MD build
     CreateMD(stations);
@@ -52,3 +56,7 @@ Update().then(() => {
     throw new Error("Update failed");
 });
 
+interface PlaylistTrack {
+    name: string
+    path: string
+}

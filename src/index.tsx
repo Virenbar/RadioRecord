@@ -1,12 +1,13 @@
+import "@popperjs/core";
 import "bootstrap";
 import { render } from "preact";
-import data from "../data.json";
-import { Stations } from "./components/Stations";
+import Stations from "../data/stations.json";
+import { StationList } from "./components/StationList";
 
 function Main() {
-    const stations = data.stations;
+    const stations = Stations.list;
     return (
-        <Stations stations={stations} />
+        <StationList stations={stations} />
     );
 }
 

@@ -6,7 +6,7 @@ export function StationCard(props: Props) {
         <div class="card">
             <div class="card-header d-flex flex-nowrap align-items-center">
                 <h5>
-                    <a href={S.shareUrl}>{props.index}. {S.title}</a>
+                    <a href={S.shareUrl}>{S.title}</a>
                 </h5>
                 {S.new ? <div class="mx-1 new">NEW</div> : null}
                 <div class="logo ms-auto" dangerouslySetInnerHTML={{ __html: S.svg_fill }}></div>
@@ -26,6 +26,5 @@ export function StationCard(props: Props) {
 }
 
 interface Props {
-    index: number
     station: Station
 }

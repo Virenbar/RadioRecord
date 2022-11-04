@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&family=Fira+Mono:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
 //Record Colors
-$brand-accent-a: #ffa065;
+$brand-accent-a: #FFA065;
 
 $neutrals-900: #141414;
 $neutrals-800: #212121;
@@ -34,10 +35,14 @@ $borders-night-middle: #3D3D3D;
 $borders-night-light: #2A2A2A;
 
 // Bootstrap Overrides
-//Colors
+// Colors
 $primary: $brand-accent;
 $red: #f91a3f;
 
+// Fonts
+$font-family-monospace: 'Fira Mono';
+$font-family-sans-serif: 'Roboto', system-ui, -apple-system, "Segoe UI", "Helvetica Neue", "Noto Sans", "Liberation Sans", sans-serif;
+$font-family-base: 'Roboto';
 // Links
 $link-color: $brand-accent;
 
@@ -49,3 +54,9 @@ $body-color: $text-night-primary;
 $card-bg: $neutrals-700;
 $card-spacer-y: .5rem;
 $card-spacer-x: .5rem;
+
+// Dropdown
+$dropdown-bg: $neutrals-800;
+$dropdown-link-color: $body-color;
+$dropdown-link-hover-color: $body-color;
+$dropdown-link-hover-bg: $neutrals-600;
