@@ -38,9 +38,6 @@
   "alias": {
     "preact/jsx-dev-runtime": "preact/jsx-runtime"
   },
-  "engines": {
-    "node": "16.x"
-  },
   "type": "module",
   "private": true
 }
