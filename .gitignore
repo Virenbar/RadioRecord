@@ -103,6 +103,9 @@ dist
 # TernJS port file
 .tern-port
 
+# Parcel
+.parcel-cache
+
 # Build
 build
 _site

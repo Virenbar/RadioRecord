@@ -1,13 +1,11 @@
 {
-  "extends": "@tsconfig/node16-strictest-esm/tsconfig.json",
-  "compilerOptions": {
-    "outDir": "build",
-    "sourceMap": true,
-    "resolveJsonModule": true,
-    "declaration": true,
-    "noUncheckedIndexedAccess": false
-  },
-  "include": [
-    "src/**/*"
-  ]
+    "extends": "@tsconfig/create-react-app/tsconfig.json",
+    "compilerOptions": {
+        "jsxImportSource": "preact",
+        "noImplicitAny": true,
+        "experimentalDecorators": true,
+    },
+    "include": [
+        "src/**/*"
+    ]
 }

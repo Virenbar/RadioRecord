@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&family=Fira+Mono:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+//Record Colors
+$brand-accent-a: #FFA065;
+
+$neutrals-900: #141414;
+$neutrals-800: #212121;
+$neutrals-700: #2A2A2A;
+$neutrals-600: #3D3D3D;
+$neutrals-500: #5B5B5B;
+$neutrals-400: #7A7A7A;
+$neutrals-300: #A8A8A8;
+$neutrals-200: #DBDBDB;
+$neutrals-100: #EBEBEB;
+$neutrals-050: #F5F4F4;
+$neutrals-025: #FAFAFA;
+$brand-accent: #FC581F;
+$brand-accent-2: #48CD9D;
+
+$text-day-primary: #2A2A2A;
+$text-day-secondary: #5B5B5B;
+$text-day-trietary: #7A7A7A;
+$text-day-quaternary: #A8A8A8;
+$borders-day-dark: #DBDBDB;
+$borders-day-middle: #EBEBEB;
+$borders-day-light: #F5F4F4;
+
+$text-night-primary: #EBEBEB;
+$text-night-secondary: #A8A8A8;
+$text-night-trietary: #7A7A7A;
+$text-night-quaternary: #5B5B5B;
+$borders-night-dark: #5B5B5B;
+$borders-night-middle: #3D3D3D;
+$borders-night-light: #2A2A2A;
+
+// Bootstrap Overrides
+// Colors
+$primary: $brand-accent;
+$red: #f91a3f;
+
+// Fonts
+$font-family-monospace: 'Fira Mono';
+$font-family-sans-serif: 'Roboto', system-ui, -apple-system, "Segoe UI", "Helvetica Neue", "Noto Sans", "Liberation Sans", sans-serif;
+$font-family-base: 'Roboto';
+// Links
+$link-color: $brand-accent;
+
+// Body
+$body-bg: $neutrals-800;
+$body-color: $text-night-primary;
+
+// Card
+$card-bg: $neutrals-700;
+$card-spacer-y: .5rem;
+$card-spacer-x: .5rem;
+
+// Dropdown
+$dropdown-bg: $neutrals-800;
+$dropdown-link-color: $body-color;
+$dropdown-link-hover-color: $body-color;
+$dropdown-link-hover-bg: $neutrals-600;
