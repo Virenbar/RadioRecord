@@ -6,15 +6,17 @@ on:
     - cron: "0 0 */2 * *"
 
 jobs:
-  build:
+  update:
     name: Update
+    outputs:
+      publish: ${{ steps.commit.outputs.publish }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
       - name: Use Node.js 16.x
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: 16.x
           cache: "yarn"
@@ -25,6 +27,7 @@ jobs:
           yarn run update
 
       - name: Commit changes
+        id: commit
         run: |
           if [[ `git status --porcelain` ]]; then
             echo "Committing changes."
@@ -33,6 +36,14 @@ jobs:
             git add .
             git commit -m "Stations Auto-Update (`date`)" -a || true
             git push
+            echo "{publish}={true}" >> $GITHUB_OUTPUT
           else
             echo "No changes."
+            echo "{publish}={false}" >> $GITHUB_OUTPUT
           fi
+
+  publish:
+    name: Publish
+    needs: update
+    if: needs.update.outputs.publish == 'true' || github.event_name == 'workflow_dispatch'
+    uses: ./.github/workflows/publish.yml
