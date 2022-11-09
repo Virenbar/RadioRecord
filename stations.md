@@ -246,18 +246,18 @@ Future и Jackin' house: Don Diablo, Tchami, Oliver Heldens
 [AAC 64](https://radiorecord.hostingradio.ru/techouse64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/techouse96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-techouse/playlist.m3u8)
-42. [Progressive](https://www.radiorecord.ru/station/progr)  
-Лучшее из progressive trance & house  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/progr64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/progr96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-progr/playlist.m3u8)
-43. [Rap Classics](https://www.radiorecord.ru/station/rapclassics)  
+42. [Rap Classics](https://www.radiorecord.ru/station/rapclassics)  
 Хип-хоп золотого периода: 2Pac, Cypress Hill, Notorius BIG, ONYX  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/rapclassics64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rapclassics96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rapclassics/playlist.m3u8)
+43. [Progressive](https://www.radiorecord.ru/station/progr)  
+Лучшее из progressive trance & house  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/progr64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/progr96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-progr/playlist.m3u8)
 44. [Breaks](https://www.radiorecord.ru/station/brks)  
 Лучшее из breakbeat, nu breaks и jungle  
 Потоки:
