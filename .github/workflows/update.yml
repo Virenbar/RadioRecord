@@ -36,10 +36,10 @@ jobs:
             git add .
             git commit -m "Stations Auto-Update (`date`)" -a || true
             git push
-            echo "{publish}={true}" >> $GITHUB_OUTPUT
+            echo "publish=true" >> $GITHUB_OUTPUT
           else
             echo "No changes."
-            echo "{publish}={false}" >> $GITHUB_OUTPUT
+            echo "publish=false" >> $GITHUB_OUTPUT
           fi
 
   publish:
