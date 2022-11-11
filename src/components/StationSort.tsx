@@ -1,14 +1,18 @@
+import { useEffect, useState } from "preact/hooks";
 
-export function StationSort() {
-    const sort = getSort();
-    const options = [
-        { key: "default", value: "По умолчанию" },
-        { key: "A-Z", value: "По алфавиту" },
-        { key: "new", value: "По новизне" }
-    ];
+const options = [
+    { key: "default", value: "По умолчанию" },
+    { key: "A-Z", value: "По алфавиту" },
+    { key: "new", value: "По новизне" }
+];
+
+export function StationSort(props: Props) {
+    const [sort, setSort] = useState(getSort());
+    useEffect(() => props.onChange(sort), [sort]);
+
     const list = options.map(O => {
         return (
-            <li><button class={`dropdown-item ${sort == O.key ? "active" : ""}`} type="button" onClick={() => setSort(O.key)}>
+            <li><button class={`dropdown-item ${sort == O.key ? "active" : ""}`} type="button" onClick={() => onSortChange(O.key)}>
                 {O.value}
             </button></li>
         );
@@ -26,14 +30,18 @@ export function StationSort() {
         </div>
     );
 
-    function setSort(sort: string) {
-        const S = new URLSearchParams(location.search);
-        S.set("sort", sort);
-        location.search = S.toString();
+    function onSortChange(sort: string) {
+        const params = getHash();
+        params.set("sort", sort);
+        location.hash = params.toString();
+        setSort(sort);
     }
 }
 
-export function getSort() {
-    const params = new URLSearchParams(location.search);
-    return params.get("sort");
+function getHash() { return new URLSearchParams(location.hash.replace("#", "?")); }
+
+function getSort() { return getHash().get("sort"); }
+
+interface Props {
+    onChange: (sort: string | null) => void
 }
