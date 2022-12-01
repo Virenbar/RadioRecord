@@ -132,7 +132,7 @@ Mash-up из главных хитов Рекорда со скоростью 5 
 [AAC 64](https://radiorecord.hostingradio.ru/vip64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/vip96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-vip/playlist.m3u8)
-23. [Party 24/7](https://www.radiorecord.ru/station/party-24-7)  
+23. [X-mas Party](https://www.radiorecord.ru/station/party-24-7)  
 Нон-стоп вечеринка с зарубежными танцевальными хитами  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/party64.aacp)

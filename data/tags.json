@@ -1,6 +1,13 @@
 {
     "list": [
         {
+            "id": 993,
+            "name": "Christmas",
+            "detail_picture": null,
+            "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n<path d=\"M11.625 18.3333H8.375V15H2.5L5.83333 9.99996H4.16667L10 1.66663L15.8333 9.99996H14.1667L17.5 15H11.625V18.3333ZM5.625 13.3333H8.95833H7.375H12.625H11.0417H14.375H5.625ZM5.625 13.3333H14.375L11.0417 8.33329H12.625L10 4.58329L7.375 8.33329H8.95833L5.625 13.3333Z\" fill=\"#97CAA6\"/>\r\n</svg>\r\n",
+            "pdf": "https://www.radiorecord.ru/upload/uf/dd0/christmass_tree.pdf"
+        },
+        {
             "id": 988,
             "name": "Лето",
             "detail_picture": null,
