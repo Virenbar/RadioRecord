@@ -10,10 +10,16 @@ https://radiorecord.hostingradio.ru/sd9096.aacp
 https://radiorecord.hostingradio.ru/russianhits64.aacp
 #EXTINF: -1,Chill-Out
 https://radiorecord.hostingradio.ru/chil96.aacp
+#EXTINF: -1,Christmas
+https://radiorecord.hostingradio.ru/christmas96.aacp
 #EXTINF: -1,Deep
 https://radiorecord.hostingradio.ru/deep96.aacp
+#EXTINF: -1,Christmas Chill
+https://radiorecord.hostingradio.ru/christmaschill96.aacp
 #EXTINF: -1,Pirate Station
 https://radiorecord.hostingradio.ru/ps96.aacp
+#EXTINF: -1,X-mas Party
+https://radiorecord.hostingradio.ru/party96.aacp
 #EXTINF: -1,Маятник Фуко
 https://radiorecord.hostingradio.ru/mf96.aacp
 #EXTINF: -1,Рекорд 00-х
@@ -44,8 +50,6 @@ https://radiorecord.hostingradio.ru/jackin96.aacp
 https://radiorecord.hostingradio.ru/201096.aacp
 #EXTINF: -1,VIP House
 https://radiorecord.hostingradio.ru/vip96.aacp
-#EXTINF: -1,X-mas Party
-https://radiorecord.hostingradio.ru/party96.aacp
 #EXTINF: -1,Trance Classics
 https://radiorecord.hostingradio.ru/trancehits96.aacp
 #EXTINF: -1,Innocence
@@ -156,8 +160,6 @@ https://radiorecord.hostingradio.ru/2step96.aacp
 https://radiorecord.hostingradio.ru/groovetribal96.aacp
 #EXTINF: -1,Rave FM
 https://radiorecord.hostingradio.ru/rave96.aacp
-#EXTINF: -1,Christmas Chill
-https://radiorecord.hostingradio.ru/christmaschill96.aacp
 #EXTINF: -1,Jungle
 https://radiorecord.hostingradio.ru/jungle96.aacp
 #EXTINF: -1,Complextro
@@ -184,5 +186,3 @@ https://radiorecord.hostingradio.ru/naft96.aacp
 https://radiorecord.hostingradio.ru/gast96.aacp
 #EXTINF: -1,Симфония FM
 https://radiorecord.hostingradio.ru/symph96.aacp
-#EXTINF: -1,Christmas
-https://radiorecord.hostingradio.ru/christmas96.aacp
