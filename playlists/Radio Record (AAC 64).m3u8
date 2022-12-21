@@ -2,6 +2,8 @@
 #PLAYLIST:Radio Record (AAC 64)
 #EXTINF: -1,Record
 https://radiorecord.hostingradio.ru/rr_main64.aacp
+#EXTINF: -1,Русская Зима
+https://radiorecord.hostingradio.ru/ruszima64.aacp
 #EXTINF: -1,Russian Mix
 https://radiorecord.hostingradio.ru/rus64.aacp
 #EXTINF: -1,Супердискотека 90-х
