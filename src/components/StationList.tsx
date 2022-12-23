@@ -4,6 +4,7 @@ import { Station } from "../model";
 import { StationCard } from "./StationCard";
 import { StationSort } from "./StationSort";
 
+const date = new Date(process.env.DATE ?? "2000.01.01");
 export function StationList(props: Props) {
     const [stations, setStations] = useState(props.stations);
     const list = stations.map(S => <StationCard key={S.id} station={S} />);
@@ -18,6 +19,9 @@ export function StationList(props: Props) {
             <div class="d-flex flex-wrap justify-content-center">
                 {list}
                 {Array(fake).fill(<div class="card fake"></div>)}
+            </div>
+            <div class="text-center pt-3 font-monospace">
+                Последнее обновление: {date.toLocaleDateString()}
             </div>
         </div>
     );

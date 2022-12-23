@@ -27,7 +27,7 @@ export interface Station {
     icon_gray: string
     icon_fill_colored: string
     icon_fill_white: string
-    new: boolean
+    new: boolean | number
     stream_64: string
     stream_128: string
     stream_320: string
