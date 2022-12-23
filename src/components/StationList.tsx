@@ -1,4 +1,4 @@
-import _ from "lodash";
+import { sortBy } from "lodash-es";
 import { useState } from "preact/hooks";
 import { Station } from "../model";
 import { StationCard } from "./StationCard";
@@ -34,9 +34,9 @@ export function StationList(props: Props) {
     function sortStations(sort: string) {
         switch (sort) {
             case "A-Z":
-                return _.sortBy(props.stations, S => S.title.toLowerCase());
+                return sortBy(props.stations, S => S.title.toLowerCase());
             case "new":
-                return _.sortBy(props.stations, S => S.prefix == "record" ? 0 : -S.id);
+                return sortBy(props.stations, S => S.prefix == "record" ? 0 : -S.id);
             default:
                 return props.stations;
         }
