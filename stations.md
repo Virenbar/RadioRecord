@@ -6,7 +6,7 @@
 [AAC 64](https://radiorecord.hostingradio.ru/rr_main64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rr_main96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8)
-2. [Русская Зима](https://radiorecord.ru/station/ruszima) (NEW)  
+2. [Русская Зима](https://radiorecord.ru/station/ruszima)  
 Родные согревающие песни  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/ruszima64.aacp)
