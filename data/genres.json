@@ -4,6 +4,7 @@
             "id": 274,
             "name": "BASS",
             "detail_picture": null,
+            "picture": null,
             "svg": null,
             "pdf": null
         },
@@ -11,6 +12,7 @@
             "id": 275,
             "name": "BREAKS",
             "detail_picture": null,
+            "picture": null,
             "svg": null,
             "pdf": null
         },
@@ -18,6 +20,7 @@
             "id": 276,
             "name": "CHILL",
             "detail_picture": null,
+            "picture": null,
             "svg": null,
             "pdf": null
         },
@@ -25,6 +28,7 @@
             "id": 277,
             "name": "DRUM",
             "detail_picture": null,
+            "picture": null,
             "svg": null,
             "pdf": null
         },
@@ -32,6 +36,7 @@
             "id": 281,
             "name": "HARD",
             "detail_picture": null,
+            "picture": null,
             "svg": null,
             "pdf": null
         },
@@ -39,6 +44,7 @@
             "id": 280,
             "name": "HOUSE",
             "detail_picture": null,
+            "picture": null,
             "svg": null,
             "pdf": null
         },
@@ -46,6 +52,7 @@
             "id": 282,
             "name": "OLDSCHOOL",
             "detail_picture": null,
+            "picture": null,
             "svg": null,
             "pdf": null
         },
@@ -53,6 +60,7 @@
             "id": 283,
             "name": "POP",
             "detail_picture": null,
+            "picture": null,
             "svg": null,
             "pdf": null
         },
@@ -60,6 +68,7 @@
             "id": 284,
             "name": "RAP/URBAN",
             "detail_picture": null,
+            "picture": null,
             "svg": null,
             "pdf": null
         },
@@ -67,6 +76,7 @@
             "id": 286,
             "name": "RUSSIAN",
             "detail_picture": null,
+            "picture": null,
             "svg": null,
             "pdf": null
         },
@@ -74,6 +84,7 @@
             "id": 285,
             "name": "TECHNO",
             "detail_picture": null,
+            "picture": null,
             "svg": null,
             "pdf": null
         },
@@ -81,6 +92,7 @@
             "id": 287,
             "name": "TRANCE",
             "detail_picture": null,
+            "picture": null,
             "svg": null,
             "pdf": null
         }
