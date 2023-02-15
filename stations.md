@@ -60,8 +60,8 @@ Downtempo-бит для тёплого новогоднего уюта
 [AAC 64](https://radiorecord.hostingradio.ru/ps64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/ps96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-ps/playlist.m3u8)
-11. [X-mas Party](https://radiorecord.ru/station/party-24-7)  
-Новогодняя вечеринка с танцевальными хитами  
+11. [Party 24/7](https://radiorecord.ru/station/party-24-7)  
+Вечеринка с танцевальными хитами  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/party64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/party96.aacp)
