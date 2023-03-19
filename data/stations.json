@@ -668,6 +668,14 @@
                     "picture": null,
                     "svg": null,
                     "pdf": null
+                },
+                {
+                    "id": 286,
+                    "name": "RUSSIAN",
+                    "detail_picture": null,
+                    "picture": null,
+                    "svg": null,
+                    "pdf": null
                 }
             ],
             "detail_page_url": "/station/mf",
