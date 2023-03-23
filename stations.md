@@ -6,19 +6,19 @@
 [AAC 64](https://radiorecord.hostingradio.ru/rr_main64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rr_main96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8)
-2. [Tiesto](https://radiorecord.ru/station/tiesto) (NEW)  
+2. [Tiesto](https://radiorecord.ru/station/tiesto)  
 Лучшие треки, ремиксы и коллабы  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/tiesto64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/tiesto96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-tiesto/playlist.m3u8)
-3. [David Guetta](https://radiorecord.ru/station/guetta) (NEW)  
+3. [David Guetta](https://radiorecord.ru/station/guetta)  
 Лучшие треки, ремиксы и коллабы  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/guetta64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/guetta96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-guetta/playlist.m3u8)
-4. [Armin van Buuren](https://radiorecord.ru/station/armin) (NEW)  
+4. [Armin van Buuren](https://radiorecord.ru/station/armin)  
 Лучшие треки, ремиксы и коллабы  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/armin64.aacp)
