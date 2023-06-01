@@ -2,14 +2,16 @@
 #PLAYLIST:Radio Record (AAC 64)
 #EXTINF: -1,Record
 https://radiorecord.hostingradio.ru/rr_main64.aacp
+#EXTINF: -1,На шашлыки!
+https://radiorecord.hostingradio.ru/nashashlyki64.aacp
 #EXTINF: -1,Tiesto
 https://radiorecord.hostingradio.ru/tiesto64.aacp
 #EXTINF: -1,David Guetta
 https://radiorecord.hostingradio.ru/guetta64.aacp
-#EXTINF: -1,Armin van Buuren
-https://radiorecord.hostingradio.ru/armin64.aacp
 #EXTINF: -1,Russian Mix
 https://radiorecord.hostingradio.ru/rus64.aacp
+#EXTINF: -1,Armin van Buuren
+https://radiorecord.hostingradio.ru/armin64.aacp
 #EXTINF: -1,Супердискотека 90-х
 https://radiorecord.hostingradio.ru/sd9064.aacp
 #EXTINF: -1,Russian Hits
@@ -176,10 +178,10 @@ https://radiorecord.hostingradio.ru/mmbt64.aacp
 https://radiorecord.hostingradio.ru/2step64.aacp
 #EXTINF: -1,Медляк FM
 https://radiorecord.hostingradio.ru/mdl64.aacp
-#EXTINF: -1,Веснушка FM
-https://radiorecord.hostingradio.ru/deti64.aacp
 #EXTINF: -1,Groove/Tribal
 https://radiorecord.hostingradio.ru/groovetribal64.aacp
+#EXTINF: -1,Веснушка FM
+https://radiorecord.hostingradio.ru/deti64.aacp
 #EXTINF: -1,Гастарбайтер FM
 https://radiorecord.hostingradio.ru/gast64.aacp
 #EXTINF: -1,Нафталин FM
