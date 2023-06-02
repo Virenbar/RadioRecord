@@ -4,6 +4,7 @@
         "naumovs.color-highlight",
         "zignd.html-css-class-completion",
         "ecmel.vscode-html-css",
-        "stylelint.vscode-stylelint"
+        "stylelint.vscode-stylelint",
+        "Vue.volar"
     ]
 }
