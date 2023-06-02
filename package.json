@@ -1,45 +1,39 @@
 {
   "name": "virenbar.radio-record",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Auto-updatable website with links to radio Record stations",
   "author": "Virenbar",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Virenbar/RadioRecord"
-  },
-  "source": "src/index.html",
+  "repository": "Virenbar/RadioRecord",
   "scripts": {
-    "start": "parcel -p 8080",
-    "build": "parcel build --public-url ./",
-    "update": "npx ts-node --esm src/update.ts"
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "update": "npx ts-node --esm .github/scripts/update.ts"
   },
   "dependencies": {
-    "@popperjs/core": "^2.11.6",
-    "bootstrap": "^5.2.3",
-    "lodash-es": "^4.17.21",
-    "preact": "^10.11.3"
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.0",
+    "bootstrap-icons": "^1.10.5",
+    "lodash-es": "^4.17.21"
   },
   "devDependencies": {
-    "@parcel/transformer-sass": "2.8.2",
-    "@tsconfig/create-react-app": "^1.0.3",
+    "@nuxt/eslint-config": "^0.1.1",
     "@types/bootstrap": "^5.2.6",
-    "@types/lodash-es": "^4.17.6",
+    "@types/lodash-es": "^4.17.0",
     "@types/node": "^18.0.0",
-    "@typescript-eslint/eslint-plugin": "^5.47.0",
-    "@typescript-eslint/parser": "^5.47.0",
-    "eslint": "^8.30.0",
-    "eslint-plugin-import": "^2.26.0",
-    "parcel": "^2.8.2",
-    "postcss-scss": "^4.0.6",
-    "stylelint": "^14.16.0",
-    "stylelint-config-standard": "^29.0.0",
-    "ts-node": "^10.9.1",
-    "typescript": "^4.9.4",
-    "undici": "5.11.0"
-  },
-  "alias": {
-    "preact/jsx-dev-runtime": "preact/jsx-runtime"
+    "eslint": "^8.41.0",
+    "nuxt": "^3.5.0",
+    "nuxt-gtag": "^0.5.7",
+    "sass": "^1.62.0",
+    "sass-loader": "^13.3.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.1.0",
+    "undici": "^5.22.0",
+    "webpack": "^5.85.0",
+    "yandex-metrika-module-nuxt3": "^1.5.3"
   },
   "type": "module",
   "private": true

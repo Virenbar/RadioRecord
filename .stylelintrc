@@ -1,0 +1,16 @@
+{
+  "extends": "stylelint-config-standard",
+  "overrides": [
+    {
+      "files": [
+        "**/*.scss"
+      ],
+      "customSyntax": "postcss-scss"
+    }
+  ],
+  "rules": {
+    "import-notation": "string",
+    "color-hex-case": "upper",
+    "number-leading-zero": "never"
+  }
+}

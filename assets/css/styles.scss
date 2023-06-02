@@ -1,0 +1,20 @@
+@import "variables.scss";
+@import "bootstrap.scss";
+
+header,
+footer {
+  background-color: $neutrals-900;
+}
+
+a {
+  text-decoration: none;
+  transition: all .3s;
+
+  &:hover {
+    color: $brand-accent-a;
+  }
+}
+
+.btn {
+  transition: all .3s;
+}

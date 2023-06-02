@@ -1,11 +1,4 @@
 {
-    "extends": "@tsconfig/create-react-app/tsconfig.json",
-    "compilerOptions": {
-        "jsxImportSource": "preact",
-        "noImplicitAny": true,
-        "experimentalDecorators": true,
-    },
-    "include": [
-        "src/**/*"
-    ]
+  // https://v3.nuxtjs.org/concepts/typescript
+  "extends": "./.nuxt/tsconfig.json"
 }

@@ -29,16 +29,16 @@ jobs:
           node-version: 18.x
           cache: "yarn"
 
-      - name: Build site
+      - name: Build website
         run: |
           date +"DATE=%Y.%m.%d" > .env
           yarn install --immutable --immutable-cache --check-cache
-          yarn run build
+          yarn generate
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./dist
+          path: .output/public
 
   deploy:
     name: Deploy
