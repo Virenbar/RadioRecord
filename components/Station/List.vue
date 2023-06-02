@@ -14,7 +14,6 @@ const stations = computed(() => {
   }
 });
 const fake = (4 - (stations.value.length % 4)) % 4;
-const date = new Date(process.env?.DATE ?? "2000.01.01");
 </script>
 <template>
   <div class="container p-3">
@@ -27,7 +26,7 @@ const date = new Date(process.env?.DATE ?? "2000.01.01");
       <StationCard v-for="n in fake" :key="n" />
     </div>
     <div class="text-center pt-3 font-monospace">
-      Последнее обновление: {{ date.toLocaleDateString() }}
+      Последнее обновление: {{ new Date(useRuntimeConfig().public.date).toLocaleDateString() }}
     </div>
   </div>
 </template>
