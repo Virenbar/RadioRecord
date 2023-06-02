@@ -1,24 +1,24 @@
 {
-    "editor.formatOnSave": true,
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true,
-        "source.fixAll.markdownlint": true,
-        "source.organizeImports": true
-    },
-    "editor.tabSize": 2,
-    "typescript.tsdk": "node_modules/typescript/lib",
-    "html.format.extraLiners": "body, /html", // Conflicts with <Head/>
-    "[vue]": {
-        "editor.defaultFormatter": "Vue.volar",
-    },
-    "[typescript]": {
-        "editor.defaultFormatter": "Vue.volar",
-    },
-    "[css]": {
-        "editor.defaultFormatter": "vscode.css-language-features"
-    },
-    "eslint.validate": [
-        "javascript",
-        "typescript"
-    ]
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.markdownlint": true,
+    "source.organizeImports": true
+  },
+  "editor.tabSize": 2,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "html.format.extraLiners": "body, /html", // Conflicts with <Head/>
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar",
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "Vue.volar",
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "eslint.validate": [
+    "javascript",
+    "typescript"
+  ]
 }

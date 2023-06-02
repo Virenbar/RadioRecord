@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { sortBy } from "lodash";
+import { sortBy } from "lodash-es";
 import Stations from "../../data/stations.json";
 
 const sort = useSort();

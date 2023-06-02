@@ -3,7 +3,7 @@ name: Auto-Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 */2 * *"
+    - cron: "0 0 */3 * *"
 
 jobs:
   update:
@@ -24,7 +24,7 @@ jobs:
       - name: Update data
         run: |
           yarn install --immutable --immutable-cache --check-cache
-          yarn run update
+          yarn update
 
       - name: Commit changes
         id: commit
