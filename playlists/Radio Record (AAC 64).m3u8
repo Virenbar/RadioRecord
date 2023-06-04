@@ -4,16 +4,16 @@
 https://radiorecord.hostingradio.ru/rr_main64.aacp
 #EXTINF: -1,На шашлыки!
 https://radiorecord.hostingradio.ru/nashashlyki64.aacp
-#EXTINF: -1,Tiesto
-https://radiorecord.hostingradio.ru/tiesto64.aacp
-#EXTINF: -1,David Guetta
-https://radiorecord.hostingradio.ru/guetta64.aacp
+#EXTINF: -1,Summer Dance
+https://radiorecord.hostingradio.ru/summerparty64.aacp
 #EXTINF: -1,Russian Mix
 https://radiorecord.hostingradio.ru/rus64.aacp
-#EXTINF: -1,Armin van Buuren
-https://radiorecord.hostingradio.ru/armin64.aacp
+#EXTINF: -1,Chill House
+https://radiorecord.hostingradio.ru/chillhouse64.aacp
 #EXTINF: -1,Супердискотека 90-х
 https://radiorecord.hostingradio.ru/sd9064.aacp
+#EXTINF: -1,Summer Lounge
+https://radiorecord.hostingradio.ru/summerlounge32.aacp
 #EXTINF: -1,Russian Hits
 https://radiorecord.hostingradio.ru/russianhits32.aacp
 #EXTINF: -1,Chill-Out
@@ -30,8 +30,6 @@ https://radiorecord.hostingradio.ru/200064.aacp
 https://radiorecord.hostingradio.ru/bighits64.aacp
 #EXTINF: -1,Маятник Фуко
 https://radiorecord.hostingradio.ru/mf64.aacp
-#EXTINF: -1,Chill House
-https://radiorecord.hostingradio.ru/chillhouse64.aacp
 #EXTINF: -1,Trancemission
 https://radiorecord.hostingradio.ru/tm64.aacp
 #EXTINF: -1,Record 80-х
@@ -48,12 +46,16 @@ https://radiorecord.hostingradio.ru/ibiza64.aacp
 https://radiorecord.hostingradio.ru/party64.aacp
 #EXTINF: -1,Record Gold
 https://radiorecord.hostingradio.ru/gold64.aacp
-#EXTINF: -1,Summer Dance
-https://radiorecord.hostingradio.ru/summerparty64.aacp
 #EXTINF: -1,На Хайпе
 https://radiorecord.hostingradio.ru/hype64.aacp
 #EXTINF: -1,Phonk
 https://radiorecord.hostingradio.ru/phonk64.aacp
+#EXTINF: -1,Tiesto
+https://radiorecord.hostingradio.ru/tiesto64.aacp
+#EXTINF: -1,David Guetta
+https://radiorecord.hostingradio.ru/guetta64.aacp
+#EXTINF: -1,Armin van Buuren
+https://radiorecord.hostingradio.ru/armin64.aacp
 #EXTINF: -1,Руки Вверх!
 https://radiorecord.hostingradio.ru/rv64.aacp
 #EXTINF: -1,Rap Hits
@@ -70,8 +72,6 @@ https://radiorecord.hostingradio.ru/jackin64.aacp
 https://radiorecord.hostingradio.ru/organic64.aacp
 #EXTINF: -1,Black Rap
 https://radiorecord.hostingradio.ru/yo64.aacp
-#EXTINF: -1,Summer Lounge
-https://radiorecord.hostingradio.ru/summerlounge32.aacp
 #EXTINF: -1,D'n'B Classics
 https://radiorecord.hostingradio.ru/drumhits64.aacp
 #EXTINF: -1,10's Dance
@@ -80,10 +80,10 @@ https://radiorecord.hostingradio.ru/201064.aacp
 https://radiorecord.hostingradio.ru/club64.aacp
 #EXTINF: -1,Lo-Fi
 https://radiorecord.hostingradio.ru/lofi64.aacp
-#EXTINF: -1,Workout
-https://radiorecord.hostingradio.ru/workout64.aacp
 #EXTINF: -1,Neurofunk
 https://radiorecord.hostingradio.ru/neurofunk64.aacp
+#EXTINF: -1,Workout
+https://radiorecord.hostingradio.ru/workout64.aacp
 #EXTINF: -1,Breaks
 https://radiorecord.hostingradio.ru/brks64.aacp
 #EXTINF: -1,Tropical

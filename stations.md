@@ -12,36 +12,36 @@
 [AAC 64](https://radiorecord.hostingradio.ru/nashashlyki64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/nashashlyki96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-nashashlyki/playlist.m3u8)
-3. [Tiesto](https://radiorecord.ru/station/tiesto)  
-Лучшие треки, ремиксы и коллабы  
+3. [Summer Dance](https://radiorecord.ru/station/summer-dance)  
+Летние клубные хиты 24/7  
 Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/tiesto64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/tiesto96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-tiesto/playlist.m3u8)
-4. [David Guetta](https://radiorecord.ru/station/guetta)  
-Лучшие треки, ремиксы и коллабы  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/guetta64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/guetta96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-guetta/playlist.m3u8)
-5. [Russian Mix](https://radiorecord.ru/station/rus)  
+[AAC 64](https://radiorecord.hostingradio.ru/summerparty64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/summerparty96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-summerparty/playlist.m3u8)
+4. [Russian Mix](https://radiorecord.ru/station/rus)  
 Русские хиты в танцевальной обработке: Zivert, Niletto, Rasa  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/rus64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rus96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rus/playlist.m3u8)
-6. [Armin van Buuren](https://radiorecord.ru/station/armin)  
-Лучшие треки, ремиксы и коллабы  
+5. [Chill House](https://radiorecord.ru/station/chillhouse)  
+Легкий, мелодичный вайб  
 Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/armin64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/armin96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-armin/playlist.m3u8)
-7. [Супердискотека 90-х](https://radiorecord.ru/station/sd90)  
+[AAC 64](https://radiorecord.hostingradio.ru/chillhouse64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/chillhouse96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-chillhouse/playlist.m3u8)
+6. [Супердискотека 90-х](https://radiorecord.ru/station/sd90)  
 Танцевальные боевики нашей юности Руки Вверх, 2 Unlimited, Masterboy  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/sd9064.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/sd9096.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8)
+7. [Summer Lounge](https://radiorecord.ru/station/summerlounge)  
+Летний чил в стиле Cafe del Mar  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/summerlounge32.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/summerlounge64.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-summerlounge/playlist.m3u8)
 8. [Russian Hits](https://radiorecord.ru/station/russianhits)  
 Русский танцевальный поп: Клава Кока, Niletto, Тима Белорусских  
 Потоки:
@@ -90,132 +90,132 @@ Mash-up из главных хитов Рекорда со скоростью 5 
 [AAC 64](https://radiorecord.hostingradio.ru/mf64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/mf96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-mf/playlist.m3u8)
-16. [Chill House](https://radiorecord.ru/station/chillhouse)  
-Легкий, мелодичный вайб  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/chillhouse64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/chillhouse96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-chillhouse/playlist.m3u8)
-17. [Trancemission](https://radiorecord.ru/station/tm)  
+16. [Trancemission](https://radiorecord.ru/station/tm)  
 Лучшее из транс-музыки: Armin, Above & Beyond, Christina Novelli  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/tm64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/tm96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-tm/playlist.m3u8)
-18. [Record 80-х](https://radiorecord.ru/station/1980)  
+17. [Record 80-х](https://radiorecord.ru/station/1980)  
 Ритмы советской и зарубежной эстрады. C. C. Catch, Modern Talking, В. Леонтьев и Ласковый Май  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/198064.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/198096.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-1980/playlist.m3u8)
-19. [Rock](https://radiorecord.ru/station/rock)  
+18. [Rock](https://radiorecord.ru/station/rock)  
 Первоапрельский спецпроект: от Цоя до Metallica  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/rock64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rock96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rock/playlist.m3u8)
-20. [Russian Gold](https://radiorecord.ru/station/russiangold)  
+19. [Russian Gold](https://radiorecord.ru/station/russiangold)  
 Российские хиты в ремиксах  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/russiangold64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/russiangold96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-russiangold/playlist.m3u8)
-21. [Pirate Station](https://radiorecord.ru/station/ps)  
+20. [Pirate Station](https://radiorecord.ru/station/ps)  
 Лучшее из drum & bass: Pendulum, Chase & Status, Camo & Krooked  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/ps64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/ps96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-ps/playlist.m3u8)
-22. [Innocence](https://radiorecord.ru/station/ibiza)  
+21. [Innocence](https://radiorecord.ru/station/ibiza)  
 Techno, Minimal, Deep. Саунд как у Solomun, Boris Brejcha и Nina Kravitz  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/ibiza64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/ibiza96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-ibiza/playlist.m3u8)
-23. [Party 24/7](https://radiorecord.ru/station/party-24-7)  
+22. [Party 24/7](https://radiorecord.ru/station/party-24-7)  
 Вечеринка с танцевальными хитами  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/party64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/party96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-party/playlist.m3u8)
-24. [Record Gold](https://radiorecord.ru/station/gold)  
+23. [Record Gold](https://radiorecord.ru/station/gold)  
 Хиты Рекорда эпохи Avicii и Swedish House Mafia  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/gold64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/gold96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-gold/playlist.m3u8)
-25. [Summer Dance](https://radiorecord.ru/station/summer-dance)  
-Летние клубные хиты 24/7  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/summerparty64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/summerparty96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-summerparty/playlist.m3u8)
-26. [На Хайпе](https://radiorecord.ru/station/hype)  
+24. [На Хайпе](https://radiorecord.ru/station/hype)  
 Топ российского стриминга  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/hype64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/hype96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-hype/playlist.m3u8)
-27. [Phonk](https://radiorecord.ru/station/phonk)  
+25. [Phonk](https://radiorecord.ru/station/phonk)  
 Атмосфера дрифта и уличных гонок  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/phonk64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/phonk96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-phonk/playlist.m3u8)
-28. [Руки Вверх!](https://radiorecord.ru/station/rv19)  
+26. [Tiesto](https://radiorecord.ru/station/tiesto)  
+Лучшие треки, ремиксы и коллабы  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/tiesto64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/tiesto96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-tiesto/playlist.m3u8)
+27. [David Guetta](https://radiorecord.ru/station/guetta)  
+Лучшие треки, ремиксы и коллабы  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/guetta64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/guetta96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-guetta/playlist.m3u8)
+28. [Armin van Buuren](https://radiorecord.ru/station/armin)  
+Лучшие треки, ремиксы и коллабы  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/armin64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/armin96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-armin/playlist.m3u8)
+29. [Руки Вверх!](https://radiorecord.ru/station/rv19)  
 24 часа в сутки - только песни Руки Вверх!  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/rv64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rv96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rv/playlist.m3u8)
-29. [Rap Hits](https://radiorecord.ru/station/rap)  
+30. [Rap Hits](https://radiorecord.ru/station/rap)  
 Рэп новой волны из России и из-за рубежа  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/rap64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rap96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rap/playlist.m3u8)
-30. [Rap Classics](https://radiorecord.ru/station/rapclassics)  
+31. [Rap Classics](https://radiorecord.ru/station/rapclassics)  
 Хип-хоп золотого периода: 2Pac, Cypress Hill, Notorius BIG, ONYX  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/rapclassics64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rapclassics96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rapclassics/playlist.m3u8)
-31. [Trance Classics](https://radiorecord.ru/station/trancehits)  
+32. [Trance Classics](https://radiorecord.ru/station/trancehits)  
 Главные хиты trance-музыки: Above&Beyond, Armin van Buuren, Ferry Corsten  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/trancehits64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/trancehits96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-trancehits/playlist.m3u8)
-32. [VIP House](https://radiorecord.ru/station/vip)  
+33. [VIP House](https://radiorecord.ru/station/vip)  
 Изысканный саунд закрытых вечеринок  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/vip64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/vip96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-vip/playlist.m3u8)
-33. [Bass House](https://radiorecord.ru/station/jackin)  
+34. [Bass House](https://radiorecord.ru/station/jackin)  
 Современный house с характерным басом: Malaa, Volac, Valentino Khan  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/jackin64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/jackin96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-jackin/playlist.m3u8)
-34. [Organic](https://radiorecord.ru/station/organic)  
+35. [Organic](https://radiorecord.ru/station/organic)  
 Легкий грув. В стиле Tim Green и Sebastien Leger  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/organic64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/organic96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-organic/playlist.m3u8)
-35. [Black Rap](https://radiorecord.ru/station/yo)  
+36. [Black Rap](https://radiorecord.ru/station/yo)  
 Рэп на английском  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/yo64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/yo96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-yo/playlist.m3u8)
-36. [Summer Lounge](https://radiorecord.ru/station/summerlounge)  
-Летний чил в стиле Cafe del Mar  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/summerlounge32.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/summerlounge64.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-summerlounge/playlist.m3u8)
 37. [D'n'B Classics](https://radiorecord.ru/station/drumhits)  
 Золотые хиты drum'n'bass Aphrodite, Pendulum, Sub Focus  
 Потоки:
@@ -240,18 +240,18 @@ Techno, Minimal, Deep. Саунд как у Solomun, Boris Brejcha и Nina Kravi
 [AAC 64](https://radiorecord.hostingradio.ru/lofi64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/lofi96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-lofi/playlist.m3u8)
-41. [Workout](https://radiorecord.ru/station/workout)  
-Бит для спортивного тонуса  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/workout64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/workout96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-workout/playlist.m3u8)
-42. [Neurofunk](https://radiorecord.ru/station/neurofunk)  
+41. [Neurofunk](https://radiorecord.ru/station/neurofunk)  
 Технологичный и стремительный бит: Black Sun Empire, Dimension, Camo & Krooked  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/neurofunk64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/neurofunk96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-neurofunk/playlist.m3u8)
+42. [Workout](https://radiorecord.ru/station/workout)  
+Бит для спортивного тонуса  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/workout64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/workout96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-workout/playlist.m3u8)
 43. [Breaks](https://radiorecord.ru/station/brks)  
 Лучшее из breakbeat, nu breaks и jungle  
 Потоки:
