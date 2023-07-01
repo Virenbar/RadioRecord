@@ -6,7 +6,7 @@
 [AAC 64](https://radiorecord.hostingradio.ru/rr_main64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rr_main96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8)
-2. [На шашлыки!](https://radiorecord.ru/station/nashashlyki) (NEW)  
+2. [На шашлыки!](https://radiorecord.ru/station/nashashlyki)  
 Русское. Летнее. Танцевальное.  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/nashashlyki64.aacp)
