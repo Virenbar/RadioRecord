@@ -427,7 +427,7 @@ Dance на скорости до 150bpm
 [AAC 96](https://radiorecord.hostingradio.ru/hbass96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-hbass/playlist.m3u8)
 72. [Electro](https://radiorecord.ru/station/elect)  
-Лучшее в Electro-house: Wolfgang Gatner, Knife Party, Curbi  
+Лучшее в Electro-house: Wolfgang Gartner, Knife Party, Curbi  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/elect64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/elect96.aacp)

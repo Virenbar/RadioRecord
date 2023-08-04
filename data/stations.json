@@ -3194,7 +3194,7 @@
             "id": 496,
             "prefix": "elect",
             "title": "Electro",
-            "tooltip": "Лучшее в Electro-house: Wolfgang Gatner, Knife Party, Curbi",
+            "tooltip": "Лучшее в Electro-house: Wolfgang Gartner, Knife Party, Curbi",
             "sort": 77,
             "bg_color": null,
             "bg_image": "https://www.radiorecord.ru/upload/iblock/5b2/508.jpg",
@@ -3204,9 +3204,9 @@
             "pdf_outline": "https://www.radiorecord.ru/upload/iblock/333/elect_outline.pdf",
             "pdf_fill": "https://www.radiorecord.ru/upload/iblock/6d0/elect_filled.pdf",
             "short_title": "Electro",
-            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/elect_image600_gray_outline.png?a=6ffb4443404b74a8b74747df7305770b",
-            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/elect_image600_colored_fill.png?a=6ffb4443404b74a8b74747df7305770b",
-            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/elect_image600_white_fill.png?a=6ffb4443404b74a8b74747df7305770b",
+            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/elect_image600_gray_outline.png?a=3aba2ec1aad6a1144b6bb3b8db012106",
+            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/elect_image600_colored_fill.png?a=3aba2ec1aad6a1144b6bb3b8db012106",
+            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/elect_image600_white_fill.png?a=3aba2ec1aad6a1144b6bb3b8db012106",
             "new": false,
             "new_date": null,
             "stream_64": "https://radiorecord.hostingradio.ru/elect64.aacp",
@@ -3226,7 +3226,7 @@
             "detail_page_url": "/station/elect",
             "shareUrl": "https://radiorecord.ru/station/elect",
             "mark": null,
-            "updated": "20.03.2023 15:41:17"
+            "updated": "03.08.2023 14:24:37"
         },
         {
             "id": 553,
