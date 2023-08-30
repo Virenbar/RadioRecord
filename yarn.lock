@@ -1044,10 +1044,10 @@
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.12.tgz#d70faba7039d5fca54c83c7dbab41051d2b6f6cb"
   integrity sha512-Hr5Jfhc9eYOQNPYO5WLDq/n4jqijdHNlDXjuAQkkt+mWdQR+XJToOHrsD4cPaMXpn6KO7y2+wM8AZEs8VpBLVA==
 
-"@types/lodash-es@^4.17.8":
-  version "4.17.8"
-  resolved "https://registry.yarnpkg.com/@types/lodash-es/-/lodash-es-4.17.8.tgz#cfffd0969507830c22da18dbb20d2ca126fdaa8b"
-  integrity sha512-euY3XQcZmIzSy7YH5+Unb3b2X12Wtk54YWINBvvGQ5SmMvwb11JQskGsfkH/5HXK77Kr8GF0wkVDIxzAisWtog==
+"@types/lodash-es@^4.17.9":
+  version "4.17.9"
+  resolved "https://registry.yarnpkg.com/@types/lodash-es/-/lodash-es-4.17.9.tgz#49dbe5112e23c54f2b387d860b7d03028ce170c2"
+  integrity sha512-ZTcmhiI3NNU7dEvWLZJkzG6ao49zOIjEgIE0RgV7wbPxU0f2xT3VSAHw2gmst8swH6V0YkLRGp4qPlX/6I90MQ==
   dependencies:
     "@types/lodash" "*"
 
@@ -1061,10 +1061,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.3.3.tgz#329842940042d2b280897150e023e604d11657d6"
   integrity sha512-wheIYdr4NYML61AjC8MKj/2jrR/kDQri/CIpVoZwldwhnIrD/j9jIU5bJ8yBKuB2VhpFV7Ab6G2XkBjv9r9Zzw==
 
-"@types/node@^18.17.11":
-  version "18.17.11"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.11.tgz#c04054659d88bfeba94095f41ef99a8ddf4e1813"
-  integrity sha512-r3hjHPBu+3LzbGBa8DHnr/KAeTEEOrahkcL+cZc4MaBMTM+mk8LtXR+zw+nqfjuDZZzYTYgTcpHuP+BEQk069g==
+"@types/node@^18.17.12":
+  version "18.17.12"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.12.tgz#c6bd7413a13e6ad9cfb7e97dd5c4e904c1821e50"
+  integrity sha512-d6xjC9fJ/nSnfDeU0AMDsaJyb1iHsqCSOdi84w4u+SlN/UgQdY5tRhpMzaFYsI4mnpvgTivEaQd0yOUhAtOnEQ==
 
 "@types/resolve@1.20.2":
   version "1.20.2"
@@ -3979,10 +3979,10 @@ nuxi@3.6.5:
   optionalDependencies:
     fsevents "~2.3.2"
 
-nuxt-gtag@^0.6.1:
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/nuxt-gtag/-/nuxt-gtag-0.6.1.tgz#6bcbf797d194489cf2a3dc287d37846b41c06be8"
-  integrity sha512-HQQkspu60QbJwLnL8+ASQC2GKZJtnlez4JD9TwJzCtdkClcsK2yvb2kEKYK3veVWkB2dWeFd7ZybE1RQyYlanQ==
+nuxt-gtag@^0.6.2:
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/nuxt-gtag/-/nuxt-gtag-0.6.2.tgz#8d4d6d32b23e1e452992ccc34a598f9a6c4e29e3"
+  integrity sha512-gtmOG/AeNJKbKyoFACQK7jM8o5CYb5ChJsgsK2mDXiuJTvkCAZ5moJyXGRaZTPJhbpC4xzDGnEWmoZKs7aSaaQ==
   dependencies:
     "@nuxt/kit" "^3.6.5"
     defu "^6.1.2"
