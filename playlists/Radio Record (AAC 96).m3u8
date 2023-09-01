@@ -2,8 +2,12 @@
 #PLAYLIST:Radio Record (AAC 96)
 #EXTINF: -1,Record
 https://radiorecord.hostingradio.ru/rr_main96.aacp
-#EXTINF: -1,На шашлыки!
-https://radiorecord.hostingradio.ru/nashashlyki96.aacp
+#EXTINF: -1,Afro
+https://radiorecord.hostingradio.ru/afro96.aacp https://radiorecord.hostingradio.ru/afro64.aacp https://radiorecord.hostingradio.ru/afro64.aacp
+#EXTINF: -1,Lo-Fi House
+https://radiorecord.hostingradio.ru/lofihouse96.aacp https://radiorecord.hostingradio.ru/lofihouse64.aacp https://radiorecord.hostingradio.ru/lofihouse64.aacp
+#EXTINF: -1,Nu Dance
+https://radiorecord.hostingradio.ru/nudance96.aacp https://radiorecord.hostingradio.ru/nudance64.aacp https://radiorecord.hostingradio.ru/nudance64.aacp
 #EXTINF: -1,Summer Dance
 https://radiorecord.hostingradio.ru/summerparty96.aacp
 #EXTINF: -1,Russian Mix
@@ -14,6 +18,8 @@ https://radiorecord.hostingradio.ru/chillhouse96.aacp
 https://radiorecord.hostingradio.ru/sd9096.aacp
 #EXTINF: -1,Summer Lounge
 https://radiorecord.hostingradio.ru/summerlounge64.aacp
+#EXTINF: -1,На шашлыки!
+https://radiorecord.hostingradio.ru/nashashlyki96.aacp
 #EXTINF: -1,Russian Hits
 https://radiorecord.hostingradio.ru/russianhits64.aacp
 #EXTINF: -1,Chill-Out
