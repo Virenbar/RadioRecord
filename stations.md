@@ -9,20 +9,20 @@
 2. [Afro](https://radiorecord.ru/station/afro) (NEW)  
 Этно-ритмы на стыке Kwaito & soulful house.  
 Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/afro96.aacp https://radiorecord.hostingradio.ru/afro64.aacp https://radiorecord.hostingradio.ru/afro32.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/afro96.aacp https://radiorecord.hostingradio.ru/afro64.aacp https://radiorecord.hostingradio.ru/afro64.aacp)
+[AAC 64](https://radiorecord.hostingradio.ru/afro32.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/afro64.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-afro/playlist.m3u8)
 3. [Lo-Fi House](https://radiorecord.ru/station/lo-fi-house) (NEW)  
 Ламповый бит в стиле DJ Seinfeld & Bruce Trail.  
 Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/lofihouse96.aacp https://radiorecord.hostingradio.ru/lofihouse64.aacp https://radiorecord.hostingradio.ru/lofihouse32.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/lofihouse96.aacp https://radiorecord.hostingradio.ru/lofihouse64.aacp https://radiorecord.hostingradio.ru/lofihouse64.aacp)
+[AAC 64](https://radiorecord.hostingradio.ru/lofihouse32.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/lofihouse64.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-lofihouse/playlist.m3u8)
 4. [Nu Dance](https://radiorecord.ru/station/nu-dance) (NEW)  
 Дэнс на скорости 150 bpm в стиле Oliver Tree & Hardwell.  
 Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/nudance96.aacp https://radiorecord.hostingradio.ru/nudance64.aacp https://radiorecord.hostingradio.ru/nudance32.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/nudance96.aacp https://radiorecord.hostingradio.ru/nudance64.aacp https://radiorecord.hostingradio.ru/nudance64.aacp)
+[AAC 64](https://radiorecord.hostingradio.ru/nudance32.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/nudance64.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-nudance/playlist.m3u8)
 5. [Summer Dance](https://radiorecord.ru/station/summer-dance)  
 Летние клубные хиты 24/7  
@@ -54,18 +54,18 @@
 [AAC 64](https://radiorecord.hostingradio.ru/summerlounge32.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/summerlounge64.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-summerlounge/playlist.m3u8)
-10. [На шашлыки!](https://radiorecord.ru/station/nashashlyki)  
-Русское. Летнее. Танцевальное.  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/nashashlyki64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/nashashlyki96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-nashashlyki/playlist.m3u8)
-11. [Russian Hits](https://radiorecord.ru/station/russianhits)  
+10. [Russian Hits](https://radiorecord.ru/station/russianhits)  
 Русский танцевальный поп: Клава Кока, Niletto, Тима Белорусских  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/russianhits32.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/russianhits64.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-russianhits/playlist.m3u8)
+11. [На шашлыки!](https://radiorecord.ru/station/nashashlyki)  
+Русское. Летнее. Танцевальное.  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/nashashlyki64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/nashashlyki96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-nashashlyki/playlist.m3u8)
 12. [Chill-Out](https://radiorecord.ru/station/chil)  
 Расслабляющий вайб  
 Потоки:
