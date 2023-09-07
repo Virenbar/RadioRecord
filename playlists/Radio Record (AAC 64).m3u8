@@ -8,16 +8,10 @@ https://radiorecord.hostingradio.ru/afro32.aacp
 https://radiorecord.hostingradio.ru/lofihouse32.aacp
 #EXTINF: -1,Nu Dance
 https://radiorecord.hostingradio.ru/nudance32.aacp
-#EXTINF: -1,Summer Dance
-https://radiorecord.hostingradio.ru/summerparty64.aacp
 #EXTINF: -1,Russian Mix
 https://radiorecord.hostingradio.ru/rus64.aacp
-#EXTINF: -1,Chill House
-https://radiorecord.hostingradio.ru/chillhouse64.aacp
 #EXTINF: -1,Супердискотека 90-х
 https://radiorecord.hostingradio.ru/sd9064.aacp
-#EXTINF: -1,Summer Lounge
-https://radiorecord.hostingradio.ru/summerlounge32.aacp
 #EXTINF: -1,Russian Hits
 https://radiorecord.hostingradio.ru/russianhits32.aacp
 #EXTINF: -1,На шашлыки!
@@ -30,10 +24,14 @@ https://radiorecord.hostingradio.ru/deep64.aacp
 https://radiorecord.hostingradio.ru/mix64.aacp
 #EXTINF: -1,Remix
 https://radiorecord.hostingradio.ru/rmx64.aacp
+#EXTINF: -1,Chill House
+https://radiorecord.hostingradio.ru/chillhouse64.aacp
 #EXTINF: -1,Рекорд 00-х
 https://radiorecord.hostingradio.ru/200064.aacp
 #EXTINF: -1,Big Hits
 https://radiorecord.hostingradio.ru/bighits64.aacp
+#EXTINF: -1,Summer Dance
+https://radiorecord.hostingradio.ru/summerparty64.aacp
 #EXTINF: -1,Маятник Фуко
 https://radiorecord.hostingradio.ru/mf64.aacp
 #EXTINF: -1,Trancemission
@@ -62,6 +60,8 @@ https://radiorecord.hostingradio.ru/tiesto64.aacp
 https://radiorecord.hostingradio.ru/guetta64.aacp
 #EXTINF: -1,Armin van Buuren
 https://radiorecord.hostingradio.ru/armin64.aacp
+#EXTINF: -1,Summer Lounge
+https://radiorecord.hostingradio.ru/summerlounge32.aacp
 #EXTINF: -1,Руки Вверх!
 https://radiorecord.hostingradio.ru/rv64.aacp
 #EXTINF: -1,Rap Hits
