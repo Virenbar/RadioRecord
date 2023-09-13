@@ -6,7 +6,7 @@
 [AAC 64](https://radiorecord.hostingradio.ru/rr_main64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rr_main96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8)
-2. [Afro](https://radiorecord.ru/station/afro) (NEW)  
+2. [Afro House](https://radiorecord.ru/station/afro) (NEW)  
 Этно-ритмы на стыке Kwaito & soulful house.  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/afro32.aacp)

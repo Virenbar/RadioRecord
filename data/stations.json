@@ -49,7 +49,7 @@
         {
             "id": 43927,
             "prefix": "afro",
-            "title": "Afro",
+            "title": "Afro House",
             "tooltip": "Этно-ритмы на стыке Kwaito & soulful house.",
             "sort": 2,
             "bg_color": null,
@@ -60,9 +60,9 @@
             "pdf_outline": null,
             "pdf_fill": null,
             "short_title": "Afro",
-            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/afro_image600_gray_outline.png?a=a9d43e37c7c95c2c5f3f4d9560d95e59",
-            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/afro_image600_colored_fill.png?a=a9d43e37c7c95c2c5f3f4d9560d95e59",
-            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/afro_image600_white_fill.png?a=a9d43e37c7c95c2c5f3f4d9560d95e59",
+            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/afro_image600_gray_outline.png?a=2d3a2f6c5aff1cd505318fa6f755c5f4",
+            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/afro_image600_colored_fill.png?a=2d3a2f6c5aff1cd505318fa6f755c5f4",
+            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/afro_image600_white_fill.png?a=2d3a2f6c5aff1cd505318fa6f755c5f4",
             "new": true,
             "new_date": "30.09.2023",
             "stream_64": "https://radiorecord.hostingradio.ru/afro32.aacp",
@@ -82,7 +82,7 @@
             "detail_page_url": "/station/afro",
             "shareUrl": "https://radiorecord.ru/station/afro",
             "mark": null,
-            "updated": "01.09.2023 16:21:05"
+            "updated": "12.09.2023 11:46:09"
         },
         {
             "id": 43925,
