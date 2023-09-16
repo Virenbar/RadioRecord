@@ -295,7 +295,7 @@ Techno, Minimal, Deep. Саунд как у Solomun, Boris Brejcha и Nina Kravi
 [AAC 96](https://radiorecord.hostingradio.ru/trap96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-trap/playlist.m3u8)
 50. [Liquid Funk](https://radiorecord.ru/station/liquidfunk)  
-Атмосферный drum'b'bass  
+Атмосферный drum'n'bass  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/liquidfunk64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/liquidfunk96.aacp)

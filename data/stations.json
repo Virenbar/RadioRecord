@@ -2246,7 +2246,7 @@
             "id": 522,
             "prefix": "liquidfunk",
             "title": "Liquid Funk",
-            "tooltip": "Атмосферный drum'b'bass",
+            "tooltip": "Атмосферный drum'n'bass",
             "sort": 50,
             "bg_color": null,
             "bg_image": "https://www.radiorecord.ru/upload/iblock/c9b/liquidfunk.jpeg",
@@ -2256,9 +2256,9 @@
             "pdf_outline": "https://www.radiorecord.ru/upload/iblock/33b/liquidfunk_outline.pdf",
             "pdf_fill": "https://www.radiorecord.ru/upload/iblock/7f6/liquidfunk_filled.pdf",
             "short_title": "Liquid Funk",
-            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/liquidfunk_image600_gray_outline.png?a=5b7041d9a5e7bc689ba4d6a59fdfb8e0",
-            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/liquidfunk_image600_colored_fill.png?a=5b7041d9a5e7bc689ba4d6a59fdfb8e0",
-            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/liquidfunk_image600_white_fill.png?a=5b7041d9a5e7bc689ba4d6a59fdfb8e0",
+            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/liquidfunk_image600_gray_outline.png?a=9e0812ca7661fb1155d1d5497ee58277",
+            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/liquidfunk_image600_colored_fill.png?a=9e0812ca7661fb1155d1d5497ee58277",
+            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/liquidfunk_image600_white_fill.png?a=9e0812ca7661fb1155d1d5497ee58277",
             "new": false,
             "new_date": null,
             "stream_64": "https://radiorecord.hostingradio.ru/liquidfunk64.aacp",
@@ -2278,7 +2278,7 @@
             "detail_page_url": "/station/liquidfunk",
             "shareUrl": "https://radiorecord.ru/station/liquidfunk",
             "mark": null,
-            "updated": "20.03.2023 15:49:13"
+            "updated": "15.09.2023 08:40:08"
         },
         {
             "id": 545,
