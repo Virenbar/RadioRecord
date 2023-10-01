@@ -6,19 +6,19 @@
 [AAC 64](https://radiorecord.hostingradio.ru/rr_main64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rr_main96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8)
-2. [Lo-Fi House](https://radiorecord.ru/station/lo-fi-house) (NEW)  
+2. [Lo-Fi House](https://radiorecord.ru/station/lo-fi-house)  
 Ламповый бит в стиле DJ Seinfeld & Bruce Trail.  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/lofihouse32.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/lofihouse64.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-lofihouse/playlist.m3u8)
-3. [Nu Dance](https://radiorecord.ru/station/nu-dance) (NEW)  
+3. [Nu Dance](https://radiorecord.ru/station/nu-dance)  
 Дэнс на скорости 150 bpm в стиле Oliver Tree & Hardwell.  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/nudance32.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/nudance64.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-nudance/playlist.m3u8)
-4. [Afro House](https://radiorecord.ru/station/afro) (NEW)  
+4. [Afro House](https://radiorecord.ru/station/afro)  
 Этно-ритмы на стыке Kwaito & soulful house.  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/afro32.aacp)
