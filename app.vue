@@ -6,7 +6,10 @@ useHead({
   ],
   meta: [
     { name: "description", content: "Автоматически обновляемый список ссылок на каналы радио Record" }
-  ]
+  ],
+  htmlAttrs: {
+    "data-bs-theme": "dark"
+  }
 });
 useSeoMeta({
   ogType: "website",

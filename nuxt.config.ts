@@ -7,7 +7,10 @@ export default defineNuxtConfig({
   yandexMetrika: { id: "87731504" },
   runtimeConfig: {
     public: {
-      date: process.env.DATE ?? "2000.01.01"
+      repository: "https://github.com/Virenbar/RadioRecord",
+      branch: process.env.BRANCH || "master",
+      hash: process.env.COMMIT_REF || "unknown",
+      date: new Date().toISOString()
     }
   },
   vite: {
