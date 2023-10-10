@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       repository: "https://github.com/Virenbar/RadioRecord",
-      branch: process.env.BRANCH || "master",
+      branch: process.env.HEAD || "master",
       hash: process.env.COMMIT_REF || "unknown",
       date: new Date().toISOString()
     }
