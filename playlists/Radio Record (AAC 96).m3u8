@@ -2,20 +2,22 @@
 #PLAYLIST:Radio Record (AAC 96)
 #EXTINF: -1,Record
 https://radiorecord.hostingradio.ru/rr_main96.aacp
+#EXTINF: -1,Колбасный Цех
+https://radiorecord.hostingradio.ru/pump96.aacp
 #EXTINF: -1,Russian Mix
 https://radiorecord.hostingradio.ru/rus96.aacp
 #EXTINF: -1,Супердискотека 90-х
 https://radiorecord.hostingradio.ru/sd9096.aacp
 #EXTINF: -1,Russian Hits
 https://radiorecord.hostingradio.ru/russianhits64.aacp
-#EXTINF: -1,На шашлыки!
-https://radiorecord.hostingradio.ru/nashashlyki96.aacp
 #EXTINF: -1,Chill-Out
 https://radiorecord.hostingradio.ru/chil96.aacp
 #EXTINF: -1,Deep
 https://radiorecord.hostingradio.ru/deep96.aacp
 #EXTINF: -1,Megamix
 https://radiorecord.hostingradio.ru/mix96.aacp
+#EXTINF: -1,На шашлыки!
+https://radiorecord.hostingradio.ru/nashashlyki96.aacp
 #EXTINF: -1,Remix
 https://radiorecord.hostingradio.ru/rmx96.aacp
 #EXTINF: -1,Chill House
@@ -150,8 +152,6 @@ https://radiorecord.hostingradio.ru/dc96.aacp
 https://radiorecord.hostingradio.ru/hbass96.aacp
 #EXTINF: -1,Electro
 https://radiorecord.hostingradio.ru/elect96.aacp
-#EXTINF: -1,Old School
-https://radiorecord.hostingradio.ru/pump96.aacp
 #EXTINF: -1,Progressive
 https://radiorecord.hostingradio.ru/progr96.aacp
 #EXTINF: -1,EDM Classics

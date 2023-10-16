@@ -2,20 +2,22 @@
 #PLAYLIST:Radio Record (AAC 64)
 #EXTINF: -1,Record
 https://radiorecord.hostingradio.ru/rr_main64.aacp
+#EXTINF: -1,Колбасный Цех
+https://radiorecord.hostingradio.ru/pump64.aacp
 #EXTINF: -1,Russian Mix
 https://radiorecord.hostingradio.ru/rus64.aacp
 #EXTINF: -1,Супердискотека 90-х
 https://radiorecord.hostingradio.ru/sd9064.aacp
 #EXTINF: -1,Russian Hits
 https://radiorecord.hostingradio.ru/russianhits32.aacp
-#EXTINF: -1,На шашлыки!
-https://radiorecord.hostingradio.ru/nashashlyki64.aacp
 #EXTINF: -1,Chill-Out
 https://radiorecord.hostingradio.ru/chil64.aacp
 #EXTINF: -1,Deep
 https://radiorecord.hostingradio.ru/deep64.aacp
 #EXTINF: -1,Megamix
 https://radiorecord.hostingradio.ru/mix64.aacp
+#EXTINF: -1,На шашлыки!
+https://radiorecord.hostingradio.ru/nashashlyki64.aacp
 #EXTINF: -1,Remix
 https://radiorecord.hostingradio.ru/rmx64.aacp
 #EXTINF: -1,Chill House
@@ -150,8 +152,6 @@ https://radiorecord.hostingradio.ru/dc64.aacp
 https://radiorecord.hostingradio.ru/hbass64.aacp
 #EXTINF: -1,Electro
 https://radiorecord.hostingradio.ru/elect64.aacp
-#EXTINF: -1,Old School
-https://radiorecord.hostingradio.ru/pump64.aacp
 #EXTINF: -1,Progressive
 https://radiorecord.hostingradio.ru/progr64.aacp
 #EXTINF: -1,EDM Classics
