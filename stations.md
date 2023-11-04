@@ -552,18 +552,18 @@ Dance на минималках
 [AAC 64](https://radiorecord.hostingradio.ru/mdl64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/mdl96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-mdl/playlist.m3u8)
-93. [Groove/Tribal](https://radiorecord.ru/station/groovetribal)  
-Этнический бит  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/groovetribal64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/groovetribal96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-groovetribal/playlist.m3u8)
-94. [Веснушка FM](https://radiorecord.ru/station/deti)  
+93. [Веснушка FM](https://radiorecord.ru/station/deti)  
 Первоапрельский спецпроект: песни детства  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/deti64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/deti96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-deti/playlist.m3u8)
+94. [Groove/Tribal](https://radiorecord.ru/station/groovetribal)  
+Этнический бит  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/groovetribal64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/groovetribal96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-groovetribal/playlist.m3u8)
 95. [Гастарбайтер FM](https://radiorecord.ru/station/gast)  
 Первоапрельский спецпроект  
 Потоки:
@@ -594,15 +594,15 @@ Downtempo-бит для тёплого новогоднего уюта
 [AAC 64](https://radiorecord.hostingradio.ru/christmaschill64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/christmaschill96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-christmaschill/playlist.m3u8)
-100. [Christmas](https://radiorecord.ru/station/christmas-radio)  
-Популярные новогодние и рождественские треки  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/christmas64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/christmas96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-christmas/playlist.m3u8)
-101. [Русская Зима](https://radiorecord.ru/station/ruszima)  
+100. [Русская Зима](https://radiorecord.ru/station/ruszima)  
 Родные согревающие песни  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/ruszima64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/ruszima96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-ruszima/playlist.m3u8)
+101. [Christmas](https://radiorecord.ru/station/christmas-radio)  
+Популярные новогодние и рождественские треки  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/christmas64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/christmas96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-christmas/playlist.m3u8)
