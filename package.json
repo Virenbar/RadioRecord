@@ -31,7 +31,6 @@
     "sass": "^1.69.5",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2",
-    "undici-types": "~5.25.1",
     "webpack": "^5.89.0",
     "yandex-metrika-module-nuxt3": "^1.5.3"
   },
