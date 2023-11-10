@@ -14,12 +14,10 @@
       "matchPackagePatterns": [
         "^@nuxt/"
       ]
-    },
-    {
-      "matchPackageNames": [
-        "undici-types"
-      ],
-      "enabled": false
     }
-  ]
+  ],
+  "schedule": [
+    "every weekend"
+  ],
+  "assigneesFromCodeOwners": true
 }
