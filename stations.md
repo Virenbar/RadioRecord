@@ -6,7 +6,7 @@
 [AAC 64](https://radiorecord.hostingradio.ru/rr_main64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rr_main96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8)
-2. [Колбасный Цех](https://radiorecord.ru/station/pump) (NEW)  
+2. [Колбасный Цех](https://radiorecord.ru/station/pump)  
 Саунд золотой эпохи рейвов: DJ Aligator, Klubbheads, Club Caviar  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/pump64.aacp)
