@@ -6,48 +6,48 @@
 [AAC 64](https://radiorecord.hostingradio.ru/rr_main64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rr_main96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8)
-2. [Колбасный Цех](https://radiorecord.ru/station/pump)  
-Саунд золотой эпохи рейвов: DJ Aligator, Klubbheads, Club Caviar  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/pump64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/pump96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-pump/playlist.m3u8)
-3. [Russian Mix](https://radiorecord.ru/station/rus)  
+2. [Russian Mix](https://radiorecord.ru/station/rus)  
 Русские хиты в танцевальной обработке: Zivert, Niletto, Rasa  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/rus64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rus96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rus/playlist.m3u8)
-4. [Супердискотека 90-х](https://radiorecord.ru/station/sd90)  
+3. [Супердискотека 90-х](https://radiorecord.ru/station/sd90)  
 Танцевальные боевики нашей юности Руки Вверх, 2 Unlimited, Masterboy  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/sd9064.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/sd9096.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8)
-5. [Russian Hits](https://radiorecord.ru/station/russianhits)  
+4. [Russian Hits](https://radiorecord.ru/station/russianhits)  
 Русский танцевальный поп: Клава Кока, Niletto, Тима Белорусских  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/russianhits32.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/russianhits64.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-russianhits/playlist.m3u8)
-6. [Chill-Out](https://radiorecord.ru/station/chil)  
+5. [Chill-Out](https://radiorecord.ru/station/chil)  
 Расслабляющий вайб  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/chil64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/chil96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-chil/playlist.m3u8)
-7. [Deep](https://radiorecord.ru/station/deep)  
+6. [Deep](https://radiorecord.ru/station/deep)  
 Глубокое house-звучание  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/deep64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/deep96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-deep/playlist.m3u8)
-8. [Megamix](https://radiorecord.ru/station/mix)  
+7. [Megamix](https://radiorecord.ru/station/mix)  
 Mash-up из главных хитов Рекорда со скоростью 5 треков в минуту!  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/mix64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/mix96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-mix/playlist.m3u8)
+8. [Колбасный Цех](https://radiorecord.ru/station/pump)  
+Саунд золотой эпохи рейвов: DJ Aligator, Klubbheads, Club Caviar  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/pump64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/pump96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-pump/playlist.m3u8)
 9. [На шашлыки!](https://radiorecord.ru/station/nashashlyki)  
 Русское. Летнее. Танцевальное.  
 Потоки:
