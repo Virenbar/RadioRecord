@@ -11,7 +11,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "update": "npx ts-node --esm .github/scripts/update.ts"
+    "update": "tsx ./.github/scripts/update.ts"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
@@ -25,11 +25,11 @@
     "@types/lodash-es": "^4.17.11",
     "@types/node": "^18.18.10",
     "eslint": "^8.54.0",
-    "nuxt-gtag": "^1.1.1",
     "nuxt": "^3.8.1",
-    "sass-loader": "^13.3.2",
+    "nuxt-gtag": "^1.1.1",
     "sass": "^1.69.5",
-    "ts-node": "^10.9.1",
+    "sass-loader": "^13.3.2",
+    "tsx": "^4.5.0",
     "typescript": "^5.2.2",
     "webpack": "^5.89.0",
     "yandex-metrika-module-nuxt3": "^1.5.3"
