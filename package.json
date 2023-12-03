@@ -23,7 +23,7 @@
     "@nuxt/eslint-config": "^0.2.0",
     "@types/bootstrap": "^5.2.10",
     "@types/lodash-es": "^4.17.12",
-    "@types/node": "^18.18.13",
+    "@types/node": "^20.10.3",
     "eslint": "^8.54.0",
     "nuxt": "^3.8.2",
     "nuxt-gtag": "^1.1.1",
