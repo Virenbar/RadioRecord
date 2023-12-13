@@ -8,10 +8,16 @@ https://radiorecord.hostingradio.ru/rus64.aacp
 https://radiorecord.hostingradio.ru/sd9064.aacp
 #EXTINF: -1,Russian Hits
 https://radiorecord.hostingradio.ru/russianhits32.aacp
+#EXTINF: -1,Christmas Chill
+https://radiorecord.hostingradio.ru/christmaschill64.aacp
 #EXTINF: -1,Chill-Out
 https://radiorecord.hostingradio.ru/chil64.aacp
+#EXTINF: -1,Русская Зима
+https://radiorecord.hostingradio.ru/ruszima64.aacp
 #EXTINF: -1,Deep
 https://radiorecord.hostingradio.ru/deep64.aacp
+#EXTINF: -1,Christmas
+https://radiorecord.hostingradio.ru/christmas64.aacp
 #EXTINF: -1,Megamix
 https://radiorecord.hostingradio.ru/mix64.aacp
 #EXTINF: -1,Колбасный Цех
@@ -196,9 +202,3 @@ https://radiorecord.hostingradio.ru/naft64.aacp
 https://radiorecord.hostingradio.ru/symph64.aacp
 #EXTINF: -1,Complextro
 https://radiorecord.hostingradio.ru/complextro64.aacp
-#EXTINF: -1,Christmas Chill
-https://radiorecord.hostingradio.ru/christmaschill64.aacp
-#EXTINF: -1,Русская Зима
-https://radiorecord.hostingradio.ru/ruszima64.aacp
-#EXTINF: -1,Christmas
-https://radiorecord.hostingradio.ru/christmas64.aacp
