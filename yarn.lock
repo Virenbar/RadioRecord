@@ -1467,10 +1467,10 @@
   dependencies:
     undici-types "~5.26.4"
 
-"@types/node@^20.10.5":
-  version "20.10.5"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.5.tgz#47ad460b514096b7ed63a1dae26fad0914ed3ab2"
-  integrity sha512-nNPsNE65wjMxEKI93yOP+NPGGBJz/PoN3kZsVLee0XMiJolxSekEVD8wRwBUBqkwc7UWop0edW50yrCQW4CyRw==
+"@types/node@^20.10.6":
+  version "20.10.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.6.tgz#a3ec84c22965802bf763da55b2394424f22bfbb5"
+  integrity sha512-Vac8H+NlRNNlAmDfGUP7b5h/KA+AtWIzuXy0E6OyP8f1tCLYAtPvKRRDJjAPqhpCb0t6U2j7/xqAuLEebW2kiw==
   dependencies:
     undici-types "~5.26.4"
 
@@ -5429,17 +5429,17 @@ safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-sass-loader@^13.3.2:
-  version "13.3.2"
-  resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-13.3.2.tgz#460022de27aec772480f03de17f5ba88fa7e18c6"
-  integrity sha512-CQbKl57kdEv+KDLquhC+gE3pXt74LEAzm+tzywcA0/aHZuub8wTErbjAoNI57rPUWRYRNC5WUnNl8eGJNbDdwg==
+sass-loader@^13.3.3:
+  version "13.3.3"
+  resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-13.3.3.tgz#60df5e858788cffb1a3215e5b92e9cba61e7e133"
+  integrity sha512-mt5YN2F1MOZr3d/wBRcZxeFgwgkH44wVc2zohO2YF6JiOMkiXe4BYRZpSu2sO1g71mo/j16txzUhsKZlqjVGzA==
   dependencies:
     neo-async "^2.6.2"
 
-sass@^1.69.5:
-  version "1.69.5"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.69.5.tgz#23e18d1c757a35f2e52cc81871060b9ad653dfde"
-  integrity sha512-qg2+UCJibLr2LCVOt3OlPhr/dqVHWOa9XtZf2OjbLs/T4VPSJ00udtgJxH3neXZm+QqX8B+3cU7RaLqp1iVfcQ==
+sass@^1.69.6:
+  version "1.69.6"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.69.6.tgz#88ae1f93facc46d2da9b0bdd652d65068bcfa397"
+  integrity sha512-qbRr3k9JGHWXCvZU77SD2OTwUlC+gNT+61JOLcmLm+XqH4h/5D+p4IIsxvpkB89S9AwJOyb5+rWNpIucaFxSFQ==
   dependencies:
     chokidar ">=3.0.0 <4.0.0"
     immutable "^4.0.0"
