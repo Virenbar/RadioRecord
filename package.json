@@ -16,7 +16,7 @@
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.2",
-    "bootstrap-icons": "^1.11.2",
+    "bootstrap-icons": "^1.11.3",
     "lodash-es": "^4.17.21"
   },
   "devDependencies": {
@@ -27,7 +27,7 @@
     "eslint": "^8.56.0",
     "nuxt": "^3.9.0",
     "nuxt-gtag": "^1.1.2",
-    "sass": "^1.69.6",
+    "sass": "^1.69.7",
     "sass-loader": "^13.3.3",
     "tsx": "^4.7.0",
     "typescript": "^5.3.3",
