@@ -28,7 +28,7 @@
     "nuxt": "^3.9.3",
     "nuxt-gtag": "^1.1.2",
     "sass": "^1.70.0",
-    "sass-loader": "^13.3.3",
+    "sass-loader": "^14.0.0",
     "tsx": "^4.7.0",
     "typescript": "^5.3.3",
     "webpack": "^5.89.0",
