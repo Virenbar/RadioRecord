@@ -810,9 +810,9 @@
             "pdf_outline": "https://www.radiorecord.ru/upload/iblock/7c7/mf_outline.pdf",
             "pdf_fill": "https://www.radiorecord.ru/upload/iblock/a83/mf_filled.pdf",
             "short_title": "Маятник Фуко",
-            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/mf_image600_gray_outline.png?a=caf95aaa19d19e2374153f60ef62c19e",
-            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/mf_image600_colored_fill.png?a=caf95aaa19d19e2374153f60ef62c19e",
-            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/mf_image600_white_fill.png?a=caf95aaa19d19e2374153f60ef62c19e",
+            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/mf_image600_gray_outline.png?a=fb7548db68f1addb6cd286db1b5843cc",
+            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/mf_image600_colored_fill.png?a=fb7548db68f1addb6cd286db1b5843cc",
+            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/mf_image600_white_fill.png?a=fb7548db68f1addb6cd286db1b5843cc",
             "new": false,
             "new_date": null,
             "stream_64": "https://radiorecord.hostingradio.ru/mf64.aacp",
@@ -839,8 +839,8 @@
             ],
             "detail_page_url": "/station/mf",
             "shareUrl": "https://radiorecord.ru/station/mf",
-            "mark": null,
-            "updated": "20.03.2023 15:59:46"
+            "mark": "<div style=\"position: absolute; inset: 0px; background: #2c2c2c; border-color: white; border-radius: 3px; left: -5px; top: 0px; bottom: 0px; right: -5px;\">\r\n</div>\r\n<div style=\"position: relative; color: white; white-space: nowrap\">\r\n\t 18+\r\n</div>\r\n",
+            "updated": "01.03.2024 13:31:10"
         },
         {
             "id": 533,
