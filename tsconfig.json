@@ -1,5 +1,5 @@
 {
-  // https://v3.nuxtjs.org/concepts/typescript
+  // https://nuxt.com/docs/guide/concepts/typescript
   "extends": "./.nuxt/tsconfig.json",
   "include": [
     "./.github/**/*"
