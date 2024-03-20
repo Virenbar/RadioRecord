@@ -40,6 +40,14 @@ jobs:
             echo "publish=false" >> $GITHUB_OUTPUT
           fi
 
+      - name: Discord message
+        uses: sarisia/actions-status-discord@v1
+        if: always()
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          description: ${{ steps.commit.outputs.publish == 'true' && 'Publish started' || 'Publish skipped' }}
+          color: ${{ steps.commit.outputs.publish == 'true' && '0x009800' || '0x1e1f22' }}
+
   publish:
     name: Publish
     needs: update
