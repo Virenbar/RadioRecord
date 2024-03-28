@@ -8,16 +8,8 @@ https://radiorecord.hostingradio.ru/rus64.aacp
 https://radiorecord.hostingradio.ru/sd9064.aacp
 #EXTINF: -1,Russian Hits
 https://radiorecord.hostingradio.ru/russianhits32.aacp
-#EXTINF: -1,Martin Garrix
-https://radiorecord.hostingradio.ru/martingarrix32.aacp
-#EXTINF: -1,Nejtrino & Baur
-https://radiorecord.hostingradio.ru/nejtrinobaur32.aacp
 #EXTINF: -1,Ultra Music Festival
 https://radiorecord.hostingradio.ru/ultra32.aacp
-#EXTINF: -1,Oliver Heldens
-https://radiorecord.hostingradio.ru/oliverheldens32.aacp
-#EXTINF: -1,DJ Цветкоff
-https://radiorecord.hostingradio.ru/tsvetkov32.aacp
 #EXTINF: -1,Chill-Out
 https://radiorecord.hostingradio.ru/chil64.aacp
 #EXTINF: -1,Deep
@@ -118,8 +110,12 @@ https://radiorecord.hostingradio.ru/workout64.aacp
 https://radiorecord.hostingradio.ru/brks64.aacp
 #EXTINF: -1,Tropical
 https://radiorecord.hostingradio.ru/trop64.aacp
+#EXTINF: -1,Martin Garrix
+https://radiorecord.hostingradio.ru/martingarrix32.aacp
 #EXTINF: -1,Tech House
 https://radiorecord.hostingradio.ru/techouse64.aacp
+#EXTINF: -1,DJ Цветкоff
+https://radiorecord.hostingradio.ru/tsvetkov32.aacp
 #EXTINF: -1,Trap
 https://radiorecord.hostingradio.ru/trap64.aacp
 #EXTINF: -1,Liquid Funk
@@ -132,6 +128,8 @@ https://radiorecord.hostingradio.ru/househits64.aacp
 https://radiorecord.hostingradio.ru/goa64.aacp
 #EXTINF: -1,Trancehouse
 https://radiorecord.hostingradio.ru/trancehouse64.aacp
+#EXTINF: -1,Nejtrino & Baur
+https://radiorecord.hostingradio.ru/nejtrinobaur32.aacp
 #EXTINF: -1,Ambient
 https://radiorecord.hostingradio.ru/ambient64.aacp
 #EXTINF: -1,TOP 100 EDM
@@ -154,6 +152,8 @@ https://radiorecord.hostingradio.ru/dreampop64.aacp
 https://radiorecord.hostingradio.ru/houseclss64.aacp
 #EXTINF: -1,Uplifting
 https://radiorecord.hostingradio.ru/uplift64.aacp
+#EXTINF: -1,Oliver Heldens
+https://radiorecord.hostingradio.ru/oliverheldens32.aacp
 #EXTINF: -1,Eurodance
 https://radiorecord.hostingradio.ru/eurodance64.aacp
 #EXTINF: -1,60's Dance
