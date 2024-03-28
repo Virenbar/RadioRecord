@@ -30,8 +30,8 @@
     "sass": "^1.72.0",
     "sass-loader": "^14.1.1",
     "tsx": "^4.7.1",
-    "typescript": "^5.4.2",
-    "webpack": "^5.90.3",
+    "typescript": "^5.4.3",
+    "webpack": "^5.91.0",
     "yandex-metrika-module-nuxt3": "^1.5.3"
   },
   "type": "module",
