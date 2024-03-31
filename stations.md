@@ -24,7 +24,7 @@
 [AAC 64](https://radiorecord.hostingradio.ru/russianhits32.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/russianhits64.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-russianhits/playlist.m3u8)
-5. [Ultra Music Festival](https://radiorecord.ru/station/ultra) (NEW)  
+5. [Ultra Music Festival](https://radiorecord.ru/station/ultra)  
 Live-сеты с одного из лучших электронных фестивалей мира  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/ultra32.aacp)
