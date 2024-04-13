@@ -2,7 +2,11 @@ export default defineNuxtConfig({
   css: [
     "@/assets/css/styles.scss"
   ],
-  modules: ["nuxt-gtag", "yandex-metrika-module-nuxt3"],
+  modules: [
+    "@nuxt/eslint",
+    "nuxt-gtag",
+    "@artmizu/yandex-metrika-nuxt"
+  ],
   gtag: { id: "G-J31NMXDD2E" },
   yandexMetrika: { id: "87731504" },
   runtimeConfig: {

@@ -11,7 +11,7 @@ useHead({
     "data-bs-theme": "dark"
   }
 });
-useSeoMeta({
+useServerSeoMeta({
   ogType: "website",
   ogTitle: "Каналы радио Record",
   ogSiteName: "Каналы радио Record",
