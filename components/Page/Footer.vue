@@ -20,9 +20,9 @@ const treeURL = `${repository}/tree/${hash}`;
 
     <div class="d-none d-md-block">
       Build:
-      <a :href="branchURL" target="_blank">
+      <NuxtLink :to="branchURL" target="_blank">
         {{ branch }}
-      </a>
+      </NuxtLink>
       <span v-if="tree != 'unknown'">@<NuxtLink :to="treeURL" target="_blank"> {{ tree }} </NuxtLink></span>
       <span v-else>#{{ formatDate(new Date(date)).replaceAll(".", "") }}</span>
     </div>
