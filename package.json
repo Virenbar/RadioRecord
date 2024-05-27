@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@artmizu/yandex-metrika-nuxt": "^1.0.4",
-    "@nuxt/eslint": "^0.3.9",
+    "@nuxt/eslint": "^0.3.13",
     "@types/bootstrap": "^5.2.10",
     "@types/lodash-es": "^4.17.12",
     "@types/node": "^20.12.7",
