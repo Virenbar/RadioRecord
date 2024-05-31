@@ -1242,9 +1242,9 @@
             "pdf_outline": null,
             "pdf_fill": null,
             "short_title": "Afro",
-            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/afro_image600_gray_outline.png?a=499aca1354835f17bdd2ee21d03f1566",
-            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/afro_image600_colored_fill.png?a=499aca1354835f17bdd2ee21d03f1566",
-            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/afro_image600_white_fill.png?a=499aca1354835f17bdd2ee21d03f1566",
+            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/afro_image600_gray_outline.png?a=220c65aad6f323592b9f6e48d6ed23fc",
+            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/afro_image600_colored_fill.png?a=220c65aad6f323592b9f6e48d6ed23fc",
+            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/afro_image600_white_fill.png?a=220c65aad6f323592b9f6e48d6ed23fc",
             "new": false,
             "stream_64": "https://radiorecord.hostingradio.ru/afro32.aacp",
             "stream_128": "https://radiorecord.hostingradio.ru/afro64.aacp",
@@ -1258,12 +1258,20 @@
                     "picture": null,
                     "svg": null,
                     "pdf": null
+                },
+                {
+                    "id": 988,
+                    "name": "Лето",
+                    "detail_picture": "https://www.radiorecord.ru/upload/iblock/7a8/beach_umbrells_summer.png",
+                    "picture": "381132",
+                    "svg": "<svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n<path d=\"M16.271 17.5L11.062 12.271L12.271 11.021L17.5 16.25L16.271 17.5ZM5.062 16.958C4.20133 16.1113 3.56266 15.1637 3.146 14.115C2.72933 13.0663 2.521 12.0003 2.521 10.917C2.521 9.83366 2.72233 8.78133 3.125 7.76C3.52766 6.73933 4.14566 5.81233 4.979 4.979C5.81233 4.14566 6.73933 3.52766 7.76 3.125C8.78133 2.72233 9.83366 2.521 10.917 2.521C12.0277 2.521 13.1073 2.73266 14.156 3.156C15.2047 3.58 16.1457 4.21533 16.979 5.062L5.062 16.958ZM5.229 14.312L6.292 13.271C6.06933 12.979 5.861 12.6837 5.667 12.385C5.47233 12.087 5.295 11.785 5.135 11.479C4.97566 11.1737 4.83333 10.8647 4.708 10.552C4.58333 10.2393 4.47233 9.93033 4.375 9.625C4.23633 10.4863 4.23633 11.3163 4.375 12.115C4.51366 12.913 4.79833 13.6453 5.229 14.312ZM7.562 12.042L12.062 7.5C11.4653 7.05533 10.8717 6.69433 10.281 6.417C9.691 6.139 9.13566 5.94433 8.615 5.833C8.09366 5.72233 7.62833 5.698 7.219 5.76C6.809 5.82266 6.486 5.972 6.25 6.208C6.014 6.458 5.86466 6.79133 5.802 7.208C5.73933 7.62466 5.76366 8.09366 5.875 8.615C5.98633 9.13566 6.18066 9.691 6.458 10.281C6.736 10.8717 7.104 11.4587 7.562 12.042ZM13.271 6.292L14.375 5.229C13.625 4.771 12.8473 4.476 12.042 4.344C11.236 4.212 10.4373 4.22233 9.646 4.375C9.93733 4.45833 10.236 4.559 10.542 4.677C10.8473 4.795 11.1493 4.934 11.448 5.094C11.7467 5.25333 12.0487 5.43366 12.354 5.635C12.6593 5.837 12.965 6.056 13.271 6.292Z\" fill=\"#A26B6B\"/>\r\n</svg>\r\n",
+                    "pdf": "https://www.radiorecord.ru/upload/uf/f7f/beach_umbrells_summer.pdf"
                 }
             ],
             "detail_page_url": "/station/afro",
             "shareUrl": "https://radiorecord.ru/station/afro",
             "mark": null,
-            "updated": "09.10.2023 16:22:55"
+            "updated": "30.05.2024 17:18:28"
         },
         {
             "id": 43455,
