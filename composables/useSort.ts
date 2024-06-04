@@ -1,1 +1,1 @@
-export const useSort = () => useState<string>("sort", () => "");
+export const useSort = () => useState<Sort>("sort", () => "default");

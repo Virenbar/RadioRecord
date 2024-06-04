@@ -1,5 +1,5 @@
 import fs from "fs";
-import type { Station, Stations } from "../../types";
+import type { Station, Stations } from "../../types/record";
 
 async function Update() {
     const response = await fetch("https://www.radiorecord.ru/api/stations/");

@@ -1,1 +1,1 @@
-export * from "./record";
+type Sort = "default" | "A-Z" | "new"

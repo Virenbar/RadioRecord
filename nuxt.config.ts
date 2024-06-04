@@ -1,3 +1,9 @@
+import CP from "child_process";
+
+const branch = process.env.HEAD || "master";
+const hash = CP.execSync("git rev-parse HEAD").toString().trim() || "unknown";
+const date = new Date().toISOString();
+
 export default defineNuxtConfig({
   css: [
     "@/assets/css/styles.scss"
@@ -12,9 +18,9 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       repository: "https://github.com/Virenbar/RadioRecord",
-      branch: process.env.HEAD || "master",
-      hash: process.env.COMMIT_REF || "unknown",
-      date: new Date().toISOString()
+      branch: branch,
+      hash: hash,
+      date: date
     }
   },
   vite: {
