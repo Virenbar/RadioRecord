@@ -1,6 +1,5 @@
 <!-- eslint-disable vue/no-v-html -->
 <script setup lang="ts">
-import type { Station } from "~/types/record";
 
 const props = defineProps<{ station?: Station }>();
 const S = computed(() => props.station);

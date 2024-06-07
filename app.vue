@@ -1,11 +1,13 @@
 <script setup lang="ts">
+const title = "Каналы радио Record";
+const description = "Автоматически обновляемый список ссылок на каналы радио Record";
 useHead({
-  title: "Каналы радио Record",
+  title,
   link: [
     { rel: "icon", type: "image/png", href: "https://www.radiorecord.ru/favicon.ico" }
   ],
   meta: [
-    { name: "description", content: "Автоматически обновляемый список ссылок на каналы радио Record" }
+    { name: "description", content: description }
   ],
   htmlAttrs: {
     "data-bs-theme": "dark"
@@ -13,10 +15,11 @@ useHead({
 });
 useServerSeoMeta({
   ogType: "website",
-  ogTitle: "Каналы радио Record",
-  ogSiteName: "Каналы радио Record",
+  ogTitle: title,
+  ogSiteName: title,
   ogUrl: "https://virenbar.ru/RadioRecord/",
-  ogDescription: "Автоматически обновляемый список ссылок на каналы радио Record",
+  ogDescription: description,
+  description,
   ogImage: "https://www.radiorecord.ru/logo300-300.jpg",
   ogImageSecureUrl: "https://www.radiorecord.ru/logo300-300.jpg"
 });

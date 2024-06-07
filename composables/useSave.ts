@@ -1,28 +1,31 @@
-import FS from "file-saver";
+import { saveAs } from "file-saver";
 
-function save(Tracks: PlaylistTrack[], name: string) {
-  let playlist = "#EXTM3U\n";
-  playlist += `#PLAYLIST:${name}\n`;
-  Tracks.forEach(T => {
-    playlist += `#EXTINF: -1,${T.name}\n`;
-    playlist += `${T.path}\n`;
-  });
-  FS.saveAs(playlist, `${name}.m3u8`);
-  console.log(`Playlist saved: ${name}`);
+function getTrack(station: Station, quality: PlaylistQuality) {
+  switch (quality) {
+    case "AAC 64":
+      return station.stream_64;
+    case "AAC 96":
+      return station.stream_128;
+    default:
+      return station.stream_64;
+  }
 }
 
-function savePlaylist(quality: PlaylistQuality) {
+function savePlaylist(quality: PlaylistQuality, checked: Set<number>) {
   const { stations } = useData();
-  switch (quality) {
-    case "AAC 96":
-      save(stations.value.map<PlaylistTrack>(S => ({ name: S.title, path: S.stream_128 })), "Radio Record (AAC 96)");
-      break;
-    case "AAC 64":
-      save(stations.value.map<PlaylistTrack>(S => ({ name: S.title, path: S.stream_64 })), "Radio Record (AAC 64)");
-      break;
-    default:
-      return;
-  }
+  const tracks = stations.value.filter(s => checked.has(s.id));
+
+  const name = `Radio Record (${quality})`;
+  let playlist = "#EXTM3U\n";
+  playlist += `#PLAYLIST:${name}\n`;
+  tracks.forEach(T => {
+    playlist += `#EXTINF: -1,${T.title}\n`;
+    playlist += `${getTrack(T, quality)}\n`;
+  });
+  const blob = new Blob([playlist]);
+  saveAs(blob, `${name}.m3u8`);
+  console.log(`Playlist saved: ${name}(${tracks.length})`);
+
 }
 
 export default function () {

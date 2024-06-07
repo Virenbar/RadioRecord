@@ -1,7 +1,8 @@
-import CP from "child_process";
+import { execSync } from "child_process";
 
-const branch = process.env.HEAD || "master";
-const hash = CP.execSync("git rev-parse HEAD").toString().trim() || "unknown";
+const exec = (command: string) => execSync(command).toString().trim();
+const branch = exec("git branch --show-current");
+const hash = exec("git rev-parse HEAD");
 const date = new Date().toISOString();
 
 export default defineNuxtConfig({

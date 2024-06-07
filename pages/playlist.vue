@@ -36,7 +36,7 @@ function changeChecked(id: number) {
       <StationSort />
     </div>
     <div class="card">
-      <div class="card-header">
+      <div class="card-header text-center">
         <div class="btn-group">
           <button class="btn btn-secondary" @click="changeAll(true)">
             Выбрать все
@@ -46,25 +46,26 @@ function changeChecked(id: number) {
           </button>
         </div>
       </div>
-      <div class="card-body">
-        <div class="d-flex flex-wrap justify-content-center">
-          <div v-for="station in stations" :key="station.id" class="form-check">
+      <div class="card-body mx-auto">
+        <ul class="list-unstyled">
+          <li v-for="station in stations" :key="station.id">
             <input
-              id="stationCheck" class="form-check-input" type="checkbox" value="" :checked="checked.has(station.id)"
+              :id="`stationCheck${station.id}`" class="form-check-input me-2" type="checkbox" :checked="checked.has(station.id)"
               @change="changeChecked(station.id)">
-            <label class="form-check-label" for="stationCheck">
+            <label class="form-check-label" :for="`stationCheck${station.id}`">
               {{ station.title }}
             </label>
-          </div>
-        </div>
+          </li>
+        </ul>
       </div>
-      <div class="card-footer">
+      <div class="card-footer text-center">
         <div class="btn-group">
-          <button class="btn btn-primary" @click="savePlaylist('AAC 64')">
-            Скачать AAC 64
+          <div class="btn btn-outline-primary active">Скачать</div>
+          <button class="btn btn-outline-primary" @click="savePlaylist('AAC 64', checked)">
+            AAC 64
           </button>
-          <button class="btn btn-primary" @click="savePlaylist('AAC 96')">
-            Скачать AAC 96
+          <button class="btn btn-outline-primary" @click="savePlaylist('AAC 96', checked)">
+            AAC 96
           </button>
         </div>
       </div>
@@ -72,7 +73,8 @@ function changeChecked(id: number) {
   </div>
 </template>
 <style scoped>
-label {
-  min-width: 10em;
+.card-body {
+  column-width: 10em;
+  column-count: 5;
 }
 </style>

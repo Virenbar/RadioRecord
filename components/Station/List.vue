@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const { stations } = useData()
+const { stations } = useData();
 const fake = (4 - (stations.value.length % 4)) % 4;
 </script>
 <template>
