@@ -12,8 +12,8 @@
 [AAC 64](https://radiorecord.hostingradio.ru/rus64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rus96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rus/playlist.m3u8)
-3. [Summer Dance](https://radiorecord.ru/station/summer-dance)  
-Летние клубные хиты 24/7  
+3. [Summer Dance от Т-Банк](https://radiorecord.ru/station/summer-dance)  
+Т-Банк представляет: летние танцевальные хиты 24/7  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/summerparty64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/summerparty96.aacp)
