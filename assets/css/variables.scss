@@ -37,6 +37,7 @@ $borders-night-light: #2A2A2A;
 // Bootstrap Overrides
 // Colors
 $primary: $brand-accent;
+$secondary: $neutrals-500;
 $red: #F91A3F;
 
 // Fonts
@@ -46,6 +47,10 @@ $font-family-sans-serif: "Roboto", "Segoe UI", "Helvetica Neue", "Noto Sans", "L
 // Links
 $link-color: $brand-accent;
 $link-color-dark: $brand-accent;
+
+// Navbar
+$navbar-light-active-color: $brand-accent;
+$navbar-dark-active-color: $brand-accent;
 
 // Body
 $body-bg: $neutrals-800;

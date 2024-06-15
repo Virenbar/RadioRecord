@@ -1,4 +1,4 @@
-export interface Stations {
+interface Stations {
   result: {
     tags: Tag[]
     genre: Genre[],
@@ -6,16 +6,16 @@ export interface Stations {
   }
 }
 
-export interface Tag {
+interface Tag {
   id: number
   name: string
   svg: string
   pdf: string
 }
 
-export type Genre = Omit<Tag, "svg" | "pdf">
+type Genre = Omit<Tag, "svg" | "pdf">
 
-export interface Station {
+interface Station {
   id: number
   prefix: string
   title: string
@@ -38,13 +38,13 @@ export interface Station {
 
 }
 
-export interface StationsNow {
+interface StationsNow {
   result: {
     id: number
     track: Track
   }
 }
-export interface Track {
+interface Track {
   id: number;
   artist: string;
   song: string;

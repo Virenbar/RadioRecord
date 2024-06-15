@@ -1,18 +1,14 @@
 <script setup lang="ts">
+const { getParameter, setParameter } = useHash();
 const sort = useSort();
-sort.value = getHash().get("sort") || "default";
+sort.value = getParameter("sort") || "default";
 
-function getHash() { return new URLSearchParams(location.hash.replace("#", "?")); }
-
-function onSortChange(value: string) {
-  const params = getHash();
-  params.set("sort", value);
-  location.hash = params.toString();
+function onSortClick(value: Sort) {
+  setParameter("sort", value);
   sort.value = value;
-  console.log(sort.value);
 }
 
-const options = [
+const options: SortOptions = [
   { key: "default", value: "По умолчанию" },
   { key: "A-Z", value: "По алфавиту" },
   { key: "new", value: "По новизне" }
@@ -25,7 +21,7 @@ const options = [
     </button>
     <ul class="dropdown-menu">
       <li v-for="O in options" :key="O.key">
-        <button class="dropdown-item" :class="{ 'active': sort == O.key }" type="button" :onClick="() => onSortChange(O.key)">
+        <button class="dropdown-item" :class="{ 'active': sort == O.key }" type="button" @click="onSortClick(O.key)">
           {{ O.value }}
         </button>
       </li>
