@@ -24,7 +24,7 @@
 [AAC 64](https://radiorecord.hostingradio.ru/sd9064.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/sd9096.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8)
-5. [Beach Party](https://radiorecord.ru/station/beach) (NEW)  
+5. [Beach Party](https://radiorecord.ru/station/beach)  
 Жаркий саунд пляжной вечеринки  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/beach32.aacp)
