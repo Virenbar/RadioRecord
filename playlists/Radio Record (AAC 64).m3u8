@@ -14,6 +14,8 @@ https://radiorecord.hostingradio.ru/summerparty64.aacp
 https://radiorecord.hostingradio.ru/beach32.aacp
 #EXTINF: -1,Russian Hits
 https://radiorecord.hostingradio.ru/russianhits32.aacp
+#EXTINF: -1,Festivals
+https://radiorecord.hostingradio.ru/livedjsets64.aacp
 #EXTINF: -1,Deep
 https://radiorecord.hostingradio.ru/deep64.aacp
 #EXTINF: -1,Chill-Out
@@ -210,8 +212,6 @@ https://radiorecord.hostingradio.ru/mt64.aacp
 https://radiorecord.hostingradio.ru/fbass64.aacp
 #EXTINF: -1,Martin Garrix
 https://radiorecord.hostingradio.ru/martingarrix32.aacp
-#EXTINF: -1,Live DJ-sets
-https://radiorecord.hostingradio.ru/livedjsets64.aacp
 #EXTINF: -1,Русская Зима
 https://radiorecord.hostingradio.ru/ruszima64.aacp
 #EXTINF: -1,Oliver Heldens
