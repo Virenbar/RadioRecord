@@ -1,7 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>nuxt/renovate-config-nuxt"
+    "github>nuxt/renovate-config-nuxt",
+    "schedule:monthly"
   ],
   "packageRules": [
     {
@@ -15,9 +16,6 @@
         "^@nuxt/"
       ]
     }
-  ],
-  "schedule": [
-    "every weekend"
   ],
   "assigneesFromCodeOwners": true
 }
