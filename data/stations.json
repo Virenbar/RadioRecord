@@ -106,10 +106,11 @@
             "pdf_outline": null,
             "pdf_fill": null,
             "short_title": "Сказки MC V",
-            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/skazki_image600_gray_outline.png?a=beaa89c4f3a57e371a62ed61b058b991",
-            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/skazki_image600_colored_fill.png?a=beaa89c4f3a57e371a62ed61b058b991",
-            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/skazki_image600_white_fill.png?a=beaa89c4f3a57e371a62ed61b058b991",
-            "new": false,
+            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/skazki_image600_gray_outline.png?a=ffa25d222255c714b9675b57ed4c1ac8",
+            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/skazki_image600_colored_fill.png?a=ffa25d222255c714b9675b57ed4c1ac8",
+            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/skazki_image600_white_fill.png?a=ffa25d222255c714b9675b57ed4c1ac8",
+            "new": true,
+            "new_date": "31.07.2024",
             "stream_64": "https://radiorecord.hostingradio.ru/skazki32.aacp",
             "stream_128": "https://radiorecord.hostingradio.ru/skazki64.aacp",
             "stream_320": "https://radiorecord.hostingradio.ru/skazki96.aacp",
@@ -143,7 +144,7 @@
             "detail_page_url": "/station/skazki",
             "shareUrl": "https://radiorecord.ru/station/skazki",
             "mark": null,
-            "updated": "12.07.2024 11:29:46"
+            "updated": "22.07.2024 12:32:14"
         },
         {
             "id": 539,

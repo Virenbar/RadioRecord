@@ -12,7 +12,7 @@
 [AAC 64](https://radiorecord.hostingradio.ru/rus64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rus96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rus/playlist.m3u8)
-3. [Сказки MC V](https://radiorecord.ru/station/skazki)  
+3. [Сказки MC V](https://radiorecord.ru/station/skazki) (NEW)  
 Волшебные истории от старого сказочника  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/skazki32.aacp)
