@@ -4,12 +4,14 @@
 https://radiorecord.hostingradio.ru/rr_main64.aacp
 #EXTINF: -1,Russian Mix
 https://radiorecord.hostingradio.ru/rus64.aacp
-#EXTINF: -1,Сказки MC V
-https://radiorecord.hostingradio.ru/skazki32.aacp
+#EXTINF: -1,Christmas Chill
+https://radiorecord.hostingradio.ru/christmaschill64.aacp
+#EXTINF: -1,Christmas
+https://radiorecord.hostingradio.ru/christmas64.aacp
+#EXTINF: -1,Русская Зима
+https://radiorecord.hostingradio.ru/ruszima64.aacp
 #EXTINF: -1,Супердискотека 90-х
 https://radiorecord.hostingradio.ru/sd9064.aacp
-#EXTINF: -1,Summer Dance
-https://radiorecord.hostingradio.ru/summerparty64.aacp
 #EXTINF: -1,Beach Party
 https://radiorecord.hostingradio.ru/beach32.aacp
 #EXTINF: -1,Russian Hits
@@ -20,6 +22,8 @@ https://radiorecord.hostingradio.ru/livedjsets64.aacp
 https://radiorecord.hostingradio.ru/deep64.aacp
 #EXTINF: -1,Chill-Out
 https://radiorecord.hostingradio.ru/chil64.aacp
+#EXTINF: -1,Сказки MC V
+https://radiorecord.hostingradio.ru/skazki32.aacp
 #EXTINF: -1,На шашлыки!
 https://radiorecord.hostingradio.ru/nashashlyki64.aacp
 #EXTINF: -1,Megamix
@@ -30,10 +34,10 @@ https://radiorecord.hostingradio.ru/rock64.aacp
 https://radiorecord.hostingradio.ru/rmx64.aacp
 #EXTINF: -1,Гоп FM
 https://radiorecord.hostingradio.ru/gop64.aacp
-#EXTINF: -1,Chill House
-https://radiorecord.hostingradio.ru/chillhouse64.aacp
 #EXTINF: -1,Big Hits
 https://radiorecord.hostingradio.ru/bighits64.aacp
+#EXTINF: -1,Chill House
+https://radiorecord.hostingradio.ru/chillhouse64.aacp
 #EXTINF: -1,Рекорд 00-х
 https://radiorecord.hostingradio.ru/200064.aacp
 #EXTINF: -1,Record 80-х
@@ -44,6 +48,8 @@ https://radiorecord.hostingradio.ru/naft64.aacp
 https://radiorecord.hostingradio.ru/mf64.aacp
 #EXTINF: -1,Trancemission
 https://radiorecord.hostingradio.ru/tm64.aacp
+#EXTINF: -1,Summer Dance
+https://radiorecord.hostingradio.ru/summerparty64.aacp
 #EXTINF: -1,Russian Gold
 https://radiorecord.hostingradio.ru/russiangold64.aacp
 #EXTINF: -1,Pirate Station
@@ -212,8 +218,6 @@ https://radiorecord.hostingradio.ru/mt64.aacp
 https://radiorecord.hostingradio.ru/fbass64.aacp
 #EXTINF: -1,Martin Garrix
 https://radiorecord.hostingradio.ru/martingarrix32.aacp
-#EXTINF: -1,Русская Зима
-https://radiorecord.hostingradio.ru/ruszima64.aacp
 #EXTINF: -1,Oliver Heldens
 https://radiorecord.hostingradio.ru/oliverheldens32.aacp
 #EXTINF: -1,Moombahton
@@ -224,7 +228,3 @@ https://radiorecord.hostingradio.ru/2step64.aacp
 https://radiorecord.hostingradio.ru/complextro64.aacp
 #EXTINF: -1,Groove/Tribal
 https://radiorecord.hostingradio.ru/groovetribal64.aacp
-#EXTINF: -1,Christmas Chill
-https://radiorecord.hostingradio.ru/christmaschill64.aacp
-#EXTINF: -1,Christmas
-https://radiorecord.hostingradio.ru/christmas64.aacp
