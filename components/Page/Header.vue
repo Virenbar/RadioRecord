@@ -35,6 +35,8 @@
   </header>
 </template>
 <style scoped lang="scss">
+@import "@/assets/css/variables.scss";
+
 .nav-link {
   color: $text-night-primary;
   transition: all .3s;

@@ -24,11 +24,6 @@ jobs:
           node-version: 20.x
           cache: "yarn"
 
-      - name: Set variables
-        run: |
-          echo "NUXT_PUBLIC_BRANCH=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> "$GITHUB_ENV"
-          echo "NUXT_PUBLIC_HASH=${GITHUB_SHA}" >> "$GITHUB_ENV"
-
       - name: Build website
         run: |
           yarn install --immutable --immutable-cache --check-cache

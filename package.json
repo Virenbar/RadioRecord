@@ -28,13 +28,14 @@
     "@types/lodash-es": "^4.17.12",
     "@types/node": "^20.17.6",
     "eslint": "^9.14.0",
-    "nuxt-gtag": "^3.0.1",
     "nuxt": "^3.14.1592",
-    "sass-loader": "^16.0.3",
+    "nuxt-gtag": "^3.0.1",
     "sass": "^1.80.6",
+    "sass-loader": "^16.0.3",
     "tsx": "^4.19.2",
     "typescript": "^5.6.3",
-    "webpack": "^5.96.1"
+    "vue": "latest",
+    "vue-router": "latest"
   },
   "type": "module",
   "private": true

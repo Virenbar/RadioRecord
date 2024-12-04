@@ -29,6 +29,8 @@ const S = computed(() => props.station);
   <div v-else class="card fake" />
 </template>
 <style scoped lang="scss">
+@import "@/assets/css/variables.scss";
+
 .card {
   flex: 1 1 0;
   margin: 3px;

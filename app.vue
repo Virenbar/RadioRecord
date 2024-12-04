@@ -1,27 +1,26 @@
 <script setup lang="ts">
 const title = "Каналы радио Record";
 const description = "Автоматически обновляемый список ссылок на каналы радио Record";
+const logo = "https://www.radiorecord.ru/logo300-300.jpg"
 useHead({
-  title,
-  link: [
-    { rel: "icon", type: "image/png", href: "https://www.radiorecord.ru/favicon.ico" }
-  ],
-  meta: [
-    { name: "description", content: description }
-  ],
-  htmlAttrs: {
-    "data-bs-theme": "dark"
-  }
+  titleTemplate: (chunk) => (chunk ? `${chunk} - ` : "") + title,
+  link: [{ rel: "icon", type: "image/png", href: "https://www.radiorecord.ru/favicon.ico" }],
+  meta: [{ name: "description", content: description }],
+  htmlAttrs: { lang: "ru", "data-bs-theme": "dark" }
 });
-useServerSeoMeta({
-  ogType: "website",
-  ogTitle: title,
-  ogSiteName: title,
-  ogUrl: "https://virenbar.ru/RadioRecord/",
-  ogDescription: description,
+useSeoMeta({
   description,
-  ogImage: "https://www.radiorecord.ru/logo300-300.jpg",
-  ogImageSecureUrl: "https://www.radiorecord.ru/logo300-300.jpg"
+  ogDescription: description,
+  ogImage: logo,
+  ogImageSecureUrl: logo,
+  ogSiteName: title,
+  ogTitle: title,
+  ogType: "website",
+  ogUrl: "https://virenbar.ru/RadioRecord/",
+  twitterCard: "summary",
+  twitterDescription: description,
+  twitterImage: logo,
+  twitterTitle: title
 });
 </script>
 <template>
