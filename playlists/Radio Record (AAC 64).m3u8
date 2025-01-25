@@ -4,12 +4,6 @@
 https://radiorecord.hostingradio.ru/rr_main64.aacp
 #EXTINF: -1,Russian Mix
 https://radiorecord.hostingradio.ru/rus64.aacp
-#EXTINF: -1,Christmas Chill
-https://radiorecord.hostingradio.ru/christmaschill64.aacp
-#EXTINF: -1,Christmas
-https://radiorecord.hostingradio.ru/christmas64.aacp
-#EXTINF: -1,Русская Зима
-https://radiorecord.hostingradio.ru/ruszima64.aacp
 #EXTINF: -1,Супердискотека 90-х
 https://radiorecord.hostingradio.ru/sd9064.aacp
 #EXTINF: -1,Beach Party
@@ -204,8 +198,14 @@ https://radiorecord.hostingradio.ru/djgvozd32.aacp
 https://radiorecord.hostingradio.ru/edmhits64.aacp
 #EXTINF: -1,Tecktonik
 https://radiorecord.hostingradio.ru/tecktonik64.aacp
+#EXTINF: -1,Christmas Chill
+https://radiorecord.hostingradio.ru/christmaschill64.aacp
+#EXTINF: -1,Christmas
+https://radiorecord.hostingradio.ru/christmas64.aacp
 #EXTINF: -1,Jungle
 https://radiorecord.hostingradio.ru/jungle64.aacp
+#EXTINF: -1,Русская Зима
+https://radiorecord.hostingradio.ru/ruszima64.aacp
 #EXTINF: -1,Hypnotic
 https://radiorecord.hostingradio.ru/hypno64.aacp
 #EXTINF: -1,UK Garage
