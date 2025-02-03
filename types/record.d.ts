@@ -1,4 +1,4 @@
-interface Stations {
+export interface Stations {
   result: {
     tags: Tag[]
     genre: Genre[],
@@ -15,7 +15,7 @@ interface Tag {
 
 type Genre = Omit<Tag, "svg" | "pdf">
 
-interface Station {
+export interface Station {
   id: number
   prefix: string
   title: string

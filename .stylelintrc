@@ -9,8 +9,6 @@
     }
   ],
   "rules": {
-    "import-notation": "string",
-    "color-hex-case": "upper",
-    "number-leading-zero": "never"
+    "import-notation": "string"
   }
 }

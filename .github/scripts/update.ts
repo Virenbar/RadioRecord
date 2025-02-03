@@ -1,5 +1,5 @@
 import fs from "fs";
-import type { Station, Stations } from "../../types/update";
+import type { Station, Stations } from "../../types/record";
 
 async function Update() {
     const response = await fetch("https://www.radiorecord.ru/api/stations/");
@@ -48,12 +48,13 @@ function CreatePlaylist(Tracks: PlaylistTrack[], name: string) {
     console.log(`Playlist created: ${name}`);
 }
 
-Update().then(() => {
+try {
+    await Update();
     console.log("Update successful");
-}).catch((e) => {
-    console.error(e);
+} catch (error) {
+    console.error(error);
     throw new Error("Update failed");
-});
+}
 
 interface PlaylistTrack {
     name: string

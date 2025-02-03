@@ -4,7 +4,6 @@ import withNuxt from "./.nuxt/eslint.config.mjs";
 export default withNuxt(
   {
     "rules": {
-      "@typescript-eslint/type-annotation-spacing": "warn",
       "quotes": "warn",
       "eol-last": "warn",
       "semi": "warn",
