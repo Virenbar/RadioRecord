@@ -1970,14 +1970,14 @@
             "pdf_outline": "https://www.radiorecord.ru/upload/iblock/5fb/wo_outline.pdf",
             "pdf_fill": "https://www.radiorecord.ru/upload/iblock/2ad/wo_filled.pdf",
             "short_title": "Workout",
-            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/workout_image600_gray_outline.png?a=e7e2dadb091357d4f6d1ea050b9bfa3d",
-            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/workout_image600_colored_fill.png?a=e7e2dadb091357d4f6d1ea050b9bfa3d",
-            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/workout_image600_white_fill.png?a=e7e2dadb091357d4f6d1ea050b9bfa3d",
+            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/workout_image600_gray_outline.png?a=d5bbfa7e5fd5ec228aa85d61d4f71da2",
+            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/workout_image600_colored_fill.png?a=d5bbfa7e5fd5ec228aa85d61d4f71da2",
+            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/workout_image600_white_fill.png?a=d5bbfa7e5fd5ec228aa85d61d4f71da2",
             "new": false,
             "new_date": null,
-            "stream_64": "https://radiorecord.hostingradio.ru/workout64.aacp",
-            "stream_128": "https://radiorecord.hostingradio.ru/workout96.aacp",
-            "stream_320": "https://radiorecord.hostingradio.ru/workout32.aacp",
+            "stream_64": "https://radiorecord.hostingradio.ru/workout32.aacp",
+            "stream_128": "https://radiorecord.hostingradio.ru/workout64.aacp",
+            "stream_320": "https://radiorecord.hostingradio.ru/workout96.aacp",
             "stream_hls": "https://hls-01-radiorecord.hostingradio.ru/record-workout/playlist.m3u8",
             "genre": [
                 {
@@ -2008,7 +2008,7 @@
             "detail_page_url": "/station/workout",
             "shareUrl": "https://radiorecord.ru/station/workout",
             "mark": null,
-            "updated": "03.06.2024 14:58:10"
+            "updated": "17.02.2025 19:05:42"
         },
         {
             "id": 529,
@@ -4029,14 +4029,14 @@
             "pdf_outline": "https://www.radiorecord.ru/upload/iblock/8f6/reggae_outline.pdf",
             "pdf_fill": "https://www.radiorecord.ru/upload/iblock/89d/reggae_filled.pdf",
             "short_title": "Reggae",
-            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/reggae_image600_gray_outline.png?a=189b2f1bdd0403c99c3035fd2be6de01",
-            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/reggae_image600_colored_fill.png?a=189b2f1bdd0403c99c3035fd2be6de01",
-            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/reggae_image600_white_fill.png?a=189b2f1bdd0403c99c3035fd2be6de01",
+            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/reggae_image600_gray_outline.png?a=dfdd413b7b92c82485bd044564ab841d",
+            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/reggae_image600_colored_fill.png?a=dfdd413b7b92c82485bd044564ab841d",
+            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/reggae_image600_white_fill.png?a=dfdd413b7b92c82485bd044564ab841d",
             "new": false,
             "new_date": null,
-            "stream_64": "https://radiorecord.hostingradio.ru/reggae64.aacp",
-            "stream_128": "https://radiorecord.hostingradio.ru/reggae96.aacp",
-            "stream_320": "https://radiorecord.hostingradio.ru/reggae32.aacp",
+            "stream_64": "https://radiorecord.hostingradio.ru/reggae32.aacp",
+            "stream_128": "https://radiorecord.hostingradio.ru/reggae64.aacp",
+            "stream_320": "https://radiorecord.hostingradio.ru/reggae96.aacp",
             "stream_hls": "https://hls-01-radiorecord.hostingradio.ru/record-reggae/playlist.m3u8",
             "genre": [
                 {
@@ -4059,7 +4059,7 @@
             "detail_page_url": "/station/reggae",
             "shareUrl": "https://radiorecord.ru/station/reggae",
             "mark": null,
-            "updated": "03.06.2024 11:37:26"
+            "updated": "17.02.2025 19:06:08"
         },
         {
             "id": 496,

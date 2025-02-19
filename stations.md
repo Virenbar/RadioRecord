@@ -261,8 +261,8 @@ Live-сеты с одного из лучших электронных фест�
 44. [Workout](https://radiorecord.ru/station/workout)  
 Бит для спортивного тонуса  
 Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/workout64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/workout96.aacp)
+[AAC 64](https://radiorecord.hostingradio.ru/workout32.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/workout64.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-workout/playlist.m3u8)
 45. [EDM](https://radiorecord.ru/station/club)  
 Музыка стадионов.  
@@ -531,8 +531,8 @@ Future и Jackin' house: Don Diablo, Tchami, Oliver Heldens
 89. [Reggae](https://radiorecord.ru/station/reggae)  
 Танцевальный вайб с берегов Ямайки  
 Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/reggae64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/reggae96.aacp)
+[AAC 64](https://radiorecord.hostingradio.ru/reggae32.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/reggae64.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-reggae/playlist.m3u8)
 90. [Electro](https://radiorecord.ru/station/elect)  
 Лучшее в Electro-house: Wolfgang Gartner, Knife Party, Curbi  
