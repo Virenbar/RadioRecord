@@ -1,23 +1,12 @@
 import { sortBy } from 'lodash-es';
-import { list } from '../data/stations.json';
+import { list } from '~/data/stations.json';
+import { getStream } from '~/utils/stream';
 
-const ss: Station[] = [];
-
-function getStream(S: typeof list[0], quality: Quality) {
-  if (S.stream_64.includes(quality)) {
-    return S.stream_64;
-  }
-  else if (S.stream_128.includes(quality)) {
-    return S.stream_128;
-  }
-  else {
-    return S.stream_320;
-  }
-}
+const station_list: Station[] = [];
 
 list.forEach((S) => {
   const { id, prefix, title, tooltip } = S;
-  ss.push({
+  station_list.push({
     id,
     prefix,
     title,
@@ -37,15 +26,13 @@ export default function () {
   const stations = computed(() => {
     switch (sort.value) {
       case 'A-Z':
-        return sortBy(ss, S => S.title.toLowerCase());
+        return sortBy(station_list, S => S.title.toLowerCase());
       case 'new':
-        return sortBy(ss, S => S.prefix == 'record' ? 0 : -S.id);
+        return sortBy(station_list, S => S.prefix == 'record' ? 0 : -S.id);
       default:
-        return ss;
+        return station_list;
     }
   });
 
-  return {
-    stations,
-  };
+  return { stations };
 }

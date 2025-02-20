@@ -1,5 +1,6 @@
 import fs from 'fs';
 import type { Station, Stations } from '../../types/record';
+import { getStream } from '../../utils/stream';
 
 async function Update() {
   const response = await fetch('https://www.radiorecord.ru/api/stations/');
@@ -19,18 +20,6 @@ async function Update() {
   if (!fs.existsSync('playlists')) fs.mkdirSync('playlists');
   CreatePlaylist(stations, '64');
   CreatePlaylist(stations, '96');
-}
-
-function getStream(S: Station, quality: Quality) {
-  if (S.stream_64.includes(quality)) {
-    return S.stream_64;
-  }
-  else if (S.stream_128.includes(quality)) {
-    return S.stream_128;
-  }
-  else {
-    return S.stream_320;
-  }
 }
 
 function CreateMD(stations: Station[]) {
