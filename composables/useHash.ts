@@ -1,6 +1,6 @@
 export default function () {
   function getHash() {
-    return new URLSearchParams(location.hash.replace("#", "?"));
+    return new URLSearchParams(location.hash.replace('#', '?'));
   }
 
   function getParameter<K extends keyof Parameters>(key: K) {
@@ -17,7 +17,7 @@ export default function () {
 
   return {
     getParameter,
-    setParameter
+    setParameter,
   };
 }
 

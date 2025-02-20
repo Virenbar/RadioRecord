@@ -1,7 +1,7 @@
 export interface Stations {
   result: {
     tags: Tag[]
-    genre: Genre[],
+    genre: Genre[]
     stations: Station[]
   }
 }
@@ -13,9 +13,9 @@ interface Tag {
   pdf: string
 }
 
-type Genre = Omit<Tag, "svg" | "pdf">
+type Genre = Omit<Tag, 'svg' | 'pdf'>;
 
-export interface Station {
+interface Station {
   id: number
   prefix: string
   title: string
@@ -45,16 +45,16 @@ interface StationsNow {
   }
 }
 interface Track {
-  id: number;
-  artist: string;
-  song: string;
-  image100: string;
-  image200: string;
-  image600: string;
-  listenUrl: null | string;
-  itunesUrl: null | string;
-  itunesId: null | string;
-  noFav: boolean;
-  noShow: boolean;
-  shareUrl: string;
+  id: number
+  artist: string
+  song: string
+  image100: string
+  image200: string
+  image600: string
+  listenUrl: null | string
+  itunesUrl: null | string
+  itunesId: null | string
+  noFav: boolean
+  noShow: boolean
+  shareUrl: string
 }

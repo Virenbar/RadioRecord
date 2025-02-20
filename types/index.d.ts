@@ -1,5 +1,5 @@
-type Sort = "default" | "A-Z" | "new"
+type Sort = 'default' | 'A-Z' | 'new';
 
-type SortOptions = { key: Sort, value: string }[]
+type SortOptions = { key: Sort, value: string }[];
 
-type PlaylistQuality = "AAC 64" | "AAC 96"
+type Quality = '64' | '96';

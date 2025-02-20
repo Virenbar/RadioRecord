@@ -4,7 +4,7 @@ export function formatDateTime(date: Date) {
 
 export function formatDate(date: Date) {
   const year = date.getFullYear();
-  const month = formatNumber(date.getMonth() + 1);//WTF C -> Java -> JS
+  const month = formatNumber(date.getMonth() + 1);// WTF C -> Java -> JS
   const day = formatNumber(date.getDate());
   return `${year}.${month}.${day}`;
 }
@@ -17,5 +17,5 @@ export function formatTime(date: Date) {
 }
 
 function formatNumber(number: number) {
-  return `${number}`.padStart(2, "0");
+  return `${number}`.padStart(2, '0');
 }

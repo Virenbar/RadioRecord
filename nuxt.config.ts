@@ -24,6 +24,11 @@ export default defineNuxtConfig({
       date: date
     }
   },
+  eslint: {
+    config: {
+      stylistic: true
+    }
+  },
   // Silencing the deprecation warnings
   vite: {
     css: {
