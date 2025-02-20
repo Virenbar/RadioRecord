@@ -20,5 +20,5 @@
     "javascript",
     "typescript"
   ],
-  "eslint.experimental.useFlatConfig": true
+  "eslint.useFlatConfig": true
 }

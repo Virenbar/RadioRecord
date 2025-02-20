@@ -3,30 +3,32 @@ const { stations } = useData();
 const { getItem, setItem } = useLocalStorage();
 const { savePlaylist } = useSave();
 
-const checked = ref(new Set<number>);
+const checked = ref(new Set<number>());
 
 onMounted(async () => {
-  getItem("stations")?.forEach(s => checked.value.add(s));
+  getItem('stations')?.forEach(s => checked.value.add(s));
 });
 
 function changeAll(state: boolean) {
   const set = checked.value;
   if (state) {
     stations.value.forEach(s => set.add(s.id));
-  } else {
+  }
+  else {
     set.clear();
   }
-  setItem("stations", Array.from(set));
+  setItem('stations', Array.from(set));
 }
 
 function changeChecked(id: number) {
   const set = checked.value;
   if (set.has(id)) {
     set.delete(id);
-  } else {
+  }
+  else {
     set.add(id);
   }
-  setItem("stations", Array.from(set));
+  setItem('stations', Array.from(set));
 }
 </script>
 <template>
@@ -60,11 +62,13 @@ function changeChecked(id: number) {
       </div>
       <div class="card-footer text-center">
         <div class="btn-group">
-          <div class="btn btn-outline-primary active">Скачать</div>
-          <button class="btn btn-outline-primary" @click="savePlaylist('AAC 64', checked)">
+          <div class="btn btn-outline-primary active">
+            Скачать
+          </div>
+          <button class="btn btn-outline-primary" @click="savePlaylist('64', checked)">
             AAC 64
           </button>
-          <button class="btn btn-outline-primary" @click="savePlaylist('AAC 96', checked)">
+          <button class="btn btn-outline-primary" @click="savePlaylist('96', checked)">
             AAC 96
           </button>
         </div>

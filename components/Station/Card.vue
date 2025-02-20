@@ -1,6 +1,5 @@
 <!-- eslint-disable vue/no-v-html -->
 <script setup lang="ts">
-
 const props = defineProps<{ station?: Station }>();
 const S = computed(() => props.station);
 </script>
@@ -8,21 +7,21 @@ const S = computed(() => props.station);
   <div v-if="S" class="card">
     <div class="card-header d-flex flex-nowrap align-items-center">
       <h5>
-        <NuxtLink :href="S.shareUrl" target="_blank">{{ S.title }}</NuxtLink>
+        <NuxtLink :href="S.url" target="_blank">{{ S.title }}</NuxtLink>
       </h5>
       <div v-if="S.new" class="mx-1 new">
         NEW
       </div>
-      <div class="logo ms-auto" v-html="S.svg_fill" />
+      <div class="logo ms-auto" v-html="S.svg_icon" />
     </div>
     <div class="card-body">
       {{ S.tooltip }}
     </div>
     <div class="card-footer text-center">
       <div class="btn-group btn-group-sm" role="group" area-label="Links">
-        <NuxtLink class="btn btn-outline-primary" :to="S.stream_64" target="_blank">AAC 64</NuxtLink>
-        <NuxtLink class="btn btn-outline-primary" :to="S.stream_128" target="_blank">AAC 96</NuxtLink>
-        <NuxtLink class="btn btn-outline-primary" :to="S.stream_hls" target="_blank">M3U</NuxtLink>
+        <NuxtLink class="btn btn-outline-primary" :to="S.AAC64" target="_blank">AAC 64</NuxtLink>
+        <NuxtLink class="btn btn-outline-primary" :to="S.AAC96" target="_blank">AAC 96</NuxtLink>
+        <NuxtLink class="btn btn-outline-primary" :to="S.M3U" target="_blank">M3U</NuxtLink>
       </div>
     </div>
   </div>
