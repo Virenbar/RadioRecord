@@ -18,18 +18,18 @@
 [AAC 64](https://radiorecord.hostingradio.ru/sd9064.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/sd9096.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-sd90/playlist.m3u8)
-4. [Beach Party](https://radiorecord.ru/station/beach)  
-Жаркий саунд пляжной вечеринки  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/beach64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/beach96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-beach/playlist.m3u8)
-5. [Russian Hits](https://radiorecord.ru/station/russianhits)  
+4. [Russian Hits](https://radiorecord.ru/station/russianhits)  
 Русский танцевальный поп: Клава Кока, Niletto, Тима Белорусских  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/russianhits64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/russianhits96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-russianhits/playlist.m3u8)
+5. [Колбасный Цех](https://radiorecord.ru/station/pump)  
+Саунд золотой эпохи рейвов: DJ Aligator, Klubbheads, Club Caviar  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/pump64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/pump96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-pump/playlist.m3u8)
 6. [Festivals](https://radiorecord.ru/station/live-dj-sets)  
 Лучшие живые сеты от звезд электронной сцены  
 Потоки:
@@ -138,78 +138,78 @@ Mash-up из главных хитов Рекорда со скоростью 5 
 [AAC 64](https://radiorecord.hostingradio.ru/russiangold64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/russiangold96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-russiangold/playlist.m3u8)
-24. [Pirate Station](https://radiorecord.ru/station/ps)  
+24. [Beach Party](https://radiorecord.ru/station/beach)  
+Жаркий саунд пляжной вечеринки  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/beach64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/beach96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-beach/playlist.m3u8)
+25. [Pirate Station](https://radiorecord.ru/station/ps)  
 Лучшее из drum & bass: Pendulum, Chase & Status, Camo & Krooked  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/ps64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/ps96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-ps/playlist.m3u8)
-25. [Innocence](https://radiorecord.ru/station/ibiza)  
+26. [Innocence](https://radiorecord.ru/station/ibiza)  
 Techno, Minimal, Deep. Саунд как у Solomun, Boris Brejcha и Nina Kravitz  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/ibiza64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/ibiza96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-ibiza/playlist.m3u8)
-26. [Медляк FM](https://radiorecord.ru/station/mdl)  
+27. [Медляк FM](https://radiorecord.ru/station/mdl)  
 Первоапрельский спецпроект  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/mdl64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/mdl96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-mdl/playlist.m3u8)
-27. [Party 24/7](https://radiorecord.ru/station/party-24-7)  
+28. [Party 24/7](https://radiorecord.ru/station/party-24-7)  
 Вечеринка с танцевальными хитами  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/party64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/party96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-party/playlist.m3u8)
-28. [Phonk](https://radiorecord.ru/station/phonk)  
+29. [Phonk](https://radiorecord.ru/station/phonk)  
 Атмосфера дрифта и уличных гонок  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/phonk64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/phonk96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-phonk/playlist.m3u8)
-29. [Record Gold](https://radiorecord.ru/station/gold)  
+30. [Record Gold](https://radiorecord.ru/station/gold)  
 Хиты Рекорда эпохи Avicii и Swedish House Mafia  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/gold64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/gold96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-gold/playlist.m3u8)
-30. [Руки Вверх!](https://radiorecord.ru/station/rv19)  
+31. [Руки Вверх!](https://radiorecord.ru/station/rv19)  
 24 часа в сутки - только песни Руки Вверх!  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/rv64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rv96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rv/playlist.m3u8)
-31. [На Хайпе](https://radiorecord.ru/station/hype)  
+32. [На Хайпе](https://radiorecord.ru/station/hype)  
 Топ российского стриминга  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/hype64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/hype96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-hype/playlist.m3u8)
-32. [Rap Hits](https://radiorecord.ru/station/rap)  
+33. [Rap Hits](https://radiorecord.ru/station/rap)  
 Рэп новой волны из России и из-за рубежа  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/rap64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rap96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rap/playlist.m3u8)
-33. [Rap Classics](https://radiorecord.ru/station/rapclassics)  
+34. [Rap Classics](https://radiorecord.ru/station/rapclassics)  
 Хип-хоп золотого периода: 2Pac, Cypress Hill, Notorius BIG, ONYX  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/rapclassics64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rapclassics96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rapclassics/playlist.m3u8)
-34. [Trance Classics](https://radiorecord.ru/station/trancehits)  
+35. [Trance Classics](https://radiorecord.ru/station/trancehits)  
 Главные хиты trance-музыки: Above&Beyond, Armin van Buuren, Ferry Corsten  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/trancehits64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/trancehits96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-trancehits/playlist.m3u8)
-35. [Колбасный Цех](https://radiorecord.ru/station/pump)  
-Саунд золотой эпохи рейвов: DJ Aligator, Klubbheads, Club Caviar  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/pump64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/pump96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-pump/playlist.m3u8)
 36. [D'n'B Classics](https://radiorecord.ru/station/drumhits)  
 Золотые хиты drum'n'bass Aphrodite, Pendulum, Sub Focus  
 Потоки:

@@ -6,10 +6,10 @@ https://radiorecord.hostingradio.ru/rr_main64.aacp
 https://radiorecord.hostingradio.ru/rus64.aacp
 #EXTINF: -1,Супердискотека 90-х
 https://radiorecord.hostingradio.ru/sd9064.aacp
-#EXTINF: -1,Beach Party
-https://radiorecord.hostingradio.ru/beach64.aacp
 #EXTINF: -1,Russian Hits
 https://radiorecord.hostingradio.ru/russianhits64.aacp
+#EXTINF: -1,Колбасный Цех
+https://radiorecord.hostingradio.ru/pump64.aacp
 #EXTINF: -1,Festivals
 https://radiorecord.hostingradio.ru/livedjsets64.aacp
 #EXTINF: -1,Deep
@@ -46,6 +46,8 @@ https://radiorecord.hostingradio.ru/tm64.aacp
 https://radiorecord.hostingradio.ru/summerparty64.aacp
 #EXTINF: -1,Russian Gold
 https://radiorecord.hostingradio.ru/russiangold64.aacp
+#EXTINF: -1,Beach Party
+https://radiorecord.hostingradio.ru/beach64.aacp
 #EXTINF: -1,Pirate Station
 https://radiorecord.hostingradio.ru/ps64.aacp
 #EXTINF: -1,Innocence
@@ -68,8 +70,6 @@ https://radiorecord.hostingradio.ru/rap64.aacp
 https://radiorecord.hostingradio.ru/rapclassics64.aacp
 #EXTINF: -1,Trance Classics
 https://radiorecord.hostingradio.ru/trancehits64.aacp
-#EXTINF: -1,Колбасный Цех
-https://radiorecord.hostingradio.ru/pump64.aacp
 #EXTINF: -1,D'n'B Classics
 https://radiorecord.hostingradio.ru/drumhits64.aacp
 #EXTINF: -1,Armin van Buuren
