@@ -93,6 +93,44 @@
             "updated": "21.02.2024 20:58:14"
         },
         {
+            "id": 44688,
+            "prefix": "melodic",
+            "title": "Melodic Techno",
+            "tooltip": "Мелодичное техно в стиле Anyma, Argy и CamelPhat",
+            "sort": 3,
+            "bg_color": null,
+            "bg_image": "https://www.radiorecord.ru/upload/iblock/5eb/3433799.jpg",
+            "bg_image_mobile": "https://www.radiorecord.ru/upload/iblock/914/3433799.jpg",
+            "svg_outline": "<svg width=\"200\" height=\"200\" viewBox=\"0 0 200 200\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M45.7002 75.1992H75.0002L100.4 98.1992L125.8 75.1992H154.2V44.6992H45.7002V75.1992ZM76.5421 71.1992H49.7002V48.6992H150.2V71.1992H124.258L100.4 92.803L76.5421 71.1992Z\" fill=\"white\"/>\r\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M75.1 111.591L100.4 134.5L125.8 111.5V155.2H75.1V111.591ZM121.8 120.518V151.2H79.1V120.609L100.4 139.896L121.8 120.518Z\" fill=\"white\"/>\r\n<path d=\"M75.1 111.591L75 111.5H75.1V111.591Z\" fill=\"white\"/>\r\n</svg>\r\n",
+            "svg_fill": "<svg width=\"200\" height=\"200\" viewBox=\"0 0 200 200\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\r\n<path d=\"M45.7471 75.219V44.7344H154.253V75.219H125.807L100.444 98.2033L75.0688 75.219H45.7471Z\" fill=\"white\"/>\r\n<path d=\"M75.0688 155.266V111.531L100.444 134.529L125.807 111.531V155.266H75.0688Z\" fill=\"white\"/>\r\n</svg>\r\n",
+            "pdf_outline": null,
+            "pdf_fill": null,
+            "short_title": "Melodic Techno",
+            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/melodic_image600_gray_outline.png?a=5f947860c13f360503b7665f1247ce37",
+            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/melodic_image600_colored_fill.png?a=5f947860c13f360503b7665f1247ce37",
+            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/melodic_image600_white_fill.png?a=5f947860c13f360503b7665f1247ce37",
+            "new": true,
+            "new_date": "14.04.2025",
+            "stream_64": "https://radiorecord.hostingradio.ru/melodic32.aacp",
+            "stream_128": "https://radiorecord.hostingradio.ru/melodic64.aacp",
+            "stream_320": "https://radiorecord.hostingradio.ru/melodic96.aacp",
+            "stream_hls": "https://hls-01-radiorecord.hostingradio.ru/record-melodic/playlist.m3u8",
+            "genre": [
+                {
+                    "id": 285,
+                    "name": "TECHNO",
+                    "detail_picture": null,
+                    "picture": null,
+                    "svg": null,
+                    "pdf": null
+                }
+            ],
+            "detail_page_url": "/station/melodic",
+            "shareUrl": "https://radiorecord.ru/station/melodic",
+            "mark": null,
+            "updated": "14.03.2025 15:09:06"
+        },
+        {
             "id": 539,
             "prefix": "sd90",
             "title": "Супердискотека 90-х",
