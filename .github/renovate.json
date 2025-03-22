@@ -10,10 +10,8 @@
       "groupSlug": "nuxt",
       "matchPackageNames": [
         "nuxt",
-        "nuxt3"
-      ],
-      "matchPackagePatterns": [
-        "^@nuxt/"
+        "nuxt3",
+        "/^@nuxt//"
       ]
     }
   ],
