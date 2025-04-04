@@ -14,13 +14,13 @@
             "pdf_outline": "https://www.radiorecord.ru/upload/iblock/457/rr_main_outline.pdf",
             "pdf_fill": "https://www.radiorecord.ru/upload/iblock/24d/rr_main_filled.pdf",
             "short_title": "Record",
-            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/record_image600_gray_outline.png?a=6d293ddf306896f83b4b52b40791c45e",
-            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/record_image600_colored_fill.png?a=6d293ddf306896f83b4b52b40791c45e",
-            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/record_image600_white_fill.png?a=6d293ddf306896f83b4b52b40791c45e",
+            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/record_image600_gray_outline.png?a=5472547440f0ce6fa85daa049a160964",
+            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/record_image600_colored_fill.png?a=5472547440f0ce6fa85daa049a160964",
+            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/record_image600_white_fill.png?a=5472547440f0ce6fa85daa049a160964",
             "new": false,
             "new_date": null,
-            "stream_64": "https://radiorecord.hostingradio.ru/rr_main64.aacp",
-            "stream_128": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+            "stream_64": "https://radiorecord.hostingradio.ru/rr_main32.aacp",
+            "stream_128": "https://radiorecord.hostingradio.ru/rr_main64.aacp",
             "stream_320": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
             "stream_hls": "https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8",
             "genre": [
@@ -44,7 +44,7 @@
             "detail_page_url": "/station/record",
             "shareUrl": "https://radiorecord.ru/station/record",
             "mark": null,
-            "updated": "09.11.2022 07:48:12"
+            "updated": "01.04.2025 21:48:29"
         },
         {
             "id": 537,
@@ -663,13 +663,13 @@
             "pdf_outline": "https://www.radiorecord.ru/upload/iblock/779/gop_outline.pdf",
             "pdf_fill": "https://www.radiorecord.ru/upload/iblock/e29/gop_filled.pdf",
             "short_title": "Гоп FM",
-            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/gop_image600_gray_outline.png?a=a9252da7c15ec33208797a03e50dcfed",
-            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/gop_image600_colored_fill.png?a=a9252da7c15ec33208797a03e50dcfed",
-            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/gop_image600_white_fill.png?a=a9252da7c15ec33208797a03e50dcfed",
+            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/gop_image600_gray_outline.png?a=49f701f15e42cf13f79801eff2983a1f",
+            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/gop_image600_colored_fill.png?a=49f701f15e42cf13f79801eff2983a1f",
+            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/gop_image600_white_fill.png?a=49f701f15e42cf13f79801eff2983a1f",
             "new": false,
             "new_date": null,
-            "stream_64": "https://radiorecord.hostingradio.ru/gop64.aacp",
-            "stream_128": "https://radiorecord.hostingradio.ru/gop96.aacp",
+            "stream_64": "https://radiorecord.hostingradio.ru/gop32.aacp",
+            "stream_128": "https://radiorecord.hostingradio.ru/gop64.aacp",
             "stream_320": "https://radiorecord.hostingradio.ru/gop96.aacp",
             "stream_hls": "https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8",
             "genre": [
@@ -701,7 +701,7 @@
             "detail_page_url": "/station/gop",
             "shareUrl": "https://radiorecord.ru/station/gop",
             "mark": null,
-            "updated": "03.06.2024 15:14:49"
+            "updated": "01.04.2025 21:48:23"
         },
         {
             "id": 501,
