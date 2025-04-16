@@ -12,7 +12,7 @@
 [AAC 64](https://radiorecord.hostingradio.ru/rus64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rus96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rus/playlist.m3u8)
-3. [Melodic Techno](https://radiorecord.ru/station/melodic) (NEW)  
+3. [Melodic Techno](https://radiorecord.ru/station/melodic)  
 Мелодичное техно в стиле Anyma, Argy и CamelPhat  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/melodic64.aacp)
