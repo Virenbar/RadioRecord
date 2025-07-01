@@ -1,10 +1,11 @@
 {
   "recommendations": [
     "dbaeumer.vscode-eslint",
-    "naumovs.color-highlight",
-    "zignd.html-css-class-completion",
     "ecmel.vscode-html-css",
+    "hossaini.bootstrap-intellisense",
+    "naumovs.color-highlight",
     "stylelint.vscode-stylelint",
-    "Vue.volar"
+    "Vue.volar",
+    "zignd.html-css-class-completion",
   ]
 }
