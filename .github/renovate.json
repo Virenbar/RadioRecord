@@ -18,5 +18,8 @@
       ]
     }
   ],
+  "ignoreDeps": [
+    "node"
+  ],
   "assigneesFromCodeOwners": true
 }
