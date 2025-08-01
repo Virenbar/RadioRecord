@@ -2704,13 +2704,13 @@
             "pdf_outline": "https://www.radiorecord.ru/upload/iblock/d56/dream_outline.pdf",
             "pdf_fill": "https://www.radiorecord.ru/upload/iblock/ca6/dream_filled.pdf",
             "short_title": "Dream Dance",
-            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/dream_image600_gray_outline.png?a=0e010adc4219d1a265c19efd402f529b",
-            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/dream_image600_colored_fill.png?a=0e010adc4219d1a265c19efd402f529b",
-            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/dream_image600_white_fill.png?a=0e010adc4219d1a265c19efd402f529b",
+            "icon_gray": "https://www.radiorecord.ru/upload/stations_images/dream_image600_gray_outline.png?a=a03304ae591d8c1a29ed6771f2bfcaee",
+            "icon_fill_colored": "https://www.radiorecord.ru/upload/stations_images/dream_image600_colored_fill.png?a=a03304ae591d8c1a29ed6771f2bfcaee",
+            "icon_fill_white": "https://www.radiorecord.ru/upload/stations_images/dream_image600_white_fill.png?a=a03304ae591d8c1a29ed6771f2bfcaee",
             "new": false,
             "new_date": null,
-            "stream_64": "https://radiorecord.hostingradio.ru/dream64.aacp",
-            "stream_128": "https://radiorecord.hostingradio.ru/dream96.aacp",
+            "stream_64": "https://radiorecord.hostingradio.ru/dream32.aacp",
+            "stream_128": "https://radiorecord.hostingradio.ru/dream64.aacp",
             "stream_320": "https://radiorecord.hostingradio.ru/dream96.aacp",
             "stream_hls": "https://hls-01-radiorecord.hostingradio.ru/record-dream/playlist.m3u8",
             "genre": [
@@ -2734,7 +2734,7 @@
             "detail_page_url": "/station/dream",
             "shareUrl": "https://radiorecord.ru/station/dream",
             "mark": null,
-            "updated": "03.06.2024 11:48:34"
+            "updated": "31.07.2025 10:35:59"
         },
         {
             "id": 507,
