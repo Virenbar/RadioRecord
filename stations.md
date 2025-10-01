@@ -12,7 +12,7 @@
 [AAC 64](https://radiorecord.hostingradio.ru/rus64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/rus96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-rus/playlist.m3u8)
-3. [Хиты всех времен](https://radiorecord.ru/station/khity-vsekh-vremen) (NEW)  
+3. [Хиты всех времен](https://radiorecord.ru/station/khity-vsekh-vremen)  
 Танцевальные боевики 3 десятилетий  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/alltimers64.aacp)
