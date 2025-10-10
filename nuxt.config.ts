@@ -1,34 +1,28 @@
 import { execSync } from 'child_process';
 
 const exec = (command: string) => execSync(command).toString().trim();
+const repository = 'https://github.com/Virenbar/RadioRecord';
 const branch = exec('git branch --show-current') || process.env.HEAD;
 const hash = exec('git rev-parse HEAD') || process.env.COMMIT_REF;
 const date = new Date().toISOString();
 
 export default defineNuxtConfig({
   modules: [
+    '@artmizu/yandex-metrika-nuxt',
     '@nuxt/eslint',
     'nuxt-gtag',
-    '@artmizu/yandex-metrika-nuxt',
   ],
-  css: [
-    '@/assets/css/styles.scss',
-  ],
+  css: ['@/assets/css/styles.scss'],
   runtimeConfig: {
-    public: {
-      repository: 'https://github.com/Virenbar/RadioRecord',
-      branch: branch,
-      hash: hash,
-      date: date,
-    },
+    public: { repository, branch, hash, date },
   },
-  compatibilityDate: '2025-02-03',
+  compatibilityDate: '2025-10-10',
   // Silencing the deprecation warnings
   vite: {
     css: {
       preprocessorOptions: {
         scss: {
-          silenceDeprecations: ['mixed-decls', 'color-functions', 'global-builtin', 'import'],
+          silenceDeprecations: ['color-functions', 'global-builtin', 'import'],
         },
       },
     },

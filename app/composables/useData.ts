@@ -1,5 +1,5 @@
 import { sortBy } from 'lodash-es';
-import { list } from '~/data/stations.json';
+import { list } from '~/../data/stations.json';
 import { getStream } from '~/utils/stream';
 
 const station_list: Station[] = [];
