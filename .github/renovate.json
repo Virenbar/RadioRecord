@@ -16,6 +16,10 @@
         "nuxt3",
         "/^@nuxt//"
       ]
+    },
+    {
+      "groupName": "actions",
+      "matchManagers": ["github-actions"]
     }
   ],
   "ignoreDeps": [
