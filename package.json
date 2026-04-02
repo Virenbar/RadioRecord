@@ -1,6 +1,6 @@
 {
   "name": "virenbar.radio-record",
-  "version": "3.3.0",
+  "version": "3.4.0",
   "description": "Auto-updatable website with links to radio Record stations",
   "author": "Virenbar",
   "license": "MIT",
@@ -34,8 +34,8 @@
     "sass-loader": "^16.0.7",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3",
-    "vue": "latest",
-    "vue-router": "latest"
+    "vue": "^3.5.31",
+    "vue-router": "^5.0.4"
   },
   "type": "module",
   "private": true,
