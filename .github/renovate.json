@@ -1,29 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:recommended",
-    "group:allNonMajor",
-    ":semanticCommitTypeAll(chore)",
-    "schedule:quarterly"
-  ],
-  "rangeStrategy": "bump",
-  "packageRules": [
-    {
-      "groupName": "nuxt framework",
-      "groupSlug": "nuxt",
-      "matchPackageNames": [
-        "nuxt",
-        "nuxt3",
-        "/^@nuxt//"
-      ]
-    },
-    {
-      "groupName": "actions",
-      "matchManagers": ["github-actions"]
-    }
-  ],
-  "ignoreDeps": [
-    "node"
-  ],
-  "assigneesFromCodeOwners": true
+    "github>Virenbar/renovate-config:nuxt.json"
+  ]
 }
