@@ -28,7 +28,7 @@
     "@types/lodash-es": "^4.17.12",
     "@types/node": "^24.19.2",
     "eslint": "^10.14.0",
-    "nuxt": "^4.5.2",
+    "nuxt": "^4.6.3",
     "nuxt-gtag": "^5.0.0",
     "sass": "^1.107.0",
     "sass-loader": "^17.1.0",
