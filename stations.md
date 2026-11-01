@@ -132,18 +132,18 @@ Mash-up из главных хитов Рекорда со скоростью 5 
 [AAC 64](https://radiorecord.hostingradio.ru/mf64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/mf96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-mf/playlist.m3u8)
-23. [Trancemission](https://radiorecord.ru/station/tm)  
-Лучшее из транс-музыки: Armin, Above & Beyond, Christina Novelli  
-Потоки:
-[AAC 64](https://radiorecord.hostingradio.ru/tm64.aacp)
-[AAC 96](https://radiorecord.hostingradio.ru/tm96.aacp)
-[M3U](https://hls-01-radiorecord.hostingradio.ru/record-tm/playlist.m3u8)
-24. [Summer Dance](https://radiorecord.ru/station/summer-dance)  
+23. [Summer Dance](https://radiorecord.ru/station/summer-dance)  
 Летние танцевальные хиты 24/7  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/summerparty64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/summerparty96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-summerparty/playlist.m3u8)
+24. [Trancemission](https://radiorecord.ru/station/tm)  
+Лучшее из транс-музыки: Armin, Above & Beyond, Christina Novelli  
+Потоки:
+[AAC 64](https://radiorecord.hostingradio.ru/tm64.aacp)
+[AAC 96](https://radiorecord.hostingradio.ru/tm96.aacp)
+[M3U](https://hls-01-radiorecord.hostingradio.ru/record-tm/playlist.m3u8)
 25. [Russian Gold](https://radiorecord.ru/station/russiangold)  
 Российские хиты в ремиксах  
 Потоки:
