@@ -91,7 +91,7 @@ Mash-up из главных хитов Рекорда со скоростью 5 
 [AAC 96](https://radiorecord.hostingradio.ru/gop96.aacp)
 [M3U](https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8)
 16. [Big Hits](https://radiorecord.ru/station/bighits)  
-Зарубежные танцевальные хиты: Dua Lipa, Ave Max, Sia  
+Зарубежные танцевальные хиты: Dua Lipa, Ava Max, Sia  
 Потоки:
 [AAC 64](https://radiorecord.hostingradio.ru/bighits64.aacp)
 [AAC 96](https://radiorecord.hostingradio.ru/bighits96.aacp)
